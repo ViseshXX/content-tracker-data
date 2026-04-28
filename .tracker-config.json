@@ -1,9 +1,9 @@
 {
   "config_version": 1,
   "input_paths": {
-    "content_dir": "/home/ttpl-rt-150/Desktop/Ekstep/April 25th/Content Baseline/content",
-    "collection_file": "/home/ttpl-rt-150/Desktop/Ekstep/April 25th/Content Baseline/collection.csv",
-    "multilingual_file": "/home/ttpl-rt-150/Desktop/Ekstep/April 25th/Content Baseline/multilingual.csv"
+    "content_dir": "/tmp/v305-content",
+    "collection_file": "/home/ttpl-rt-150/Desktop/Ekstep/April 25th/Content Latest UAT v3.0.5/Collection.csv",
+    "multilingual_file": "/home/ttpl-rt-150/Desktop/Ekstep/April 25th/Content Latest UAT v3.0.5/Multilingual.csv"
   },
   "safety": {
     "deletion_threshold_percent": 10,
@@ -11,7 +11,7 @@
   },
   "collections": {
     "content": {
-      "file_pattern": "content/{language}/content.ndjson",
+      "file_pattern": "data/content/{language}/content.ndjson",
       "identity_field": "_id",
       "language_partitioned": true,
       "ignore_for_diff": [
@@ -51,7 +51,7 @@
       }
     },
     "collection": {
-      "file_pattern": "collection/collection.ndjson",
+      "file_pattern": "data/collection/collection.ndjson",
       "identity_field": "_id",
       "language_partitioned": false,
       "ignore_for_diff": [
@@ -98,7 +98,7 @@
       }
     },
     "multilingual": {
-      "file_pattern": "multilingual/multilingual.ndjson",
+      "file_pattern": "data/multilingual/multilingual.ndjson",
       "identity_field": "_id",
       "language_partitioned": false,
       "ignore_for_diff": [

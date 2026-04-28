@@ -10,21 +10,22 @@ For instructions on running the weekly sync, see the
 ## Repo layout
 
 ```
-content/
-    en/content.ndjson       English content records
-    hi/content.ndjson       Hindi
-    kn/content.ndjson       Kannada
-    gu/content.ndjson       Gujarati
-    ta/content.ndjson       Tamil
-    te/content.ndjson       Telugu
-    or/content.ndjson       Odia
-collection/
-    collection.ndjson       Collection records
-multilingual/
-    multilingual.ndjson     Multilingual records
-reports/                    Human-readable change summary per sync
-CHANGELOG.md                Every sync listed, most recent first
-.tracker-config.json        Input paths + safety settings (edit before each sync)
+data/
+    content/
+        en/content.ndjson       English content records
+        hi/content.ndjson       Hindi
+        kn/content.ndjson       Kannada
+        gu/content.ndjson       Gujarati
+        ta/content.ndjson       Tamil
+        te/content.ndjson       Telugu
+        or/content.ndjson       Odia
+    collection/
+        collection.ndjson       Collection records
+    multilingual/
+        multilingual.ndjson     Multilingual records
+reports/                        Human-readable change summary per sync
+CHANGELOG.md                    Every sync listed, most recent first
+.tracker-config.json            Input paths + safety settings (edit before each sync)
 ```
 
 ---
