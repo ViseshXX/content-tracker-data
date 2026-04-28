@@ -1,6 +1,6 @@
 # Content Audit Trail
 
-**Last sync:** 2026-04-28 10:44 UTC — content/hi (+264 ~1159 −146) — [report](reports/content/2026-04-28-hi.md)
+**Last sync:** 2026-04-28 10:44 UTC — content/kn (+684 ~949 −878) — [report](reports/content/2026-04-28-kn.md)
 
 Versioned mirror of three Mongo collections: **content**, **collection**, **multilingual**.
 
