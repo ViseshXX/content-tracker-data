@@ -1,9 +1,9 @@
 {
   "config_version": 1,
   "input_paths": {
-    "content_dir": "/tmp/v305-content",
-    "collection_file": "/home/ttpl-rt-150/Desktop/Ekstep/April 25th/Content Latest UAT v3.0.5/Collection.csv",
-    "multilingual_file": "/home/ttpl-rt-150/Desktop/Ekstep/April 25th/Content Latest UAT v3.0.5/Multilingual.csv"
+    "content_dir": "/path/to/your/csv-downloads/content",
+    "collection_file": "/path/to/your/csv-downloads/Collection.csv",
+    "multilingual_file": "/path/to/your/csv-downloads/Multilingual.csv"
   },
   "safety": {
     "deletion_threshold_percent": 10,
