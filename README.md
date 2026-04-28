@@ -1,5 +1,7 @@
 # Content Audit Trail
 
+**Last sync:** 2026-04-28 10:44 UTC — content/en (+937 ~660 −101) — [report](reports/content/2026-04-28-en.md)
+
 Versioned mirror of three Mongo collections: **content**, **collection**, **multilingual**.
 
 For instructions on running the weekly sync, see the
