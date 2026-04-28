@@ -1,48 +1,13 @@
 # Content Audit Trail
 
-Versioned mirror of three Mongo collections: **content**, **collection**, **multilingual**.
+This repository tracks changes to the content, collection, and multilingual databases over time.
 
-**Last baseline:** 2026-04-26 (tag: `baseline-2026-04-26`)
-**Last sync:** 2026-04-28 — content (en +937 ~660 −101), (gu ~462), (hi +264 ~1159 −146), (kn +684 ~949 −878), (or ~885 −1), (ta ~20), (te +915 ~170 −8052) · collection +68 ~277 −1 · multilingual ~589
-
----
-
-## Repo layout
-
-```
-data/
-    content/
-        en/content.ndjson       English content records
-        hi/content.ndjson       Hindi
-        kn/content.ndjson       Kannada
-        gu/content.ndjson       Gujarati
-        ta/content.ndjson       Tamil
-        te/content.ndjson       Telugu
-        or/content.ndjson       Odia
-    collection/
-        collection.ndjson       Collection records
-    multilingual/
-        multilingual.ndjson     Multilingual records
-reports/                        Human-readable change summary per sync
-CHANGELOG.md                    Every sync listed, most recent first
-tracker-config.example.json     Config template (copy to .tracker-config.json and update paths)
-```
+Every time the database is synced, a new commit is recorded here showing exactly what was added, modified, or deleted — down to the individual field level.
 
 ---
 
-## How to read the history
+## How to browse changes
 
-- **CHANGELOG.md** — quick list of every sync with record counts
-- **reports/** — full added/modified/deleted breakdown per sync, grouped by language
-- **Git log** — each commit is one collection's worth of changes; use
-  `git log --oneline` to browse or `git show <hash>` to see a diff
-
----
-
-## Collections tracked
-
-| Collection | Records | Languages |
-|-----------|--------:|----------|
-| content | ~56,000 | en, gu, hi, kn, or, ta, te |
-| collection | ~997 | — |
-| multilingual | ~589 | — |
+- **[CHANGELOG.md](CHANGELOG.md)** — every sync listed by date, most recent first
+- **[reports/](reports/)** — detailed breakdown per sync: which records changed and what fields were affected
+- **Git history** — each commit represents one collection's sync; use the commit list to navigate by date
