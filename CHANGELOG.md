@@ -6,7 +6,7 @@ Every sync to this repository, most recent first.
 
 
 ## 2026-04-28
-- multilingual sync — +0 added, ~589 modified, −0 deleted ([report](reports/multilingual/2026-04-28.md)) — commit [PENDING](../../commit/PENDING)
+- multilingual sync — +0 added, ~589 modified, −0 deleted ([report](reports/multilingual/2026-04-28.md)) — commit [7bc169c](../../commit/7bc169c7d139de633acb17010f1dca3d23514c00)
 - collection sync — +68 added, ~277 modified, −1 deleted ([report](reports/collection/2026-04-28.md)) — commit [983662a](../../commit/983662a5481f3cac3ac4b95e04946ac9f932bc09)
 - content/te sync — +915 added, ~170 modified, −8052 deleted ([report](reports/content/2026-04-28-te.md)) — commit [395c75a](../../commit/395c75a12e73befed1e54925529191e00414f3d3)
 - content/ta sync — +0 added, ~20 modified, −0 deleted ([report](reports/content/2026-04-28-ta.md)) — commit [661d0f8](../../commit/661d0f893a328ba5928ef30e5cf5e766b08e75dd)
