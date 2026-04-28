@@ -6,6 +6,7 @@ Every sync to this repository, most recent first.
 
 
 ## 2026-04-28
+- content/te sync — +915 added, ~170 modified, −8052 deleted ([report](reports/content/2026-04-28-te.md)) — commit [PENDING](../../commit/PENDING)
 - content/ta sync — +0 added, ~20 modified, −0 deleted ([report](reports/content/2026-04-28-ta.md)) — commit [661d0f8](../../commit/661d0f893a328ba5928ef30e5cf5e766b08e75dd)
 - content/or sync — +0 added, ~885 modified, −1 deleted ([report](reports/content/2026-04-28-or.md)) — commit [5383f31](../../commit/5383f31b8d7bb89e6ed9006ee770be65e1dd4ee3)
 - content/kn sync — +684 added, ~949 modified, −878 deleted ([report](reports/content/2026-04-28-kn.md)) — commit [7f4a191](../../commit/7f4a191c34597236b8ef1093027ce28100cb13df)
