@@ -1,13 +1,41 @@
-# Content Audit Trail
+# Content Database
 
-This repository tracks changes to the content, collection, and multilingual databases over time.
-
-Every time the database is synced, a new commit is recorded here showing exactly what was added, modified, or deleted — down to the individual field level.
+This repository holds the current state of the content, collection, and multilingual records, and a report for every sync that shows exactly what changed.
 
 ---
 
-## How to browse changes
+## What's in here
 
-- **[CHANGELOG.md](CHANGELOG.md)** — every sync listed by date, most recent first
-- **[reports/](reports/)** — detailed breakdown per sync: which records changed and what fields were affected
-- **Git history** — each commit represents one collection's sync; use the commit list to navigate by date
+| Folder | What it contains |
+|---|---|
+| `data/content/<language>/` | All content records for that language, one file per language |
+| `data/collection/` | All collection records |
+| `data/multilingual/` | Multilingual translation records |
+| `reports/` | Excel reports — one file per sync, per language |
+
+---
+
+## How to see what changed
+
+Open the `reports/` folder and find the date of the sync you want to review.
+
+Each Excel report has four sheets:
+
+- **Summary** — counts of what was added, changed, and removed
+- **Added** — full details of every new record
+- **Modified** — every field that changed, with the before and after value
+- **Deleted** — full details of every removed record
+
+---
+
+## Languages
+
+| Code | Language |
+|---|---|
+| `en` | English |
+| `hi` | Hindi |
+| `ta` | Tamil |
+| `kn` | Kannada |
+| `gu` | Gujarati |
+| `te` | Telugu |
+| `or` | Odia |

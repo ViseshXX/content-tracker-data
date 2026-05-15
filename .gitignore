@@ -4,3 +4,4 @@ __pycache__/
 .DS_Store
 _local/
 .tracker-config.json
+data/data_quality_warnings.csv
