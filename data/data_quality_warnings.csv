@@ -1,0 +1,13 @@
+﻿sync_date,domain,_id,language,warning_type,details
+2026-05-15,content,6788f1cdcf2cd10dcbf5a0f1,od,anomalous_language,language 'od' skipped (not in supported set)
+2026-05-15,content,6789fef0cf2cd10dcbf5a0f8,od,anomalous_language,language 'od' skipped (not in supported set)
+2026-05-15,content,67ee368349ea5b0e5b714df0,en,mechanics_truncated,"mechanics truncated: had 5 mechanics, kept first 3"
+2026-05-15,content,67ee36839ddd8cfb0f503fdf,en,mechanics_truncated,"mechanics truncated: had 5 mechanics, kept first 3"
+2026-05-15,content,67ee36839ddd8cfb0f503fe1,en,mechanics_truncated,"mechanics truncated: had 5 mechanics, kept first 3"
+2026-05-15,content,67ee368449ea5b0e5b714df2,en,mechanics_truncated,"mechanics truncated: had 5 mechanics, kept first 3"
+2026-05-15,content,684325a8b4b3687c23acba92,gg,anomalous_language,language 'gg' skipped (not in supported set)
+2026-05-15,content,6895f864a259073eb312be91,en,mechanics_truncated,"mechanics truncated: had 5 mechanics, kept first 3"
+2026-05-15,content,6895f864a259073eb312be92,en,mechanics_truncated,"mechanics truncated: had 5 mechanics, kept first 3"
+2026-05-15,content,6895f864a259073eb312be93,en,mechanics_truncated,"mechanics truncated: had 5 mechanics, kept first 3"
+2026-05-15,content,6895f864a259073eb312be95,en,mechanics_truncated,"mechanics truncated: had 5 mechanics, kept first 3"
+2026-05-15,content,690b13c42457ac97c336ce13,gg,anomalous_language,language 'gg' skipped (not in supported set)
