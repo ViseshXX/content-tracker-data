@@ -1,161 +1,160 @@
 ﻿_id,collectionId,name,description,category,author,language,status,tags,categories,content_tags,level_complexity,publisher,title,synopsis,type_of_learner,reading_level,paragraphCount,imagePath,createdAt
-65717aea18da2cbda941cee2,94312c93-5bb8-4144-8822-9a61ad1cd5a8,எழுத்துக்கள்,ASAR Set எழுத்துக்கள்,Char,ASER,ta,live,ASER|set1|m1,,,,,,,,,,,2023-12-18T10:53:49.787Z
-65717aea18da2cbda941cee6,8ed16b35-255e-4c49-9f5d-0c8dabc58aa1,tn_gr2_tam_t1_ch5a,tn_gr2_tam_t1_ch5a chapter in tamil,story,EkStep,ta,live,,,,,,,,,,,,2023-12-07T07:48:43.68Z
-65717aea18da2cbda941cee8,cb60e0a6-04d6-434e-973c-830629c618f0,tn_gr5_tam_t2_ch1d,tn_gr5_tam_t2_ch1d chapter in tamil,story,EkStep,ta,live,,,,,,,,,,,,2023-12-07T07:48:43.68Z
-65717aeb18da2cbda941ceea,d1026621-fd87-44f7-b07f-cb585c934817,tn_gr1_tam_t1_ch3e,tn_gr1_tam_t1_ch3e chapter in tamil,story,EkStep,ta,live,,,,,,,,,,,,2023-12-07T07:48:43.68Z
-65717aeb18da2cbda941ceec,514b7c9d-593a-4d75-aed7-928f4e90e29c,tn_gr1_tam_t2_ch3a,tn_gr1_tam_t2_ch3a chapter in tamil,story,EkStep,ta,live,,,,,,,,,,,,2023-12-07T07:48:43.68Z
-65717aeb18da2cbda941ceee,acacff19-944c-453a-ac19-8ce5cee34f67,tn_gr2_tam_t2_ch2a,tn_gr2_tam_t2_ch2a chapter in tamil,story,EkStep,ta,live,,,,,,,,,,,,2023-12-07T07:48:43.68Z
-65717aeb18da2cbda941cef0,4741a75e-3fd6-40d3-91b8-3aa8df9d337b,tn_gr1_tam_t1_ch4a,tn_gr1_tam_t1_ch4a chapter in tamil,story,EkStep,ta,live,,,,,,,,,,,,2023-12-07T07:48:43.68Z
-65717aeb18da2cbda941cef2,4b328a6f-cbb6-4a80-888f-e43358deff77,tn_gr1_tam_t1_ch3j,tn_gr1_tam_t1_ch3j chapter in tamil,story,EkStep,ta,live,,,,,,,,,,,,2023-12-07T07:48:43.68Z
-65717aec18da2cbda941cef4,18fcffa0-89ee-4085-8a8e-50b9bb013420,tn_gr2_tam_t2_ch6b,tn_gr2_tam_t2_ch6b chapter in tamil,story,EkStep,ta,live,,,,,,,,,,,,2023-12-07T07:48:43.68Z
-65717aec18da2cbda941cef6,f176db79-4a85-4c01-9951-f231fa81a75b,tn_gr1_tam_t1_ch3g,tn_gr1_tam_t1_ch3g chapter in tamil,story,EkStep,ta,live,,,,,,,,,,,,2023-12-07T07:48:43.68Z
-65717aec18da2cbda941cef8,92245ec1-02d8-4597-86f8-36061c83b176,tn_gr1_tam_t2_ch1b,tn_gr1_tam_t2_ch1b chapter in tamil,story,EkStep,ta,live,,,,,,,,,,,,2023-12-07T07:48:43.68Z
-65717aec18da2cbda941cefa,05a98a6e-522f-4772-90f4-78557c317fcb,tn_gr2_tam_t2_ch4a,tn_gr2_tam_t2_ch4a chapter in tamil,story,EkStep,ta,live,,,,,,,,,,,,2023-12-07T07:48:43.68Z
-65717aec18da2cbda941cefc,0e58feb3-568a-4be8-897f-b4ea6b732095,tn_gr2_tam_t3_ch1c,tn_gr2_tam_t3_ch1c chapter in tamil,story,EkStep,ta,live,,,,,,,,,,,,2023-12-07T07:48:43.68Z
-65717aed18da2cbda941cefe,2781f5b9-6e6c-44dc-af19-5584fc1d368f,tn_gr4_tam_t1_ch7a,tn_gr4_tam_t1_ch7a chapter in tamil,story,EkStep,ta,live,,,,,,,,,,,,2023-12-07T07:48:43.68Z
-65717aed18da2cbda941cf00,35cb8d4e-e824-40c6-b170-2a22e4dcb0bc,tn_gr2_tam_t2_ch1b,tn_gr2_tam_t2_ch1b chapter in tamil,story,EkStep,ta,live,,,,,,,,,,,,2023-12-07T07:48:43.68Z
-65717aed18da2cbda941cf02,ad98960e-2f27-4b63-a399-aef638280ef0,tn_gr2_tam_t2_ch6d,tn_gr2_tam_t2_ch6d chapter in tamil,story,EkStep,ta,live,,,,,,,,,,,,2023-12-07T07:48:43.68Z
-65717aed18da2cbda941cf04,8b3a25f4-2c43-40a3-853c-a526993d00fa,tn_gr4_tam_t1_ch5b,tn_gr4_tam_t1_ch5b chapter in tamil,story,EkStep,ta,live,,,,,,,,,,,,2023-12-07T07:48:43.68Z
-65717aed18da2cbda941cf06,c0f87637-ccd0-4947-9ac2-b01a72d7e343,tn_gr5_tam_t1_ch2c,tn_gr5_tam_t1_ch2c chapter in tamil,story,EkStep,ta,live,,,,,,,,,,,,2023-12-07T07:48:43.68Z
-65717aed18da2cbda941cf08,91d5c671-81e1-409b-bccf-1165c035b62f,tn_gr3_tam_t3_ch4a,tn_gr3_tam_t3_ch4a chapter in tamil,story,EkStep,ta,live,,,,,,,,,,,,2023-12-07T07:48:43.68Z
-65717aee18da2cbda941cf0a,18b175b4-facb-443e-a6b8-4b8b268b3e97,tn_gr2_tam_t1_ch1b,tn_gr2_tam_t1_ch1b chapter in tamil,story,EkStep,ta,live,,,,,,,,,,,,2023-12-07T07:48:43.68Z
-65717aee18da2cbda941cf0c,a4ec3e1f-8bf5-45d1-a7e6-f3365284b02f,tn_gr1_tam_t2_ch4a,tn_gr1_tam_t2_ch4a chapter in tamil,story,EkStep,ta,live,,,,,,,,,,,,2023-12-07T07:48:43.68Z
-65717aee18da2cbda941cf0e,d751f5e7-2664-472d-9359-619f26b2ab0f,tn_gr1_tam_t1_ch3l,tn_gr1_tam_t1_ch3l chapter in tamil,story,EkStep,ta,live,,,,,,,,,,,,2023-12-07T07:48:43.68Z
-65717aee18da2cbda941cf10,42db855f-5b93-4d7f-8c20-85f7f095f009,tn_gr2_tam_t3_ch5a,tn_gr2_tam_t3_ch5a chapter in tamil,story,EkStep,ta,live,,,,,,,,,,,,2023-12-07T07:48:43.68Z
-65717aee18da2cbda941cf12,c78187d8-f4d0-415f-b03f-881c5328a833,tn_gr4_tam_t1_ch2a,tn_gr4_tam_t1_ch2a chapter in tamil,story,EkStep,ta,live,,,,,,,,,,,,2023-12-07T07:48:43.68Z
-65717aef18da2cbda941cf14,d1443d74-2b5c-4dca-869f-d343558128c0,tn_gr4_tam_t1_ch9a,tn_gr4_tam_t1_ch9a chapter in tamil,story,EkStep,ta,live,,,,,,,,,,,,2023-12-07T07:48:43.68Z
-65717aef18da2cbda941cf16,4a1d8943-f13d-4cff-a478-4733b7880052,tn_gr3_tam_t3_ch8b,tn_gr3_tam_t3_ch8b chapter in tamil,story,EkStep,ta,live,,,,,,,,,,,,2023-12-07T07:48:43.68Z
-65717aef18da2cbda941cf18,a8a09f88-c99e-4a07-92b8-926d0a805c92,tn_gr2_tam_t2_ch6c,tn_gr2_tam_t2_ch6c chapter in tamil,story,EkStep,ta,live,,,,,,,,,,,,2023-12-07T07:48:43.68Z
-65717aef18da2cbda941cf1a,890f4df4-3eb9-42a2-9727-8bce616b9854,tn_gr5_tam_t1_ch2a,tn_gr5_tam_t1_ch2a chapter in tamil,story,EkStep,ta,live,,,,,,,,,,,,2023-12-07T07:48:43.68Z
-65717aef18da2cbda941cf1c,c4f8d224-70f7-44a1-8e59-22c409643174,tn_gr2_tam_t1_ch9e,tn_gr2_tam_t1_ch9e chapter in tamil,story,EkStep,ta,live,,,,,,,,,,,,2023-12-07T07:48:43.68Z
-65717aef18da2cbda941cf1e,824a89b5-cc20-4e5f-900a-5c57b9ea8331,tn_gr3_tam_t3_ch3b,tn_gr3_tam_t3_ch3b chapter in tamil,story,EkStep,ta,live,,,,,,,,,,,,2023-12-07T07:48:43.68Z
-65717af018da2cbda941cf20,0f86433e-5d67-4964-bc2a-a0c27d1436bc,tn_gr1_tam_t2_ch1c,tn_gr1_tam_t2_ch1c chapter in tamil,story,EkStep,ta,live,,,,,,,,,,,,2023-12-07T07:48:43.68Z
-65717af018da2cbda941cf22,6ee9464a-ea05-4bb6-b656-5fc65be50613,tn_gr2_tam_t2_ch3a,tn_gr2_tam_t2_ch3a chapter in tamil,story,EkStep,ta,live,,,,,,,,,,,,2023-12-07T07:48:43.68Z
-65717af018da2cbda941cf24,3b417833-099e-4575-a033-49f8744afc0b,tn_gr1_tam_t2_ch3d,tn_gr1_tam_t2_ch3d chapter in tamil,story,EkStep,ta,live,,,,,,,,,,,,2023-12-07T07:48:43.68Z
-65717af018da2cbda941cf26,11d2d386-b20b-4d4c-8783-beac738ca133,tn_gr4_tam_t1_ch3a,tn_gr4_tam_t1_ch3a chapter in tamil,story,EkStep,ta,live,,,,,,,,,,,,2023-12-07T07:48:43.68Z
-65717af118da2cbda941cf28,12dc8258-a5ad-4afd-ab7e-817973be5337,tn_gr5_tam_t1_ch3d,tn_gr5_tam_t1_ch3d chapter in tamil,story,EkStep,ta,live,,,,,,,,,,,,2023-12-07T07:48:43.68Z
-65717af118da2cbda941cf2a,cf2e9b59-b21e-4598-8c9d-bb7e186d91b0,tn_gr2_tam_t1_ch3b,tn_gr2_tam_t1_ch3b chapter in tamil,story,EkStep,ta,live,,,,,,,,,,,,2023-12-07T07:48:43.68Z
-65717af118da2cbda941cf2c,e735a0be-6108-4161-9c7a-e6522c67b536,tn_gr2_tam_t2_ch6e,tn_gr2_tam_t2_ch6e chapter in tamil,story,EkStep,ta,live,,,,,,,,,,,,2023-12-07T07:48:43.68Z
-65717af118da2cbda941cf2e,723500a8-ce60-446c-a1bd-bc1f59b0afec,tn_gr2_tam_t1_ch3a,tn_gr2_tam_t1_ch3a chapter in tamil,story,EkStep,ta,live,,,,,,,,,,,,2023-12-07T07:48:43.68Z
-65717af118da2cbda941cf30,e87c68c5-c715-4ffa-bb1c-5241fccb3ef9,tn_gr5_tam_t1_ch1d,tn_gr5_tam_t1_ch1d chapter in tamil,story,EkStep,ta,live,,,,,,,,,,,,2023-12-07T07:48:43.68Z
-65717af118da2cbda941cf32,3ef024fe-cb7b-4a1a-a83a-5350037c39c5,tn_gr3_tam_t3_ch1a,tn_gr3_tam_t3_ch1a chapter in tamil,story,EkStep,ta,live,,,,,,,,,,,,2023-12-07T07:48:43.68Z
-65717af218da2cbda941cf34,b4569238-c268-4cb3-9021-75c37f4d7f8f,tn_gr5_tam_t3_ch2c,tn_gr5_tam_t3_ch2c chapter in tamil,story,EkStep,ta,live,,,,,,,,,,,,2023-12-07T07:48:43.68Z
-65717af218da2cbda941cf36,97ed9be5-ecac-4992-9d6c-3eb30355df72,tn_gr5_tam_t2_ch3a,tn_gr5_tam_t2_ch3a chapter in tamil,story,EkStep,ta,live,,,,,,,,,,,,2023-12-07T07:48:43.68Z
-65717af218da2cbda941cf38,fc13e6cf-4daf-468a-b6a8-3e37c6277626,tn_gr1_tam_t2_ch3b,tn_gr1_tam_t2_ch3b chapter in tamil,story,EkStep,ta,live,,,,,,,,,,,,2023-12-07T07:48:43.68Z
-65717af218da2cbda941cf3a,9cea4fbb-dd85-41fa-8473-6b8141b71751,tn_gr3_tam_t2_ch6a,tn_gr3_tam_t2_ch6a chapter in tamil,story,EkStep,ta,live,,,,,,,,,,,,2023-12-07T07:48:43.68Z
-65717af218da2cbda941cf3c,27a01dd1-2fb3-4476-8ea7-49e45ede6da2,tn_gr5_tam_t3_ch2a,tn_gr5_tam_t3_ch2a chapter in tamil,story,EkStep,ta,live,,,,,,,,,,,,2023-12-07T07:48:43.68Z
-65717af318da2cbda941cf3e,e342506b-ebd4-4916-a923-cac3f2314139,tn_gr5_tam_t1_ch1b,tn_gr5_tam_t1_ch1b chapter in tamil,story,EkStep,ta,live,,,,,,,,,,,,2023-12-07T07:48:43.68Z
-65717af318da2cbda941cf40,250ba2da-f3fc-4b0c-9312-dd370088ce2c,tn_gr1_tam_t1_ch3r,tn_gr1_tam_t1_ch3r chapter in tamil,story,EkStep,ta,live,,,,,,,,,,,,2023-12-07T07:48:43.68Z
-65717af318da2cbda941cf42,37455481-59a7-438f-a22b-4c957e6a061c,tn_gr1_tam_t1_ch3q,tn_gr1_tam_t1_ch3q chapter in tamil,story,EkStep,ta,live,,,,,,,,,,,,2023-12-07T07:48:43.68Z
-65717af318da2cbda941cf44,26b5b9dd-7de2-458f-bde7-aea4cb5d20d3,tn_gr1_tam_t2_ch2f,tn_gr1_tam_t2_ch2f chapter in tamil,story,EkStep,ta,live,,,,,,,,,,,,2023-12-07T07:48:43.68Z
-65717af318da2cbda941cf46,bcb73d26-74fb-4e13-85f0-25a6fa8793a5,tn_gr2_tam_t1_ch6a,tn_gr2_tam_t1_ch6a chapter in tamil,story,EkStep,ta,live,,,,,,,,,,,,2023-12-07T07:48:43.68Z
-65717af418da2cbda941cf48,a3438649-469e-4885-b2f3-fb4da31770b7,tn_gr5_tam_t2_ch1a,tn_gr5_tam_t2_ch1a chapter in tamil,story,EkStep,ta,live,,,,,,,,,,,,2023-12-07T07:48:43.68Z
-65717af418da2cbda941cf4a,6cc5d389-d8b6-4975-a270-269b5d1c6dc9,tn_gr1_tam_t2_ch5a,tn_gr1_tam_t2_ch5a chapter in tamil,story,EkStep,ta,live,,,,,,,,,,,,2023-12-07T07:48:43.68Z
-65717af418da2cbda941cf4c,f34dc429-c9df-4210-a51d-3395b3abd5c5,tn_gr1_tam_t1_ch4c,tn_gr1_tam_t1_ch4c chapter in tamil,story,EkStep,ta,live,,,,,,,,,,,,2023-12-07T07:48:43.68Z
-65717af418da2cbda941cf4e,312beb8f-7e9d-430c-8e1e-4d1b83ea57df,tn_gr4_tam_t1_ch4a,tn_gr4_tam_t1_ch4a chapter in tamil,story,EkStep,ta,live,,,,,,,,,,,,2023-12-07T07:48:43.68Z
-65717af418da2cbda941cf50,a13b7a2e-c718-4692-8188-40781add65cd,tn_gr3_tam_t1_ch4a,tn_gr3_tam_t1_ch4a chapter in tamil,story,EkStep,ta,live,,,,,,,,,,,,2023-12-07T07:48:43.68Z
-65717af518da2cbda941cf52,6fedce14-fc29-43a9-ac48-51993d11f3f8,tn_gr5_tam_t3_ch1b,tn_gr5_tam_t3_ch1b chapter in tamil,story,EkStep,ta,live,,,,,,,,,,,,2023-12-07T07:48:43.68Z
-65717af518da2cbda941cf54,5128c77d-c041-4e2c-9697-db3d99746e17,tn_gr5_tam_t2_ch1c,tn_gr5_tam_t2_ch1c chapter in tamil,story,EkStep,ta,live,,,,,,,,,,,,2023-12-07T07:48:43.68Z
-65717af518da2cbda941cf56,62fdea31-4010-42ef-9c13-def562a85ddf,tn_gr5_tam_t1_ch2d,tn_gr5_tam_t1_ch2d chapter in tamil,story,EkStep,ta,live,,,,,,,,,,,,2023-12-07T07:48:43.68Z
-65717af518da2cbda941cf58,b47a1303-440d-4d1e-89a8-754e27de6dc2,tn_gr2_tam_t2_ch6a,tn_gr2_tam_t2_ch6a chapter in tamil,story,EkStep,ta,live,,,,,,,,,,,,2023-12-07T07:48:43.68Z
-65717af518da2cbda941cf5a,94e41436-c781-4297-9a55-bcc30db88bac,tn_gr3_tam_t1_ch1a,tn_gr3_tam_t1_ch1a chapter in tamil,story,EkStep,ta,live,,,,,,,,,,,,2023-12-07T07:48:43.68Z
-65717af618da2cbda941cf5c,cf593aad-fe44-4c85-a8e1-b4eefdca1fb7,tn_gr1_tam_t1_ch3n,tn_gr1_tam_t1_ch3n chapter in tamil,story,EkStep,ta,live,,,,,,,,,,,,2023-12-07T07:48:43.68Z
-65717af618da2cbda941cf5e,11b3a782-e1f0-454a-9f47-f71173e943fb,tn_gr1_tam_t2_ch3e,tn_gr1_tam_t2_ch3e chapter in tamil,story,EkStep,ta,live,,,,,,,,,,,,2023-12-07T07:48:43.68Z
-65717af618da2cbda941cf60,6ac567af-2c44-46c8-9788-f00891b065b5,tn_gr1_tam_t2_ch2a,tn_gr1_tam_t2_ch2a chapter in tamil,story,EkStep,ta,live,,,,,,,,,,,,2023-12-07T07:48:43.68Z
-65717af618da2cbda941cf62,093c14a5-a161-4cc9-b5d3-95af8c763d26,tn_gr5_tam_t1_ch1c,tn_gr5_tam_t1_ch1c chapter in tamil,story,EkStep,ta,live,,,,,,,,,,,,2023-12-07T07:48:43.68Z
-65717af618da2cbda941cf64,abe26dad-b3ec-42d9-895b-a386b7a707bf,tn_gr1_tam_t1_ch3m,tn_gr1_tam_t1_ch3m chapter in tamil,story,EkStep,ta,live,,,,,,,,,,,,2023-12-07T07:48:43.68Z
-65717af618da2cbda941cf66,60c23e4f-a967-450a-8471-1867fed71030,tn_gr1_tam_t1_ch4e,tn_gr1_tam_t1_ch4e chapter in tamil,story,EkStep,ta,live,,,,,,,,,,,,2023-12-07T07:48:43.68Z
-65717af718da2cbda941cf68,dd27cb2a-93e2-4021-be04-d15b0d6794ba,tn_gr2_tam_t1_ch2a,tn_gr2_tam_t1_ch2a chapter in tamil,story,EkStep,ta,live,,,,,,,,,,,,2023-12-07T07:48:43.68Z
-65717af718da2cbda941cf6a,d1a9e995-f17f-4219-b6f3-4ac29af2eb48,tn_gr1_tam_t2_ch1d,tn_gr1_tam_t2_ch1d chapter in tamil,story,EkStep,ta,live,,,,,,,,,,,,2023-12-07T07:48:43.68Z
-65717af718da2cbda941cf6c,9390a004-a368-44a9-a1c7-151bb4b4dc96,tn_gr2_tam_t3_ch4a,tn_gr2_tam_t3_ch4a chapter in tamil,story,EkStep,ta,live,,,,,,,,,,,,2023-12-07T07:48:43.68Z
-65717af718da2cbda941cf6e,41ebc38e-e69d-4a42-a6a9-3ce0603eff16,tn_gr3_tam_t2_ch3a,tn_gr3_tam_t2_ch3a chapter in tamil,story,EkStep,ta,live,,,,,,,,,,,,2023-12-07T07:48:43.68Z
-65717af718da2cbda941cf70,347a2424-b02c-4b25-9dd5-cd738455f29d,tn_gr3_tam_t2_ch1a,tn_gr3_tam_t2_ch1a chapter in tamil,story,EkStep,ta,live,,,,,,,,,,,,2023-12-07T07:48:43.68Z
-65717af818da2cbda941cf72,07f3dfe8-7949-4eed-bc4c-8cd1802c93fc,tn_gr5_tam_t2_ch3b,tn_gr5_tam_t2_ch3b chapter in tamil,story,EkStep,ta,live,,,,,,,,,,,,2023-12-07T07:48:43.68Z
-65717af818da2cbda941cf74,778e199e-a0e7-4c4d-a6a4-1f5af8cd5a3f,tn_gr5_tam_t1_ch3c,tn_gr5_tam_t1_ch3c chapter in tamil,story,EkStep,ta,live,,,,,,,,,,,,2023-12-07T07:48:43.68Z
-65717af818da2cbda941cf76,568aa515-9a17-4187-ac68-fc9d4f4afee9,tn_gr2_tam_t1_ch9c,tn_gr2_tam_t1_ch9c chapter in tamil,story,EkStep,ta,live,,,,,,,,,,,,2023-12-07T07:48:43.68Z
-65717af818da2cbda941cf78,3325be5d-78de-4001-8df5-92fa14fb6b2a,tn_gr1_tam_t1_ch3h,tn_gr1_tam_t1_ch3h chapter in tamil,story,EkStep,ta,live,,,,,,,,,,,,2023-12-07T07:48:43.68Z
-65717af818da2cbda941cf7a,b0b1f115-2229-4728-84f9-f02f91f362b9,tn_gr2_tam_t3_ch7a,tn_gr2_tam_t3_ch7a chapter in tamil,story,EkStep,ta,live,,,,,,,,,,,,2023-12-07T07:48:43.68Z
-65717af918da2cbda941cf7c,c35aa4fe-35b0-4355-ac01-618d51aad93e,tn_gr1_tam_t2_ch5b,tn_gr1_tam_t2_ch5b chapter in tamil,story,EkStep,ta,live,,,,,,,,,,,,2023-12-07T07:48:43.68Z
-65717af918da2cbda941cf7e,89510c42-6f5f-4a18-a1c3-44dcf7d10dfd,tn_gr4_tamil_t1_ch1a,tn_gr4_tamil_t1_ch1a chapter in tamil,story,EkStep,ta,live,,,,,,,,,,,,2023-12-07T07:48:43.68Z
-65717af918da2cbda941cf80,99c7bb2d-cac0-46ef-b82a-e2c0b44427ce,tn_gr2_tam_t2_ch2b,tn_gr2_tam_t2_ch2b chapter in tamil,story,EkStep,ta,live,,,,,,,,,,,,2023-12-07T07:48:43.68Z
-65717af918da2cbda941cf82,d8891945-dc59-4742-a475-bb01d22f1cc4,tn_gr1_tam_t1_ch4b,tn_gr1_tam_t1_ch4b chapter in tamil,story,EkStep,ta,live,,,,,,,,,,,,2023-12-07T07:48:43.68Z
-65717af918da2cbda941cf84,330f8ac4-1856-45ae-9935-9139103de5d4,tn_gr3_tam_t2_ch7a,tn_gr3_tam_t2_ch7a chapter in tamil,story,EkStep,ta,live,,,,,,,,,,,,2023-12-07T07:48:43.68Z
-65717afa18da2cbda941cf86,2d0deb09-2466-4a81-b0f0-a5712b749a1f,tn_gr5_tam_t3_ch3b,tn_gr5_tam_t3_ch3b chapter in tamil,story,EkStep,ta,live,,,,,,,,,,,,2023-12-07T07:48:43.68Z
-65717afa18da2cbda941cf88,45cbf859-e915-4485-9cb2-6b011014f0c4,tn_gr2_tam_t3_ch1a,tn_gr2_tam_t3_ch1a chapter in tamil,story,EkStep,ta,live,,,,,,,,,,,,2023-12-07T07:48:43.68Z
-65717afa18da2cbda941cf8a,194c0c50-de96-4176-92eb-72ec04fe0795,tn_gr3_tam_t1_ch1b,tn_gr3_tam_t1_ch1b chapter in tamil,story,EkStep,ta,live,,,,,,,,,,,,2023-12-07T07:48:43.68Z
-65717afa18da2cbda941cf8c,dab2e9dd-4764-4f59-a9d6-f93c7c89dfb0,tn_gr5_tam_t2_ch2c,tn_gr5_tam_t2_ch2c chapter in tamil,story,EkStep,ta,live,,,,,,,,,,,,2023-12-07T07:48:43.68Z
-65717afa18da2cbda941cf8e,b03c4310-b2c9-4c89-81da-a411f0b65390,tn_gr2_tam_t2_ch3b,tn_gr2_tam_t2_ch3b chapter in tamil,story,EkStep,ta,live,,,,,,,,,,,,2023-12-07T07:48:43.68Z
-65717afb18da2cbda941cf90,e52f4ca2-4017-4aab-8ec5-7762bb8dfa0e,tn_gr5_tam_t3_ch1a,tn_gr5_tam_t3_ch1a chapter in tamil,story,EkStep,ta,live,,,,,,,,,,,,2023-12-07T07:48:43.68Z
-65717afb18da2cbda941cf92,97fbe8c7-d0b9-47d7-a74d-d52cb824a117,tn_gr4_tam_t1_ch3b,tn_gr4_tam_t1_ch3b chapter in tamil,story,EkStep,ta,live,,,,,,,,,,,,2023-12-07T07:48:43.68Z
-65717afb18da2cbda941cf94,f5e532cc-ac99-4cfc-a061-05dacf827bac,tn_gr1_tam_t1_ch3s,tn_gr1_tam_t1_ch3s chapter in tamil,story,EkStep,ta,live,,,,,,,,,,,,2023-12-07T07:48:43.68Z
-65717afb18da2cbda941cf96,bfd4ae93-df96-40aa-baa6-2238242fdb00,tn_gr5_tam_t1_ch2b,tn_gr5_tam_t1_ch2b chapter in tamil,story,EkStep,ta,live,,,,,,,,,,,,2023-12-07T07:48:43.68Z
-65717afb18da2cbda941cf98,cd3a104d-f1bb-419a-8430-7fa4895b795a,tn_gr5_tam_t2_ch2b,tn_gr5_tam_t2_ch2b chapter in tamil,story,EkStep,ta,live,,,,,,,,,,,,2023-12-07T07:48:43.68Z
-65717afc18da2cbda941cf9a,388b85c4-9f96-41c0-857d-7880d085e4b6,tn_gr1_tam_t2_ch2d,tn_gr1_tam_t2_ch2d chapter in tamil,story,EkStep,ta,live,,,,,,,,,,,,2023-12-07T07:48:43.68Z
-65717afc18da2cbda941cf9c,c6320003-c94e-488d-831d-aca92838d889,tn_gr3_tam_t2_ch8a,tn_gr3_tam_t2_ch8a chapter in tamil,story,EkStep,ta,live,,,,,,,,,,,,2023-12-07T07:48:43.68Z
-65717afc18da2cbda941cf9e,f4db4541-73e2-4085-83b7-256988fef34a,tn_gr2_tam_t2_ch1c,tn_gr2_tam_t2_ch1c chapter in tamil,story,EkStep,ta,live,,,,,,,,,,,,2023-12-07T07:48:43.68Z
-65717afc18da2cbda941cfa0,526ec0ab-229b-4207-afc2-82430df47693,tn_gr3_tam_t1_ch8a,tn_gr3_tam_t1_ch8a chapter in tamil,story,EkStep,ta,live,,,,,,,,,,,,2023-12-07T07:48:43.68Z
-65717afc18da2cbda941cfa2,0f5a8499-01a8-4f73-af7a-cf600df5a8b1,tn_gr2_tam_t3_ch3a,tn_gr2_tam_t3_ch3a chapter in tamil,story,EkStep,ta,live,,,,,,,,,,,,2023-12-07T07:48:43.68Z
-65717afc18da2cbda941cfa4,37060da9-fc4f-47b1-990c-8687c0ae61d7,tn_gr3_tam_t3_ch8a,tn_gr3_tam_t3_ch8a chapter in tamil,story,EkStep,ta,live,,,,,,,,,,,,2023-12-07T07:48:43.68Z
-65717afd18da2cbda941cfa6,40db884c-a7a4-4e6d-a41e-0c52d5bf091c,tn_gr3_tam_t1_ch6a,tn_gr3_tam_t1_ch6a chapter in tamil,story,EkStep,ta,live,,,,,,,,,,,,2023-12-07T07:48:43.68Z
-65717afd18da2cbda941cfa8,f0e1feb8-6d78-4daf-808a-4d550f26e779,tn_gr2_tam_t3_ch2a,tn_gr2_tam_t3_ch2a chapter in tamil,story,EkStep,ta,live,,,,,,,,,,,,2023-12-07T07:48:43.68Z
-65717afd18da2cbda941cfaa,0f69736c-8361-4e79-be5b-2158ac84eaab,tn_gr5_tam_t3_ch2b,tn_gr5_tam_t3_ch2b chapter in tamil,story,EkStep,ta,live,,,,,,,,,,,,2023-12-07T07:48:43.68Z
-65717afd18da2cbda941cfac,813676fa-ef49-4d72-862d-d10a06f7a58e,tn_gr2_tam_t1_ch9a,tn_gr2_tam_t1_ch9a chapter in tamil,story,EkStep,ta,live,,,,,,,,,,,,2023-12-07T07:48:43.68Z
-65717afd18da2cbda941cfae,91b48a23-f7f3-4f67-9ec5-a068035f096a,tn_gr2_tam_t1_ch8a,tn_gr2_tam_t1_ch8a chapter in tamil,story,EkStep,ta,live,,,,,,,,,,,,2023-12-07T07:48:43.68Z
-65717afe18da2cbda941cfb0,80359707-6d54-47bb-b868-7b3bf2c31f5c,tn_gr1_tam_t1_ch3i,tn_gr1_tam_t1_ch3i chapter in tamil,story,EkStep,ta,live,,,,,,,,,,,,2023-12-07T07:48:43.68Z
-65717afe18da2cbda941cfb2,66b47801-a39f-43b0-b005-32ec90e70bcf,tn_gr2_tam_t2_ch1a,tn_gr2_tam_t2_ch1a chapter in tamil,story,EkStep,ta,live,,,,,,,,,,,,2023-12-07T07:48:43.68Z
-65717afe18da2cbda941cfb4,926bdd49-46d3-4b81-a682-a8a19cf9868f,tn_gr2_tam_t2_ch5a,tn_gr2_tam_t2_ch5a chapter in tamil,story,EkStep,ta,live,,,,,,,,,,,,2023-12-07T07:48:43.68Z
-65717afe18da2cbda941cfb6,113dc9cd-1048-41f2-9078-37efdd92e3e3,tn_gr4_tamil_t1_ch1b,tn_gr4_tamil_t1_ch1b chapter in tamil,story,EkStep,ta,live,,,,,,,,,,,,2023-12-07T07:48:43.68Z
-65717afe18da2cbda941cfb8,a09c2c8a-b50b-475d-a003-8167a231692e,tn_gr2_tam_t1_ch1a,tn_gr2_tam_t1_ch1a chapter in tamil,story,EkStep,ta,live,,,,,,,,,,,,2023-12-07T07:48:43.68Z
-65717aff18da2cbda941cfba,4c5ec34b-6e73-453e-bdd5-70c813d2b2df,tn_gr4_tam_t1_ch2e,tn_gr4_tam_t1_ch2e chapter in tamil,story,EkStep,ta,live,,,,,,,,,,,,2023-12-07T07:48:43.68Z
-65717aff18da2cbda941cfbc,87112224-cc23-4bdb-9a1f-a60229b2b2fe,tn_gr3_tam_t3_ch3a,tn_gr3_tam_t3_ch3a chapter in tamil,story,EkStep,ta,live,,,,,,,,,,,,2023-12-07T07:48:43.68Z
-65717aff18da2cbda941cfbe,ddee999a-a4b7-4d24-9650-e592caa45188,tn_gr3_tam_t1.ch3b,tn_gr3_tam_t1.ch3b chapter in tamil,story,EkStep,ta,live,,,,,,,,,,,,2023-12-07T07:48:43.68Z
-65717aff18da2cbda941cfc0,a2cd6162-ce14-4fe4-8b06-b7d50cbd8b5b,tn_gr5_tam_t3_ch1c,tn_gr5_tam_t3_ch1c chapter in tamil,story,EkStep,ta,live,,,,,,,,,,,,2023-12-07T07:48:43.68Z
-65717aff18da2cbda941cfc2,5a7d3569-12c9-4ece-ad01-884f6cfbb825,tn_gr1_tam_t2_ch2b,tn_gr1_tam_t2_ch2b chapter in tamil,story,EkStep,ta,live,,,,,,,,,,,,2023-12-07T07:48:43.68Z
-65717aff18da2cbda941cfc4,8cfb24cb-8106-42ae-b273-19ee7a30da6f,tn_gr2_tam_t1_ch9d,tn_gr2_tam_t1_ch9d chapter in tamil,story,EkStep,ta,live,,,,,,,,,,,,2023-12-07T07:48:43.68Z
-65717b0018da2cbda941cfc6,5d50f53d-c2a0-4b27-9069-f04caee0f227,tn_gr5_tam_t1_ch3b,tn_gr5_tam_t1_ch3b chapter in tamil,story,EkStep,ta,live,,,,,,,,,,,,2023-12-07T07:48:43.68Z
-65717b0018da2cbda941cfc8,1d2a816f-61af-49f5-8bdb-92ba9695c06e,tn_gr5_tam_t3_ch3c,tn_gr5_tam_t3_ch3c chapter in tamil,story,EkStep,ta,live,,,,,,,,,,,,2023-12-07T07:48:43.68Z
-65717b0018da2cbda941cfca,a7cb8b2e-4191-4f10-8e7b-db9d1ed763ef,tn_gr5_tam_t1_ch1a,tn_gr5_tam_t1_ch1a chapter in tamil,story,EkStep,ta,live,,,,,,,,,,,,2023-12-07T07:48:43.68Z
-65717b0018da2cbda941cfcc,b102f6fd-49ec-4d0a-8c74-4cfb49cc5ea1,tn_gr2_tam_t3_ch8a,tn_gr2_tam_t3_ch8a chapter in tamil,story,EkStep,ta,live,,,,,,,,,,,,2023-12-07T07:48:43.68Z
-65717b0018da2cbda941cfce,598653a8-51f2-4876-853e-271764afde02,tn_gr4_tam_t1_ch6b,tn_gr4_tam_t1_ch6b chapter in tamil,story,EkStep,ta,live,,,,,,,,,,,,2023-12-07T07:48:43.68Z
-65717b0118da2cbda941cfd0,f78f1bf8-960b-433b-ab56-eca7d542e17c,tn_gr2_tam_t1_ch4a,tn_gr2_tam_t1_ch4a chapter in tamil,story,EkStep,ta,live,,,,,,,,,,,,2023-12-07T07:48:43.68Z
-65717b0118da2cbda941cfd2,12d652d8-0a69-4414-b1df-d96e6df20b0d,tn_gr3_tam_t1_ch5b,tn_gr3_tam_t1_ch5b chapter in tamil,story,EkStep,ta,live,,,,,,,,,,,,2023-12-07T07:48:43.68Z
-65717b0118da2cbda941cfd4,f907d2a2-5f00-42db-8611-1e58d8b6d513,tn_gr1_tam_t2_ch3c,tn_gr1_tam_t2_ch3c chapter in tamil,story,EkStep,ta,live,,,,,,,,,,,,2023-12-07T07:48:43.68Z
-65717b0118da2cbda941cfd6,841bac92-fe8d-4229-ae9b-6521d2b53dc9,tn_gr2_tam_t1_ch7a,tn_gr2_tam_t1_ch7a chapter in tamil,story,EkStep,ta,live,,,,,,,,,,,,2023-12-07T07:48:43.68Z
-65717b0118da2cbda941cfd8,ee229f02-2599-45e7-b915-ef96177d96e2,tn_gr2_tam_t3_ch1b,tn_gr2_tam_t3_ch1b chapter in tamil,story,EkStep,ta,live,,,,,,,,,,,,2023-12-07T07:48:43.68Z
-65717b0218da2cbda941cfda,8cf28d23-33f3-422f-aa9d-95e3a8d3f1a2,tn_gr5_tam_t1_ch3a,tn_gr5_tam_t1_ch3a chapter in tamil,story,EkStep,ta,live,,,,,,,,,,,,2023-12-07T07:48:43.68Z
-65717b0218da2cbda941cfdc,bbfd5510-8e08-4c9c-b295-a08b90e9b26c,tn_gr3_tam_t2_ch3b,tn_gr3_tam_t2_ch3b chapter in tamil,story,EkStep,ta,live,,,,,,,,,,,,2023-12-07T07:48:43.68Z
-65717b0218da2cbda941cfde,56687acb-71e4-4631-bae9-bbc7e4e5e096,tn_gr3_tam_t3_ch2a,tn_gr3_tam_t3_ch2a chapter in tamil,story,EkStep,ta,live,,,,,,,,,,,,2023-12-07T07:48:43.68Z
-65717b0218da2cbda941cfe0,1c67618b-8f11-400b-884d-eafe091e9ef7,tn_gr1_tam_t1_ch3d,tn_gr1_tam_t1_ch3d chapter in tamil,story,EkStep,ta,live,,,,,,,,,,,,2023-12-07T07:48:43.68Z
-65717b0218da2cbda941cfe2,2eedcff2-38bf-4c10-91a7-36bfd38a50f0,tn_gr1_tam_t1_ch3k,tn_gr1_tam_t1_ch3k chapter in tamil,story,EkStep,ta,live,,,,,,,,,,,,2023-12-07T07:48:43.68Z
-65717b0318da2cbda941cfe4,f1725820-3db6-41a4-a4f0-be706e2b7567,tn_gr4_tam_t1_ch3c,tn_gr4_tam_t1_ch3c chapter in tamil,story,EkStep,ta,live,,,,,,,,,,,,2023-12-07T07:48:43.68Z
-65717b0318da2cbda941cfe6,1eed595d-8551-4abc-a3db-cb2d227452f0,tn_gr4_tam_t1_ch9b,tn_gr4_tam_t1_ch9b chapter in tamil,story,EkStep,ta,live,,,,,,,,,,,,2023-12-07T07:48:43.68Z
-65717b0318da2cbda941cfe8,33dcd93f-c274-40ab-99a0-dea1914dd40f,tn_gr1_tam_t1_ch4d,tn_gr1_tam_t1_ch4d chapter in tamil,story,EkStep,ta,live,,,,,,,,,,,,2023-12-07T07:48:43.68Z
-65717b0318da2cbda941cfea,1f0c45e7-241d-46e3-998a-19d3e584d34e,tn_gr4_tam_t1_ch6a,tn_gr4_tam_t1_ch6a chapter in tamil,story,EkStep,ta,live,,,,,,,,,,,,2023-12-07T07:48:43.68Z
-65717b0318da2cbda941cfec,7aa21b43-7188-4ba7-a4d9-a261cc015e6f,tn_gr1_tam_t2_ch2c,tn_gr1_tam_t2_ch2c chapter in tamil,story,EkStep,ta,live,,,,,,,,,,,,2023-12-07T07:48:43.68Z
-65717b0418da2cbda941cfee,fad018ea-6e1a-489c-97d1-57104422b3d5,tn_gr3_tam_t3_ch7a,tn_gr3_tam_t3_ch7a chapter in tamil,story,EkStep,ta,live,,,,,,,,,,,,2023-12-07T07:48:43.68Z
-65717b0418da2cbda941cff0,18f608d1-2a8d-4a15-923a-aab0c3a7f5f9,tn_gr3_tam_t1_ch2a,tn_gr3_tam_t1_ch2a chapter in tamil,story,EkStep,ta,live,,,,,,,,,,,,2023-12-07T07:48:43.68Z
-65717b0418da2cbda941cff2,edfb7d35-e7a0-4d88-9667-a3cc2dc1839f,tn_gr1_tam_t2_ch1a,tn_gr1_tam_t2_ch1a chapter in tamil,story,EkStep,ta,live,,,,,,,,,,,,2023-12-07T07:48:43.68Z
-65717b0618da2cbda941cff4,431a0ec6-fa38-4ef3-a99c-0586b67ed33f,tn_gr2_tam_t3_ch6a,tn_gr2_tam_t3_ch6a chapter in tamil,story,EkStep,ta,live,,,,,,,,,,,,2023-12-07T07:48:43.68Z
-65717b0618da2cbda941cff6,7ca9e48b-0848-4690-8b92-f60880096e06,tn_gr5_tam_t2_ch3c,tn_gr5_tam_t2_ch3c chapter in tamil,story,EkStep,ta,live,,,,,,,,,,,,2023-12-07T07:48:43.68Z
-65717b0618da2cbda941cff8,08112a90-de7f-4d5a-a89d-3de836e8cf9d,tn_gr1_tam_t1_ch3o,tn_gr1_tam_t1_ch3o chapter in tamil,story,EkStep,ta,live,,,,,,,,,,,,2023-12-07T07:48:43.68Z
-65717b0618da2cbda941cffa,d45703cc-63f3-4842-86f9-3f149d79743a,tn_gr4_tam_t1_ch5a,tn_gr4_tam_t1_ch5a chapter in tamil,story,EkStep,ta,live,,,,,,,,,,,,2023-12-07T07:48:43.68Z
-65717b0718da2cbda941cffc,c71e177d-d7df-4e04-b0eb-a0124e3727ab,tn_gr3_tam_t3_6a,tn_gr3_tam_t3_6a chapter in tamil,story,EkStep,ta,live,,,,,,,,,,,,2023-12-07T07:48:43.68Z
-65717b0718da2cbda941cffe,4947c0f8-6b90-4bcd-82a0-66084da3e5bd,tn_gr4_tam_t1_ch8a,tn_gr4_tam_t1_ch8a chapter in tamil,story,EkStep,ta,live,,,,,,,,,,,,2023-12-07T07:48:43.68Z
-65717b0718da2cbda941d000,9406e80d-3efd-4a51-b540-17b7e0823310,tn_gr3_tam_t1_ch7a,tn_gr3_tam_t1_ch7a chapter in tamil,story,EkStep,ta,live,,,,,,,,,,,,2023-12-07T07:48:43.68Z
-65717b0718da2cbda941d002,e5269153-753b-495e-a53f-f77dd8598c48,tn_gr5_tam_t2_ch1b,tn_gr5_tam_t2_ch1b chapter in tamil,story,EkStep,ta,live,,,,,,,,,,,,2023-12-07T07:48:43.68Z
-65717b0718da2cbda941d004,62ba01cc-04fc-4048-97a7-2a4d83ea14cb,tn_gr1_tam_t1_ch3u,tn_gr1_tam_t1_ch3u chapter in tamil,story,EkStep,ta,live,,,,,,,,,,,,2023-12-07T07:48:43.68Z
-65717b0818da2cbda941d006,bd3283c0-f95d-4a03-aa0a-7d5f7562b450,tn_gr1_tam_t1_ch3t,tn_gr1_tam_t1_ch3t chapter in tamil,story,EkStep,ta,live,,,,,,,,,,,,2023-12-07T07:48:43.68Z
-65717b0818da2cbda941d008,8c1c251b-95c0-49a2-8858-6f2678ed10aa,tn_gr2_tam_t1_ch9b,tn_gr2_tam_t1_ch9b chapter in tamil,story,EkStep,ta,live,,,,,,,,,,,,2023-12-07T07:48:43.68Z
-65717b0818da2cbda941d00a,99343f11-33ce-4c0b-8d96-024cdd27be35,tn_gr3_tam_t1_ch5a,tn_gr3_tam_t1_ch5a chapter in tamil,story,EkStep,ta,live,,,,,,,,,,,,2023-12-07T07:48:43.68Z
-65717b0818da2cbda941d00c,547e9c0a-e769-45b0-93cc-eb8d665bbcb5,tn_gr5_tam_t2_ch2d,tn_gr5_tam_t2_ch2d chapter in tamil,story,EkStep,ta,live,,,,,,,,,,,,2023-12-07T07:48:43.68Z
-65717b0818da2cbda941d00e,37a4eabd-5f80-4fa6-a834-8ba09bef1065,tn_gr1_tam_t1_ch3p,tn_gr1_tam_t1_ch3p chapter in tamil,story,EkStep,ta,live,,,,,,,,,,,,2023-12-07T07:48:43.68Z
-65717b0918da2cbda941d010,63f2e9f1-f416-4fb0-87d6-febea0624d05,tn_gr1_tam_t1_ch3f,tn_gr1_tam_t1_ch3f chapter in tamil,story,EkStep,ta,live,,,,,,,,,,,,2023-12-07T07:48:43.68Z
-65717b0918da2cbda941d012,f4a879a2-286b-433f-b8ea-1eb55f5bd1e1,tn_gr1_tam_t2_ch2e,tn_gr1_tam_t2_ch2e chapter in tamil,story,EkStep,ta,live,,,,,,,,,,,,2023-12-07T07:48:43.68Z
+65717aea18da2cbda941cee6,8ed16b35-255e-4c49-9f5d-0c8dabc58aa1,tn_gr2_tam_t1_ch5a,tn_gr2_tam_t1_ch5a chapter in tamil,story,EkStep,ta,live,,,,,,,,,,,,2023-12-07T07:48:43.680Z
+65717aea18da2cbda941cee8,cb60e0a6-04d6-434e-973c-830629c618f0,tn_gr5_tam_t2_ch1d,tn_gr5_tam_t2_ch1d chapter in tamil,story,EkStep,ta,live,,,,,,,,,,,,2023-12-07T07:48:43.680Z
+65717aeb18da2cbda941ceea,d1026621-fd87-44f7-b07f-cb585c934817,tn_gr1_tam_t1_ch3e,tn_gr1_tam_t1_ch3e chapter in tamil,story,EkStep,ta,live,,,,,,,,,,,,2023-12-07T07:48:43.680Z
+65717aeb18da2cbda941ceec,514b7c9d-593a-4d75-aed7-928f4e90e29c,tn_gr1_tam_t2_ch3a,tn_gr1_tam_t2_ch3a chapter in tamil,story,EkStep,ta,live,,,,,,,,,,,,2023-12-07T07:48:43.680Z
+65717aeb18da2cbda941ceee,acacff19-944c-453a-ac19-8ce5cee34f67,tn_gr2_tam_t2_ch2a,tn_gr2_tam_t2_ch2a chapter in tamil,story,EkStep,ta,live,,,,,,,,,,,,2023-12-07T07:48:43.680Z
+65717aeb18da2cbda941cef0,4741a75e-3fd6-40d3-91b8-3aa8df9d337b,tn_gr1_tam_t1_ch4a,tn_gr1_tam_t1_ch4a chapter in tamil,story,EkStep,ta,live,,,,,,,,,,,,2023-12-07T07:48:43.680Z
+65717aeb18da2cbda941cef2,4b328a6f-cbb6-4a80-888f-e43358deff77,tn_gr1_tam_t1_ch3j,tn_gr1_tam_t1_ch3j chapter in tamil,story,EkStep,ta,live,,,,,,,,,,,,2023-12-07T07:48:43.680Z
+65717aec18da2cbda941cef4,18fcffa0-89ee-4085-8a8e-50b9bb013420,tn_gr2_tam_t2_ch6b,tn_gr2_tam_t2_ch6b chapter in tamil,story,EkStep,ta,live,,,,,,,,,,,,2023-12-07T07:48:43.680Z
+65717aec18da2cbda941cef6,f176db79-4a85-4c01-9951-f231fa81a75b,tn_gr1_tam_t1_ch3g,tn_gr1_tam_t1_ch3g chapter in tamil,story,EkStep,ta,live,,,,,,,,,,,,2023-12-07T07:48:43.680Z
+65717aec18da2cbda941cef8,92245ec1-02d8-4597-86f8-36061c83b176,tn_gr1_tam_t2_ch1b,tn_gr1_tam_t2_ch1b chapter in tamil,story,EkStep,ta,live,,,,,,,,,,,,2023-12-07T07:48:43.680Z
+65717aec18da2cbda941cefa,05a98a6e-522f-4772-90f4-78557c317fcb,tn_gr2_tam_t2_ch4a,tn_gr2_tam_t2_ch4a chapter in tamil,story,EkStep,ta,live,,,,,,,,,,,,2023-12-07T07:48:43.680Z
+65717aec18da2cbda941cefc,0e58feb3-568a-4be8-897f-b4ea6b732095,tn_gr2_tam_t3_ch1c,tn_gr2_tam_t3_ch1c chapter in tamil,story,EkStep,ta,live,,,,,,,,,,,,2023-12-07T07:48:43.680Z
+65717aed18da2cbda941cefe,2781f5b9-6e6c-44dc-af19-5584fc1d368f,tn_gr4_tam_t1_ch7a,tn_gr4_tam_t1_ch7a chapter in tamil,story,EkStep,ta,live,,,,,,,,,,,,2023-12-07T07:48:43.680Z
+65717aed18da2cbda941cf00,35cb8d4e-e824-40c6-b170-2a22e4dcb0bc,tn_gr2_tam_t2_ch1b,tn_gr2_tam_t2_ch1b chapter in tamil,story,EkStep,ta,live,,,,,,,,,,,,2023-12-07T07:48:43.680Z
+65717aed18da2cbda941cf02,ad98960e-2f27-4b63-a399-aef638280ef0,tn_gr2_tam_t2_ch6d,tn_gr2_tam_t2_ch6d chapter in tamil,story,EkStep,ta,live,,,,,,,,,,,,2023-12-07T07:48:43.680Z
+65717aed18da2cbda941cf04,8b3a25f4-2c43-40a3-853c-a526993d00fa,tn_gr4_tam_t1_ch5b,tn_gr4_tam_t1_ch5b chapter in tamil,story,EkStep,ta,live,,,,,,,,,,,,2023-12-07T07:48:43.680Z
+65717aed18da2cbda941cf06,c0f87637-ccd0-4947-9ac2-b01a72d7e343,tn_gr5_tam_t1_ch2c,tn_gr5_tam_t1_ch2c chapter in tamil,story,EkStep,ta,live,,,,,,,,,,,,2023-12-07T07:48:43.680Z
+65717aed18da2cbda941cf08,91d5c671-81e1-409b-bccf-1165c035b62f,tn_gr3_tam_t3_ch4a,tn_gr3_tam_t3_ch4a chapter in tamil,story,EkStep,ta,live,,,,,,,,,,,,2023-12-07T07:48:43.680Z
+65717aee18da2cbda941cf0a,18b175b4-facb-443e-a6b8-4b8b268b3e97,tn_gr2_tam_t1_ch1b,tn_gr2_tam_t1_ch1b chapter in tamil,story,EkStep,ta,live,,,,,,,,,,,,2023-12-07T07:48:43.680Z
+65717aee18da2cbda941cf0c,a4ec3e1f-8bf5-45d1-a7e6-f3365284b02f,tn_gr1_tam_t2_ch4a,tn_gr1_tam_t2_ch4a chapter in tamil,story,EkStep,ta,live,,,,,,,,,,,,2023-12-07T07:48:43.680Z
+65717aee18da2cbda941cf0e,d751f5e7-2664-472d-9359-619f26b2ab0f,tn_gr1_tam_t1_ch3l,tn_gr1_tam_t1_ch3l chapter in tamil,story,EkStep,ta,live,,,,,,,,,,,,2023-12-07T07:48:43.680Z
+65717aee18da2cbda941cf10,42db855f-5b93-4d7f-8c20-85f7f095f009,tn_gr2_tam_t3_ch5a,tn_gr2_tam_t3_ch5a chapter in tamil,story,EkStep,ta,live,,,,,,,,,,,,2023-12-07T07:48:43.680Z
+65717aee18da2cbda941cf12,c78187d8-f4d0-415f-b03f-881c5328a833,tn_gr4_tam_t1_ch2a,tn_gr4_tam_t1_ch2a chapter in tamil,story,EkStep,ta,live,,,,,,,,,,,,2023-12-07T07:48:43.680Z
+65717aef18da2cbda941cf14,d1443d74-2b5c-4dca-869f-d343558128c0,tn_gr4_tam_t1_ch9a,tn_gr4_tam_t1_ch9a chapter in tamil,story,EkStep,ta,live,,,,,,,,,,,,2023-12-07T07:48:43.680Z
+65717aef18da2cbda941cf16,4a1d8943-f13d-4cff-a478-4733b7880052,tn_gr3_tam_t3_ch8b,tn_gr3_tam_t3_ch8b chapter in tamil,story,EkStep,ta,live,,,,,,,,,,,,2023-12-07T07:48:43.680Z
+65717aef18da2cbda941cf18,a8a09f88-c99e-4a07-92b8-926d0a805c92,tn_gr2_tam_t2_ch6c,tn_gr2_tam_t2_ch6c chapter in tamil,story,EkStep,ta,live,,,,,,,,,,,,2023-12-07T07:48:43.680Z
+65717aef18da2cbda941cf1a,890f4df4-3eb9-42a2-9727-8bce616b9854,tn_gr5_tam_t1_ch2a,tn_gr5_tam_t1_ch2a chapter in tamil,story,EkStep,ta,live,,,,,,,,,,,,2023-12-07T07:48:43.680Z
+65717aef18da2cbda941cf1c,c4f8d224-70f7-44a1-8e59-22c409643174,tn_gr2_tam_t1_ch9e,tn_gr2_tam_t1_ch9e chapter in tamil,story,EkStep,ta,live,,,,,,,,,,,,2023-12-07T07:48:43.680Z
+65717aef18da2cbda941cf1e,824a89b5-cc20-4e5f-900a-5c57b9ea8331,tn_gr3_tam_t3_ch3b,tn_gr3_tam_t3_ch3b chapter in tamil,story,EkStep,ta,live,,,,,,,,,,,,2023-12-07T07:48:43.680Z
+65717af018da2cbda941cf20,0f86433e-5d67-4964-bc2a-a0c27d1436bc,tn_gr1_tam_t2_ch1c,tn_gr1_tam_t2_ch1c chapter in tamil,story,EkStep,ta,live,,,,,,,,,,,,2023-12-07T07:48:43.680Z
+65717af018da2cbda941cf22,6ee9464a-ea05-4bb6-b656-5fc65be50613,tn_gr2_tam_t2_ch3a,tn_gr2_tam_t2_ch3a chapter in tamil,story,EkStep,ta,live,,,,,,,,,,,,2023-12-07T07:48:43.680Z
+65717af018da2cbda941cf24,3b417833-099e-4575-a033-49f8744afc0b,tn_gr1_tam_t2_ch3d,tn_gr1_tam_t2_ch3d chapter in tamil,story,EkStep,ta,live,,,,,,,,,,,,2023-12-07T07:48:43.680Z
+65717af018da2cbda941cf26,11d2d386-b20b-4d4c-8783-beac738ca133,tn_gr4_tam_t1_ch3a,tn_gr4_tam_t1_ch3a chapter in tamil,story,EkStep,ta,live,,,,,,,,,,,,2023-12-07T07:48:43.680Z
+65717af118da2cbda941cf28,12dc8258-a5ad-4afd-ab7e-817973be5337,tn_gr5_tam_t1_ch3d,tn_gr5_tam_t1_ch3d chapter in tamil,story,EkStep,ta,live,,,,,,,,,,,,2023-12-07T07:48:43.680Z
+65717af118da2cbda941cf2a,cf2e9b59-b21e-4598-8c9d-bb7e186d91b0,tn_gr2_tam_t1_ch3b,tn_gr2_tam_t1_ch3b chapter in tamil,story,EkStep,ta,live,,,,,,,,,,,,2023-12-07T07:48:43.680Z
+65717af118da2cbda941cf2c,e735a0be-6108-4161-9c7a-e6522c67b536,tn_gr2_tam_t2_ch6e,tn_gr2_tam_t2_ch6e chapter in tamil,story,EkStep,ta,live,,,,,,,,,,,,2023-12-07T07:48:43.680Z
+65717af118da2cbda941cf2e,723500a8-ce60-446c-a1bd-bc1f59b0afec,tn_gr2_tam_t1_ch3a,tn_gr2_tam_t1_ch3a chapter in tamil,story,EkStep,ta,live,,,,,,,,,,,,2023-12-07T07:48:43.680Z
+65717af118da2cbda941cf30,e87c68c5-c715-4ffa-bb1c-5241fccb3ef9,tn_gr5_tam_t1_ch1d,tn_gr5_tam_t1_ch1d chapter in tamil,story,EkStep,ta,live,,,,,,,,,,,,2023-12-07T07:48:43.680Z
+65717af118da2cbda941cf32,3ef024fe-cb7b-4a1a-a83a-5350037c39c5,tn_gr3_tam_t3_ch1a,tn_gr3_tam_t3_ch1a chapter in tamil,story,EkStep,ta,live,,,,,,,,,,,,2023-12-07T07:48:43.680Z
+65717af218da2cbda941cf34,b4569238-c268-4cb3-9021-75c37f4d7f8f,tn_gr5_tam_t3_ch2c,tn_gr5_tam_t3_ch2c chapter in tamil,story,EkStep,ta,live,,,,,,,,,,,,2023-12-07T07:48:43.680Z
+65717af218da2cbda941cf36,97ed9be5-ecac-4992-9d6c-3eb30355df72,tn_gr5_tam_t2_ch3a,tn_gr5_tam_t2_ch3a chapter in tamil,story,EkStep,ta,live,,,,,,,,,,,,2023-12-07T07:48:43.680Z
+65717af218da2cbda941cf38,fc13e6cf-4daf-468a-b6a8-3e37c6277626,tn_gr1_tam_t2_ch3b,tn_gr1_tam_t2_ch3b chapter in tamil,story,EkStep,ta,live,,,,,,,,,,,,2023-12-07T07:48:43.680Z
+65717af218da2cbda941cf3a,9cea4fbb-dd85-41fa-8473-6b8141b71751,tn_gr3_tam_t2_ch6a,tn_gr3_tam_t2_ch6a chapter in tamil,story,EkStep,ta,live,,,,,,,,,,,,2023-12-07T07:48:43.680Z
+65717af218da2cbda941cf3c,27a01dd1-2fb3-4476-8ea7-49e45ede6da2,tn_gr5_tam_t3_ch2a,tn_gr5_tam_t3_ch2a chapter in tamil,story,EkStep,ta,live,,,,,,,,,,,,2023-12-07T07:48:43.680Z
+65717af318da2cbda941cf3e,e342506b-ebd4-4916-a923-cac3f2314139,tn_gr5_tam_t1_ch1b,tn_gr5_tam_t1_ch1b chapter in tamil,story,EkStep,ta,live,,,,,,,,,,,,2023-12-07T07:48:43.680Z
+65717af318da2cbda941cf40,250ba2da-f3fc-4b0c-9312-dd370088ce2c,tn_gr1_tam_t1_ch3r,tn_gr1_tam_t1_ch3r chapter in tamil,story,EkStep,ta,live,,,,,,,,,,,,2023-12-07T07:48:43.680Z
+65717af318da2cbda941cf42,37455481-59a7-438f-a22b-4c957e6a061c,tn_gr1_tam_t1_ch3q,tn_gr1_tam_t1_ch3q chapter in tamil,story,EkStep,ta,live,,,,,,,,,,,,2023-12-07T07:48:43.680Z
+65717af318da2cbda941cf44,26b5b9dd-7de2-458f-bde7-aea4cb5d20d3,tn_gr1_tam_t2_ch2f,tn_gr1_tam_t2_ch2f chapter in tamil,story,EkStep,ta,live,,,,,,,,,,,,2023-12-07T07:48:43.680Z
+65717af318da2cbda941cf46,bcb73d26-74fb-4e13-85f0-25a6fa8793a5,tn_gr2_tam_t1_ch6a,tn_gr2_tam_t1_ch6a chapter in tamil,story,EkStep,ta,live,,,,,,,,,,,,2023-12-07T07:48:43.680Z
+65717af418da2cbda941cf48,a3438649-469e-4885-b2f3-fb4da31770b7,tn_gr5_tam_t2_ch1a,tn_gr5_tam_t2_ch1a chapter in tamil,story,EkStep,ta,live,,,,,,,,,,,,2023-12-07T07:48:43.680Z
+65717af418da2cbda941cf4a,6cc5d389-d8b6-4975-a270-269b5d1c6dc9,tn_gr1_tam_t2_ch5a,tn_gr1_tam_t2_ch5a chapter in tamil,story,EkStep,ta,live,,,,,,,,,,,,2023-12-07T07:48:43.680Z
+65717af418da2cbda941cf4c,f34dc429-c9df-4210-a51d-3395b3abd5c5,tn_gr1_tam_t1_ch4c,tn_gr1_tam_t1_ch4c chapter in tamil,story,EkStep,ta,live,,,,,,,,,,,,2023-12-07T07:48:43.680Z
+65717af418da2cbda941cf4e,312beb8f-7e9d-430c-8e1e-4d1b83ea57df,tn_gr4_tam_t1_ch4a,tn_gr4_tam_t1_ch4a chapter in tamil,story,EkStep,ta,live,,,,,,,,,,,,2023-12-07T07:48:43.680Z
+65717af418da2cbda941cf50,a13b7a2e-c718-4692-8188-40781add65cd,tn_gr3_tam_t1_ch4a,tn_gr3_tam_t1_ch4a chapter in tamil,story,EkStep,ta,live,,,,,,,,,,,,2023-12-07T07:48:43.680Z
+65717af518da2cbda941cf52,6fedce14-fc29-43a9-ac48-51993d11f3f8,tn_gr5_tam_t3_ch1b,tn_gr5_tam_t3_ch1b chapter in tamil,story,EkStep,ta,live,,,,,,,,,,,,2023-12-07T07:48:43.680Z
+65717af518da2cbda941cf54,5128c77d-c041-4e2c-9697-db3d99746e17,tn_gr5_tam_t2_ch1c,tn_gr5_tam_t2_ch1c chapter in tamil,story,EkStep,ta,live,,,,,,,,,,,,2023-12-07T07:48:43.680Z
+65717af518da2cbda941cf56,62fdea31-4010-42ef-9c13-def562a85ddf,tn_gr5_tam_t1_ch2d,tn_gr5_tam_t1_ch2d chapter in tamil,story,EkStep,ta,live,,,,,,,,,,,,2023-12-07T07:48:43.680Z
+65717af518da2cbda941cf58,b47a1303-440d-4d1e-89a8-754e27de6dc2,tn_gr2_tam_t2_ch6a,tn_gr2_tam_t2_ch6a chapter in tamil,story,EkStep,ta,live,,,,,,,,,,,,2023-12-07T07:48:43.680Z
+65717af518da2cbda941cf5a,94e41436-c781-4297-9a55-bcc30db88bac,tn_gr3_tam_t1_ch1a,tn_gr3_tam_t1_ch1a chapter in tamil,story,EkStep,ta,live,,,,,,,,,,,,2023-12-07T07:48:43.680Z
+65717af618da2cbda941cf5c,cf593aad-fe44-4c85-a8e1-b4eefdca1fb7,tn_gr1_tam_t1_ch3n,tn_gr1_tam_t1_ch3n chapter in tamil,story,EkStep,ta,live,,,,,,,,,,,,2023-12-07T07:48:43.680Z
+65717af618da2cbda941cf5e,11b3a782-e1f0-454a-9f47-f71173e943fb,tn_gr1_tam_t2_ch3e,tn_gr1_tam_t2_ch3e chapter in tamil,story,EkStep,ta,live,,,,,,,,,,,,2023-12-07T07:48:43.680Z
+65717af618da2cbda941cf60,6ac567af-2c44-46c8-9788-f00891b065b5,tn_gr1_tam_t2_ch2a,tn_gr1_tam_t2_ch2a chapter in tamil,story,EkStep,ta,live,,,,,,,,,,,,2023-12-07T07:48:43.680Z
+65717af618da2cbda941cf62,093c14a5-a161-4cc9-b5d3-95af8c763d26,tn_gr5_tam_t1_ch1c,tn_gr5_tam_t1_ch1c chapter in tamil,story,EkStep,ta,live,,,,,,,,,,,,2023-12-07T07:48:43.680Z
+65717af618da2cbda941cf64,abe26dad-b3ec-42d9-895b-a386b7a707bf,tn_gr1_tam_t1_ch3m,tn_gr1_tam_t1_ch3m chapter in tamil,story,EkStep,ta,live,,,,,,,,,,,,2023-12-07T07:48:43.680Z
+65717af618da2cbda941cf66,60c23e4f-a967-450a-8471-1867fed71030,tn_gr1_tam_t1_ch4e,tn_gr1_tam_t1_ch4e chapter in tamil,story,EkStep,ta,live,,,,,,,,,,,,2023-12-07T07:48:43.680Z
+65717af718da2cbda941cf68,dd27cb2a-93e2-4021-be04-d15b0d6794ba,tn_gr2_tam_t1_ch2a,tn_gr2_tam_t1_ch2a chapter in tamil,story,EkStep,ta,live,,,,,,,,,,,,2023-12-07T07:48:43.680Z
+65717af718da2cbda941cf6a,d1a9e995-f17f-4219-b6f3-4ac29af2eb48,tn_gr1_tam_t2_ch1d,tn_gr1_tam_t2_ch1d chapter in tamil,story,EkStep,ta,live,,,,,,,,,,,,2023-12-07T07:48:43.680Z
+65717af718da2cbda941cf6c,9390a004-a368-44a9-a1c7-151bb4b4dc96,tn_gr2_tam_t3_ch4a,tn_gr2_tam_t3_ch4a chapter in tamil,story,EkStep,ta,live,,,,,,,,,,,,2023-12-07T07:48:43.680Z
+65717af718da2cbda941cf6e,41ebc38e-e69d-4a42-a6a9-3ce0603eff16,tn_gr3_tam_t2_ch3a,tn_gr3_tam_t2_ch3a chapter in tamil,story,EkStep,ta,live,,,,,,,,,,,,2023-12-07T07:48:43.680Z
+65717af718da2cbda941cf70,347a2424-b02c-4b25-9dd5-cd738455f29d,tn_gr3_tam_t2_ch1a,tn_gr3_tam_t2_ch1a chapter in tamil,story,EkStep,ta,live,,,,,,,,,,,,2023-12-07T07:48:43.680Z
+65717af818da2cbda941cf72,07f3dfe8-7949-4eed-bc4c-8cd1802c93fc,tn_gr5_tam_t2_ch3b,tn_gr5_tam_t2_ch3b chapter in tamil,story,EkStep,ta,live,,,,,,,,,,,,2023-12-07T07:48:43.680Z
+65717af818da2cbda941cf74,778e199e-a0e7-4c4d-a6a4-1f5af8cd5a3f,tn_gr5_tam_t1_ch3c,tn_gr5_tam_t1_ch3c chapter in tamil,story,EkStep,ta,live,,,,,,,,,,,,2023-12-07T07:48:43.680Z
+65717af818da2cbda941cf76,568aa515-9a17-4187-ac68-fc9d4f4afee9,tn_gr2_tam_t1_ch9c,tn_gr2_tam_t1_ch9c chapter in tamil,story,EkStep,ta,live,,,,,,,,,,,,2023-12-07T07:48:43.680Z
+65717af818da2cbda941cf78,3325be5d-78de-4001-8df5-92fa14fb6b2a,tn_gr1_tam_t1_ch3h,tn_gr1_tam_t1_ch3h chapter in tamil,story,EkStep,ta,live,,,,,,,,,,,,2023-12-07T07:48:43.680Z
+65717af818da2cbda941cf7a,b0b1f115-2229-4728-84f9-f02f91f362b9,tn_gr2_tam_t3_ch7a,tn_gr2_tam_t3_ch7a chapter in tamil,story,EkStep,ta,live,,,,,,,,,,,,2023-12-07T07:48:43.680Z
+65717af918da2cbda941cf7c,c35aa4fe-35b0-4355-ac01-618d51aad93e,tn_gr1_tam_t2_ch5b,tn_gr1_tam_t2_ch5b chapter in tamil,story,EkStep,ta,live,,,,,,,,,,,,2023-12-07T07:48:43.680Z
+65717af918da2cbda941cf7e,89510c42-6f5f-4a18-a1c3-44dcf7d10dfd,tn_gr4_tamil_t1_ch1a,tn_gr4_tamil_t1_ch1a chapter in tamil,story,EkStep,ta,live,,,,,,,,,,,,2023-12-07T07:48:43.680Z
+65717af918da2cbda941cf80,99c7bb2d-cac0-46ef-b82a-e2c0b44427ce,tn_gr2_tam_t2_ch2b,tn_gr2_tam_t2_ch2b chapter in tamil,story,EkStep,ta,live,,,,,,,,,,,,2023-12-07T07:48:43.680Z
+65717af918da2cbda941cf82,d8891945-dc59-4742-a475-bb01d22f1cc4,tn_gr1_tam_t1_ch4b,tn_gr1_tam_t1_ch4b chapter in tamil,story,EkStep,ta,live,,,,,,,,,,,,2023-12-07T07:48:43.680Z
+65717af918da2cbda941cf84,330f8ac4-1856-45ae-9935-9139103de5d4,tn_gr3_tam_t2_ch7a,tn_gr3_tam_t2_ch7a chapter in tamil,story,EkStep,ta,live,,,,,,,,,,,,2023-12-07T07:48:43.680Z
+65717afa18da2cbda941cf86,2d0deb09-2466-4a81-b0f0-a5712b749a1f,tn_gr5_tam_t3_ch3b,tn_gr5_tam_t3_ch3b chapter in tamil,story,EkStep,ta,live,,,,,,,,,,,,2023-12-07T07:48:43.680Z
+65717afa18da2cbda941cf88,45cbf859-e915-4485-9cb2-6b011014f0c4,tn_gr2_tam_t3_ch1a,tn_gr2_tam_t3_ch1a chapter in tamil,story,EkStep,ta,live,,,,,,,,,,,,2023-12-07T07:48:43.680Z
+65717afa18da2cbda941cf8a,194c0c50-de96-4176-92eb-72ec04fe0795,tn_gr3_tam_t1_ch1b,tn_gr3_tam_t1_ch1b chapter in tamil,story,EkStep,ta,live,,,,,,,,,,,,2023-12-07T07:48:43.680Z
+65717afa18da2cbda941cf8c,dab2e9dd-4764-4f59-a9d6-f93c7c89dfb0,tn_gr5_tam_t2_ch2c,tn_gr5_tam_t2_ch2c chapter in tamil,story,EkStep,ta,live,,,,,,,,,,,,2023-12-07T07:48:43.680Z
+65717afa18da2cbda941cf8e,b03c4310-b2c9-4c89-81da-a411f0b65390,tn_gr2_tam_t2_ch3b,tn_gr2_tam_t2_ch3b chapter in tamil,story,EkStep,ta,live,,,,,,,,,,,,2023-12-07T07:48:43.680Z
+65717afb18da2cbda941cf90,e52f4ca2-4017-4aab-8ec5-7762bb8dfa0e,tn_gr5_tam_t3_ch1a,tn_gr5_tam_t3_ch1a chapter in tamil,story,EkStep,ta,live,,,,,,,,,,,,2023-12-07T07:48:43.680Z
+65717afb18da2cbda941cf92,97fbe8c7-d0b9-47d7-a74d-d52cb824a117,tn_gr4_tam_t1_ch3b,tn_gr4_tam_t1_ch3b chapter in tamil,story,EkStep,ta,live,,,,,,,,,,,,2023-12-07T07:48:43.680Z
+65717afb18da2cbda941cf94,f5e532cc-ac99-4cfc-a061-05dacf827bac,tn_gr1_tam_t1_ch3s,tn_gr1_tam_t1_ch3s chapter in tamil,story,EkStep,ta,live,,,,,,,,,,,,2023-12-07T07:48:43.680Z
+65717afb18da2cbda941cf96,bfd4ae93-df96-40aa-baa6-2238242fdb00,tn_gr5_tam_t1_ch2b,tn_gr5_tam_t1_ch2b chapter in tamil,story,EkStep,ta,live,,,,,,,,,,,,2023-12-07T07:48:43.680Z
+65717afb18da2cbda941cf98,cd3a104d-f1bb-419a-8430-7fa4895b795a,tn_gr5_tam_t2_ch2b,tn_gr5_tam_t2_ch2b chapter in tamil,story,EkStep,ta,live,,,,,,,,,,,,2023-12-07T07:48:43.680Z
+65717afc18da2cbda941cf9a,388b85c4-9f96-41c0-857d-7880d085e4b6,tn_gr1_tam_t2_ch2d,tn_gr1_tam_t2_ch2d chapter in tamil,story,EkStep,ta,live,,,,,,,,,,,,2023-12-07T07:48:43.680Z
+65717afc18da2cbda941cf9c,c6320003-c94e-488d-831d-aca92838d889,tn_gr3_tam_t2_ch8a,tn_gr3_tam_t2_ch8a chapter in tamil,story,EkStep,ta,live,,,,,,,,,,,,2023-12-07T07:48:43.680Z
+65717afc18da2cbda941cf9e,f4db4541-73e2-4085-83b7-256988fef34a,tn_gr2_tam_t2_ch1c,tn_gr2_tam_t2_ch1c chapter in tamil,story,EkStep,ta,live,,,,,,,,,,,,2023-12-07T07:48:43.680Z
+65717afc18da2cbda941cfa0,526ec0ab-229b-4207-afc2-82430df47693,tn_gr3_tam_t1_ch8a,tn_gr3_tam_t1_ch8a chapter in tamil,story,EkStep,ta,live,,,,,,,,,,,,2023-12-07T07:48:43.680Z
+65717afc18da2cbda941cfa2,0f5a8499-01a8-4f73-af7a-cf600df5a8b1,tn_gr2_tam_t3_ch3a,tn_gr2_tam_t3_ch3a chapter in tamil,story,EkStep,ta,live,,,,,,,,,,,,2023-12-07T07:48:43.680Z
+65717afc18da2cbda941cfa4,37060da9-fc4f-47b1-990c-8687c0ae61d7,tn_gr3_tam_t3_ch8a,tn_gr3_tam_t3_ch8a chapter in tamil,story,EkStep,ta,live,,,,,,,,,,,,2023-12-07T07:48:43.680Z
+65717afd18da2cbda941cfa6,40db884c-a7a4-4e6d-a41e-0c52d5bf091c,tn_gr3_tam_t1_ch6a,tn_gr3_tam_t1_ch6a chapter in tamil,story,EkStep,ta,live,,,,,,,,,,,,2023-12-07T07:48:43.680Z
+65717afd18da2cbda941cfa8,f0e1feb8-6d78-4daf-808a-4d550f26e779,tn_gr2_tam_t3_ch2a,tn_gr2_tam_t3_ch2a chapter in tamil,story,EkStep,ta,live,,,,,,,,,,,,2023-12-07T07:48:43.680Z
+65717afd18da2cbda941cfaa,0f69736c-8361-4e79-be5b-2158ac84eaab,tn_gr5_tam_t3_ch2b,tn_gr5_tam_t3_ch2b chapter in tamil,story,EkStep,ta,live,,,,,,,,,,,,2023-12-07T07:48:43.680Z
+65717afd18da2cbda941cfac,813676fa-ef49-4d72-862d-d10a06f7a58e,tn_gr2_tam_t1_ch9a,tn_gr2_tam_t1_ch9a chapter in tamil,story,EkStep,ta,live,,,,,,,,,,,,2023-12-07T07:48:43.680Z
+65717afd18da2cbda941cfae,91b48a23-f7f3-4f67-9ec5-a068035f096a,tn_gr2_tam_t1_ch8a,tn_gr2_tam_t1_ch8a chapter in tamil,story,EkStep,ta,live,,,,,,,,,,,,2023-12-07T07:48:43.680Z
+65717afe18da2cbda941cfb0,80359707-6d54-47bb-b868-7b3bf2c31f5c,tn_gr1_tam_t1_ch3i,tn_gr1_tam_t1_ch3i chapter in tamil,story,EkStep,ta,live,,,,,,,,,,,,2023-12-07T07:48:43.680Z
+65717afe18da2cbda941cfb2,66b47801-a39f-43b0-b005-32ec90e70bcf,tn_gr2_tam_t2_ch1a,tn_gr2_tam_t2_ch1a chapter in tamil,story,EkStep,ta,live,,,,,,,,,,,,2023-12-07T07:48:43.680Z
+65717afe18da2cbda941cfb4,926bdd49-46d3-4b81-a682-a8a19cf9868f,tn_gr2_tam_t2_ch5a,tn_gr2_tam_t2_ch5a chapter in tamil,story,EkStep,ta,live,,,,,,,,,,,,2023-12-07T07:48:43.680Z
+65717afe18da2cbda941cfb6,113dc9cd-1048-41f2-9078-37efdd92e3e3,tn_gr4_tamil_t1_ch1b,tn_gr4_tamil_t1_ch1b chapter in tamil,story,EkStep,ta,live,,,,,,,,,,,,2023-12-07T07:48:43.680Z
+65717afe18da2cbda941cfb8,a09c2c8a-b50b-475d-a003-8167a231692e,tn_gr2_tam_t1_ch1a,tn_gr2_tam_t1_ch1a chapter in tamil,story,EkStep,ta,live,,,,,,,,,,,,2023-12-07T07:48:43.680Z
+65717aff18da2cbda941cfba,4c5ec34b-6e73-453e-bdd5-70c813d2b2df,tn_gr4_tam_t1_ch2e,tn_gr4_tam_t1_ch2e chapter in tamil,story,EkStep,ta,live,,,,,,,,,,,,2023-12-07T07:48:43.680Z
+65717aff18da2cbda941cfbc,87112224-cc23-4bdb-9a1f-a60229b2b2fe,tn_gr3_tam_t3_ch3a,tn_gr3_tam_t3_ch3a chapter in tamil,story,EkStep,ta,live,,,,,,,,,,,,2023-12-07T07:48:43.680Z
+65717aff18da2cbda941cfbe,ddee999a-a4b7-4d24-9650-e592caa45188,tn_gr3_tam_t1.ch3b,tn_gr3_tam_t1.ch3b chapter in tamil,story,EkStep,ta,live,,,,,,,,,,,,2023-12-07T07:48:43.680Z
+65717aff18da2cbda941cfc0,a2cd6162-ce14-4fe4-8b06-b7d50cbd8b5b,tn_gr5_tam_t3_ch1c,tn_gr5_tam_t3_ch1c chapter in tamil,story,EkStep,ta,live,,,,,,,,,,,,2023-12-07T07:48:43.680Z
+65717aff18da2cbda941cfc2,5a7d3569-12c9-4ece-ad01-884f6cfbb825,tn_gr1_tam_t2_ch2b,tn_gr1_tam_t2_ch2b chapter in tamil,story,EkStep,ta,live,,,,,,,,,,,,2023-12-07T07:48:43.680Z
+65717aff18da2cbda941cfc4,8cfb24cb-8106-42ae-b273-19ee7a30da6f,tn_gr2_tam_t1_ch9d,tn_gr2_tam_t1_ch9d chapter in tamil,story,EkStep,ta,live,,,,,,,,,,,,2023-12-07T07:48:43.680Z
+65717b0018da2cbda941cfc6,5d50f53d-c2a0-4b27-9069-f04caee0f227,tn_gr5_tam_t1_ch3b,tn_gr5_tam_t1_ch3b chapter in tamil,story,EkStep,ta,live,,,,,,,,,,,,2023-12-07T07:48:43.680Z
+65717b0018da2cbda941cfc8,1d2a816f-61af-49f5-8bdb-92ba9695c06e,tn_gr5_tam_t3_ch3c,tn_gr5_tam_t3_ch3c chapter in tamil,story,EkStep,ta,live,,,,,,,,,,,,2023-12-07T07:48:43.680Z
+65717b0018da2cbda941cfca,a7cb8b2e-4191-4f10-8e7b-db9d1ed763ef,tn_gr5_tam_t1_ch1a,tn_gr5_tam_t1_ch1a chapter in tamil,story,EkStep,ta,live,,,,,,,,,,,,2023-12-07T07:48:43.680Z
+65717b0018da2cbda941cfcc,b102f6fd-49ec-4d0a-8c74-4cfb49cc5ea1,tn_gr2_tam_t3_ch8a,tn_gr2_tam_t3_ch8a chapter in tamil,story,EkStep,ta,live,,,,,,,,,,,,2023-12-07T07:48:43.680Z
+65717b0018da2cbda941cfce,598653a8-51f2-4876-853e-271764afde02,tn_gr4_tam_t1_ch6b,tn_gr4_tam_t1_ch6b chapter in tamil,story,EkStep,ta,live,,,,,,,,,,,,2023-12-07T07:48:43.680Z
+65717b0118da2cbda941cfd0,f78f1bf8-960b-433b-ab56-eca7d542e17c,tn_gr2_tam_t1_ch4a,tn_gr2_tam_t1_ch4a chapter in tamil,story,EkStep,ta,live,,,,,,,,,,,,2023-12-07T07:48:43.680Z
+65717b0118da2cbda941cfd2,12d652d8-0a69-4414-b1df-d96e6df20b0d,tn_gr3_tam_t1_ch5b,tn_gr3_tam_t1_ch5b chapter in tamil,story,EkStep,ta,live,,,,,,,,,,,,2023-12-07T07:48:43.680Z
+65717b0118da2cbda941cfd4,f907d2a2-5f00-42db-8611-1e58d8b6d513,tn_gr1_tam_t2_ch3c,tn_gr1_tam_t2_ch3c chapter in tamil,story,EkStep,ta,live,,,,,,,,,,,,2023-12-07T07:48:43.680Z
+65717b0118da2cbda941cfd6,841bac92-fe8d-4229-ae9b-6521d2b53dc9,tn_gr2_tam_t1_ch7a,tn_gr2_tam_t1_ch7a chapter in tamil,story,EkStep,ta,live,,,,,,,,,,,,2023-12-07T07:48:43.680Z
+65717b0118da2cbda941cfd8,ee229f02-2599-45e7-b915-ef96177d96e2,tn_gr2_tam_t3_ch1b,tn_gr2_tam_t3_ch1b chapter in tamil,story,EkStep,ta,live,,,,,,,,,,,,2023-12-07T07:48:43.680Z
+65717b0218da2cbda941cfda,8cf28d23-33f3-422f-aa9d-95e3a8d3f1a2,tn_gr5_tam_t1_ch3a,tn_gr5_tam_t1_ch3a chapter in tamil,story,EkStep,ta,live,,,,,,,,,,,,2023-12-07T07:48:43.680Z
+65717b0218da2cbda941cfdc,bbfd5510-8e08-4c9c-b295-a08b90e9b26c,tn_gr3_tam_t2_ch3b,tn_gr3_tam_t2_ch3b chapter in tamil,story,EkStep,ta,live,,,,,,,,,,,,2023-12-07T07:48:43.680Z
+65717b0218da2cbda941cfde,56687acb-71e4-4631-bae9-bbc7e4e5e096,tn_gr3_tam_t3_ch2a,tn_gr3_tam_t3_ch2a chapter in tamil,story,EkStep,ta,live,,,,,,,,,,,,2023-12-07T07:48:43.680Z
+65717b0218da2cbda941cfe0,1c67618b-8f11-400b-884d-eafe091e9ef7,tn_gr1_tam_t1_ch3d,tn_gr1_tam_t1_ch3d chapter in tamil,story,EkStep,ta,live,,,,,,,,,,,,2023-12-07T07:48:43.680Z
+65717b0218da2cbda941cfe2,2eedcff2-38bf-4c10-91a7-36bfd38a50f0,tn_gr1_tam_t1_ch3k,tn_gr1_tam_t1_ch3k chapter in tamil,story,EkStep,ta,live,,,,,,,,,,,,2023-12-07T07:48:43.680Z
+65717b0318da2cbda941cfe4,f1725820-3db6-41a4-a4f0-be706e2b7567,tn_gr4_tam_t1_ch3c,tn_gr4_tam_t1_ch3c chapter in tamil,story,EkStep,ta,live,,,,,,,,,,,,2023-12-07T07:48:43.680Z
+65717b0318da2cbda941cfe6,1eed595d-8551-4abc-a3db-cb2d227452f0,tn_gr4_tam_t1_ch9b,tn_gr4_tam_t1_ch9b chapter in tamil,story,EkStep,ta,live,,,,,,,,,,,,2023-12-07T07:48:43.680Z
+65717b0318da2cbda941cfe8,33dcd93f-c274-40ab-99a0-dea1914dd40f,tn_gr1_tam_t1_ch4d,tn_gr1_tam_t1_ch4d chapter in tamil,story,EkStep,ta,live,,,,,,,,,,,,2023-12-07T07:48:43.680Z
+65717b0318da2cbda941cfea,1f0c45e7-241d-46e3-998a-19d3e584d34e,tn_gr4_tam_t1_ch6a,tn_gr4_tam_t1_ch6a chapter in tamil,story,EkStep,ta,live,,,,,,,,,,,,2023-12-07T07:48:43.680Z
+65717b0318da2cbda941cfec,7aa21b43-7188-4ba7-a4d9-a261cc015e6f,tn_gr1_tam_t2_ch2c,tn_gr1_tam_t2_ch2c chapter in tamil,story,EkStep,ta,live,,,,,,,,,,,,2023-12-07T07:48:43.680Z
+65717b0418da2cbda941cfee,fad018ea-6e1a-489c-97d1-57104422b3d5,tn_gr3_tam_t3_ch7a,tn_gr3_tam_t3_ch7a chapter in tamil,story,EkStep,ta,live,,,,,,,,,,,,2023-12-07T07:48:43.680Z
+65717b0418da2cbda941cff0,18f608d1-2a8d-4a15-923a-aab0c3a7f5f9,tn_gr3_tam_t1_ch2a,tn_gr3_tam_t1_ch2a chapter in tamil,story,EkStep,ta,live,,,,,,,,,,,,2023-12-07T07:48:43.680Z
+65717b0418da2cbda941cff2,edfb7d35-e7a0-4d88-9667-a3cc2dc1839f,tn_gr1_tam_t2_ch1a,tn_gr1_tam_t2_ch1a chapter in tamil,story,EkStep,ta,live,,,,,,,,,,,,2023-12-07T07:48:43.680Z
+65717b0618da2cbda941cff4,431a0ec6-fa38-4ef3-a99c-0586b67ed33f,tn_gr2_tam_t3_ch6a,tn_gr2_tam_t3_ch6a chapter in tamil,story,EkStep,ta,live,,,,,,,,,,,,2023-12-07T07:48:43.680Z
+65717b0618da2cbda941cff6,7ca9e48b-0848-4690-8b92-f60880096e06,tn_gr5_tam_t2_ch3c,tn_gr5_tam_t2_ch3c chapter in tamil,story,EkStep,ta,live,,,,,,,,,,,,2023-12-07T07:48:43.680Z
+65717b0618da2cbda941cff8,08112a90-de7f-4d5a-a89d-3de836e8cf9d,tn_gr1_tam_t1_ch3o,tn_gr1_tam_t1_ch3o chapter in tamil,story,EkStep,ta,live,,,,,,,,,,,,2023-12-07T07:48:43.680Z
+65717b0618da2cbda941cffa,d45703cc-63f3-4842-86f9-3f149d79743a,tn_gr4_tam_t1_ch5a,tn_gr4_tam_t1_ch5a chapter in tamil,story,EkStep,ta,live,,,,,,,,,,,,2023-12-07T07:48:43.680Z
+65717b0718da2cbda941cffc,c71e177d-d7df-4e04-b0eb-a0124e3727ab,tn_gr3_tam_t3_6a,tn_gr3_tam_t3_6a chapter in tamil,story,EkStep,ta,live,,,,,,,,,,,,2023-12-07T07:48:43.680Z
+65717b0718da2cbda941cffe,4947c0f8-6b90-4bcd-82a0-66084da3e5bd,tn_gr4_tam_t1_ch8a,tn_gr4_tam_t1_ch8a chapter in tamil,story,EkStep,ta,live,,,,,,,,,,,,2023-12-07T07:48:43.680Z
+65717b0718da2cbda941d000,9406e80d-3efd-4a51-b540-17b7e0823310,tn_gr3_tam_t1_ch7a,tn_gr3_tam_t1_ch7a chapter in tamil,story,EkStep,ta,live,,,,,,,,,,,,2023-12-07T07:48:43.680Z
+65717b0718da2cbda941d002,e5269153-753b-495e-a53f-f77dd8598c48,tn_gr5_tam_t2_ch1b,tn_gr5_tam_t2_ch1b chapter in tamil,story,EkStep,ta,live,,,,,,,,,,,,2023-12-07T07:48:43.680Z
+65717b0718da2cbda941d004,62ba01cc-04fc-4048-97a7-2a4d83ea14cb,tn_gr1_tam_t1_ch3u,tn_gr1_tam_t1_ch3u chapter in tamil,story,EkStep,ta,live,,,,,,,,,,,,2023-12-07T07:48:43.680Z
+65717b0818da2cbda941d006,bd3283c0-f95d-4a03-aa0a-7d5f7562b450,tn_gr1_tam_t1_ch3t,tn_gr1_tam_t1_ch3t chapter in tamil,story,EkStep,ta,live,,,,,,,,,,,,2023-12-07T07:48:43.680Z
+65717b0818da2cbda941d008,8c1c251b-95c0-49a2-8858-6f2678ed10aa,tn_gr2_tam_t1_ch9b,tn_gr2_tam_t1_ch9b chapter in tamil,story,EkStep,ta,live,,,,,,,,,,,,2023-12-07T07:48:43.680Z
+65717b0818da2cbda941d00a,99343f11-33ce-4c0b-8d96-024cdd27be35,tn_gr3_tam_t1_ch5a,tn_gr3_tam_t1_ch5a chapter in tamil,story,EkStep,ta,live,,,,,,,,,,,,2023-12-07T07:48:43.680Z
+65717b0818da2cbda941d00c,547e9c0a-e769-45b0-93cc-eb8d665bbcb5,tn_gr5_tam_t2_ch2d,tn_gr5_tam_t2_ch2d chapter in tamil,story,EkStep,ta,live,,,,,,,,,,,,2023-12-07T07:48:43.680Z
+65717b0818da2cbda941d00e,37a4eabd-5f80-4fa6-a834-8ba09bef1065,tn_gr1_tam_t1_ch3p,tn_gr1_tam_t1_ch3p chapter in tamil,story,EkStep,ta,live,,,,,,,,,,,,2023-12-07T07:48:43.680Z
+65717b0918da2cbda941d010,63f2e9f1-f416-4fb0-87d6-febea0624d05,tn_gr1_tam_t1_ch3f,tn_gr1_tam_t1_ch3f chapter in tamil,story,EkStep,ta,live,,,,,,,,,,,,2023-12-07T07:48:43.680Z
+65717b0918da2cbda941d012,f4a879a2-286b-433f-b8ea-1eb55f5bd1e1,tn_gr1_tam_t2_ch2e,tn_gr1_tam_t2_ch2e chapter in tamil,story,EkStep,ta,live,,,,,,,,,,,,2023-12-07T07:48:43.680Z
 65804946ea0fa8fccc399940,94312c93-5bb8-4144-8822-9a61ad1cd5a8,எழுத்துக்கள்,ASAR Set எழுத்துக்கள்,Char,ASER,ta,live,ASER|set1|m1,,,,,,,,,,,2023-12-18T10:53:49.787Z
-6580495bea0fa8fccc399942,bd20fee5-31c3-48d9-ab6f-842eeebf17ff,வார்த்தைகள்,ASAR Set வார்த்தைகள்,Word,ASER,ta,live,ASER|set2|m2,,,,,,,,,,,2023-12-18T10:53:49.787Z
-65804975ea0fa8fccc399944,5221f84c-8abb-4601-a9d0-f8d8dd496566,வாக்கியங்கள்,ASAR Set வாக்கியங்கள்,Sentence,ASER,ta,live,ASER|set3|m3,,,,,,,,,,,2023-12-18T10:53:49.787Z
-658049a3ea0fa8fccc399946,986ff23e-8b56-4366-8510-8a7e7e0f36da,வாக்கியங்கள் 2,ASAR Set வாக்கியங்கள் 2,Sentence,ASER,ta,live,ASER|set4|m4,,,,,,,,,,,2023-12-18T10:53:49.787Z
-658049bfea0fa8fccc399948,67b820f5-096d-42c2-acce-b781d59efe7e,கதை,ASAR Set கதை,Sentence,ASER,ta,live,ASER|set5|m5,,,,,,,,,,,2023-12-18T10:53:49.787Z
+6580495bea0fa8fccc399942,bd20fee5-31c3-48d9-ab6f-842eeebf17ff,வார்த்தைகள்,ASAR Set வார்த்தைகள்,Word,ASER,ta,live,ASER|set3|m2,,,,,,,,,,,2023-12-18T10:53:49.787Z
+65804975ea0fa8fccc399944,5221f84c-8abb-4601-a9d0-f8d8dd496566,வாக்கியங்கள்,ASAR Set வாக்கியங்கள்,Sentence,ASER,ta,live,ASER|set5|m3,,,,,,,,,,,2023-12-18T10:53:49.787Z
+658049a3ea0fa8fccc399946,986ff23e-8b56-4366-8510-8a7e7e0f36da,வாக்கியங்கள் 2,ASAR Set வாக்கியங்கள் 2,Sentence,ASER,ta,live,ASER|set4|m0,,,,,,,,,,,2023-12-18T10:53:49.787Z
+658049bfea0fa8fccc399948,67b820f5-096d-42c2-acce-b781d59efe7e,கதை,ASAR Set கதை,Sentence,ASER,ta,live,ASER|set6|m4,,,,,,,,,,,2023-12-18T10:53:49.787Z
 65b74697bbb8d9570afafc8c,42396ff6-fa50-418d-88d6-caa96f01eab8,The Turtle 1,The Turtle,word,Aser-1,ta,live,,,,,,,,,,,,2024-01-24T04:11:28.875Z
 65b746c6bbb8d9570afafc90,170125b6-9fca-41d5-9d8b-99ffd3dc53cc,The Tourtise,The Tourtise,word,Aser,ta,live,,,,,,,,,,,,2024-01-24T04:11:28.875Z
 65b747a6bbb8d9570afafc96,30630872-3c7b-47d7-9c22-6a2f29b5ab38,The Turtle 2,The Turtle,word,Aser,ta,live,,,,,,,,,,,,2024-01-24T04:11:28.875Z
@@ -172,10 +171,10 @@
 65c42b7eb38c19013900a8b8,82d49134-81ca-4850-94b2-77f18368274d,Passages,Passages,Paragraph,Ekstep,kn,live,,,,,,,,,,,,2024-02-07T23:38:21.223Z
 65c42d05b38c19013900a8c0,c6fc312d-cb41-4d13-b4a9-7ef1447c35eb,Teacher-Teacher,Teacher-Teacher,Word,Ekstep,kn,live,,,,,,,,,,,,2024-02-07T23:38:21.223Z
 65c46ed2b38c19013900a91e,ac930427-4a73-41a8-94d5-be74defd2993,Set 1 - ಅಕ್ಷರ,Set 1 - ಅಕ್ಷರ,Char,Pratham,kn,live,ASER|set1|m1,,,,,,,,,,,2024-02-07T23:38:21.223Z
-65c472a5b38c19013900a93a,b755df98-198b-440a-90e0-391579ef4bfb,Set 2 - ಪದ,Set 2 - ಪದ,Word,Pratham,kn,live,ASER|set2|m2,,,,,,,,,,,2024-02-07T23:38:21.223Z
-65c47453b38c19013900a951,1cc3b4d4-79ad-4412-9325-b7fb6ca875bf,Set 3 - ಪ್ಯಾರ,Set 3 - ಪ್ಯಾರ,Sentence,Pratham,kn,live,ASER|set3|m0,,,,,,,,,,,2024-02-07T23:38:21.223Z
-65c476acb38c19013900a95c,29bb9cff-9510-4693-bec5-9436a686b836,Set 4 - ಪ್ಯಾರ 2,Set 4 - ಪ್ಯಾರ 2,Sentence,Pratham,kn,live,ASER|set4|m4,,,,,,,,,,,2024-02-07T23:38:21.223Z
-65c477f8b38c19013900a966,a2c5e2ef-27b8-43d0-9c17-38cdcfe50f4c,Set 5 - ಕಥೆ,Set 5 - ಕಥೆ,Paragraph,Pratham,kn,live,ASER|set5|m5,,,,,,,,,,,2024-02-07T23:38:21.223Z
+65c472a5b38c19013900a93a,b755df98-198b-440a-90e0-391579ef4bfb,Set 2 - ಪದ,Set 2 - ಪದ,Word,Pratham,kn,live,ASER|set3|m2,,,,,,,,,,,2024-02-07T23:38:21.223Z
+65c47453b38c19013900a951,1cc3b4d4-79ad-4412-9325-b7fb6ca875bf,Set 3 - ಪ್ಯಾರ,Set 3 - ಪ್ಯಾರ,Sentence,Pratham,kn,live,ASER|set4|m0,,,,,,,,,,,2024-02-07T23:38:21.223Z
+65c476acb38c19013900a95c,29bb9cff-9510-4693-bec5-9436a686b836,Set 4 - ಪ್ಯಾರ 2,Set 4 - ಪ್ಯಾರ 2,Sentence,Pratham,kn,live,ASER|set6|m4,,,,,,,,,,,2024-02-07T23:38:21.223Z
+65c477f8b38c19013900a966,a2c5e2ef-27b8-43d0-9c17-38cdcfe50f4c,Set 5 - ಕಥೆ,Set 5 - ಕಥೆ,Sentence,Ekstep,kn,live,ASER|set5|m3,,,,,,,,,,,2024-02-07T23:38:21.223Z
 65c4d8eeb38c19013900ab27,912c0bd7-c77f-487f-9e57-1fd18f901e35,tn gr1 eng t1 ch1a,tn gr1 eng t1 ch1a,Sentence,Ekstep,en,live,,,,,,,,,,,,2024-02-07T23:38:21.223Z
 65c4daeeb38c19013900ab3b,6b78d340-b631-4238-b74e-e7384d538724,tn gr1 eng t1 ch1b,tn gr1 eng t1 ch1b,Sentence,Ekstep,en,live,,,,,,,,,,,,2024-02-07T23:38:21.223Z
 65c4dbe5b38c19013900ab58,7ce13d56-acd0-40dc-a7ff-7ff75e047f9c,tn gr1 eng t1 ch1m,tn gr1 eng t1 ch1m,Sentence,Ekstep,en,live,,,,,,,,,,,,2024-02-07T23:38:21.223Z
@@ -451,10 +450,10 @@
 65c62c44b38c19013900b0f8,6a398130-9b4f-484a-a792-856642be011b,tn gr5 eng t3 ch3e,tn gr5 eng t3 ch3e,Paragraph,Ekstep,en,live,,,,,,,,,,,,2024-02-07T23:38:21.223Z
 65c62ce4b38c19013900b0fa,a34d3df1-61e0-4295-9c57-4acf669ce1a1,tn gr5 eng t3 ch3f,tn gr5 eng t3 ch3f,Paragraph,Ekstep,en,live,,,,,,,,,,,,2024-02-07T23:38:21.223Z
 65c9ffb4b38c19013900b710,5b69052e-f609-4004-adce-cf0fcfdac98b,(reading test sample - 1)Letter,(reading test sample - 1)Letter,Char,Ekstep,en,live,ASER|set1|m1,,,,,,,,,,,2024-02-07T23:38:21.223Z
-65ca0213b38c19013900b718,91a5279d-f4a2-4c4d-bc8f-0b15ba6e5995,(reading test sample - 1)Word,(reading test sample - 1)Word,Word,Ekstep,en,live,ASER|set2|m2,,,,,,,,,,,2024-02-07T23:38:21.223Z
-65ca0733b38c19013900d22c,36e4cff0-0552-4107-b8f4-9f9c5a3ff3c1,(reading test sample - 1)Para,(reading test sample - 1)Para,Sentence,Ekstep,en,live,ASER|set3|m0,,,,,,,,,,,2024-02-07T23:38:21.223Z
-65ca079db38c19013900d22f,f9eb8c70-524f-46a1-a737-1eec64a42e6f,(reading test sample - 1)Para2,(reading test sample - 1)Para2,Sentence,Ekstep,en,live,ASER|set4|m4,,,,,,,,,,,2024-02-07T23:38:21.223Z
-65ca07f6b38c19013900d231,e62061ea-4195-4460-b8e3-c0433bf8624e,(reading test sample - 1)Story,(reading test sample - 1)Story,Sentence,Ekstep,en,live,ASER|set5|m5,,,,,,,,,,,2024-02-07T23:38:21.223Z
+65ca0213b38c19013900b718,91a5279d-f4a2-4c4d-bc8f-0b15ba6e5995,(reading test sample - 1)Word,(reading test sample - 1)Word,Word,Ekstep,en,live,ASER|set3|m2,,,,,,,,,,,2024-02-07T23:38:21.223Z
+65ca0733b38c19013900d22c,36e4cff0-0552-4107-b8f4-9f9c5a3ff3c1,(reading test sample - 1)Para,(reading test sample - 1)Para,Sentence,Ekstep,en,live,ASER|set4|m0,,,,,,,,,,,2024-02-07T23:38:21.223Z
+65ca079db38c19013900d22f,f9eb8c70-524f-46a1-a737-1eec64a42e6f,(reading test sample - 1)Para2,(reading test sample - 1)Para2,Sentence,Ekstep,en,live,ASER|set5|m3,,,,,,,,,,,2024-02-07T23:38:21.223Z
+65ca07f6b38c19013900d231,e62061ea-4195-4460-b8e3-c0433bf8624e,(reading test sample - 1)Story,(reading test sample - 1)Story,Sentence,Ekstep,en,live,ASER|set6|m4,,,,,,,,,,,2024-02-07T23:38:21.223Z
 65d5e3c86e0aa2639652555c,b4ade8b2-1d6b-4d14-aca5-ccd9124fce50,unique_consonant+vowel  ಅ,unique_consonant+vowel  ಅ,Word,Ekstep,kn,live,,,,,,,,,,,,2024-02-20T10:42:04.834Z
 65d5e6ce6e0aa26396525585,aba1358f-d8cf-44f0-8557-5079b34c69a4,unique_consonant+vowel A ಆ,unique_consonant+vowel A ಆ,Word,Ekstep,kn,live,,,,,,,,,,,,2024-02-20T10:42:04.834Z
 65d5e7366e0aa26396525589,0fc18ffd-d12c-41ed-b540-ca0474ddb82d,unique_consonant+vowel ai ಐ,unique_consonant+vowel ai ಐ,Word,Ekstep,kn,live,,,,,,,,,,,,2024-02-20T10:42:04.834Z
@@ -476,8 +475,8 @@
 65d5ef306e0aa26396525609,168da765-0fd8-4f7b-82b9-479f24c21ac3,unique_L3(3-5 Words),unique_L3(3-5 Words),Sentence,Ekstep,kn,live,,,,,,,,,,,,2024-02-20T10:42:04.834Z
 65d5ef5c6e0aa26396525611,242ea0ad-ccea-453d-ada9-25480095c2da,unique_L4,unique_L4,Word,Ekstep,kn,live,,,,,,,,,,,,2024-02-20T10:42:04.834Z
 65d5ef7b6e0aa26396525622,e2ddd945-261b-474f-a3d5-fe34306596c1,unique_L4(5-7 words),unique_L4(5-7 words),Sentence,Ekstep,kn,live,,,,,,,,,,,,2024-02-20T10:42:04.834Z
-65db23a60a2774b19956f140,ddc95143-333a-4d24-baa4-f33feeb74c80,unique_L4(5-7 words,unique_L4(5-7 words,Sentence,Ekstep,kn,live,,,,,,,,,,,,2024-02-23T19:22:14.47Z
-65dc86850a2774b19956f6c1,b1e07dd8-8402-4658-a9da-4e4dbc8c3c42,L2,L2,Word,Ekstep,en,live,,,,,,,,,,,,2024-02-23T19:22:14.47Z
+65db23a60a2774b19956f140,ddc95143-333a-4d24-baa4-f33feeb74c80,unique_L4(5-7 words,unique_L4(5-7 words,Sentence,Ekstep,kn,live,,,,,,,,,,,,2024-02-23T19:22:14.470Z
+65dc86850a2774b19956f6c1,b1e07dd8-8402-4658-a9da-4e4dbc8c3c42,L2,L2,Word,Ekstep,en,live,,,,,,,,,,,,2024-02-23T19:22:14.470Z
 65ddd8464221712a8b12aa60,0aea5641-3b26-427f-bddb-f2e31cc55e0a,english_l1andl2,english_l1andl2,Word,Ekstep,en,live,,,,,,,,,,,,2024-02-26T20:50:35.451Z
 65e0766b96d65c7027755cdc,438e4afe-32ea-4136-9219-f92c1e80f38c,L2_new,L2_new,Word,Ekstep,en,live,,,,,,,,,,,,2024-02-27T18:42:04.913Z
 65e07e5696d65c7027755d7a,8f9ad9cf-cc0a-47ee-86be-18a7544ed459,L2_new_2,L2_new_2,Word,Ekstep,en,live,,,,,,,,,,,,2024-02-27T18:42:04.913Z
@@ -488,67 +487,67 @@
 65e8519575372f314360a56a,d95a1672-70d3-437f-92da-9013a4e5e593,अक्षर-2,अक्षर-2,Char,Ekstep,hi,live,ASER|set1|m1,,,,,,,,,,,2024-02-29T12:55:30.796Z
 65e851c675372f314360a574,dfe36bd6-91d5-436e-b283-0dc3704f19f5,अक्षर-3,अक्षर-3,Char,Ekstep,hi,live,ASER|set1|m1,,,,,,,,,,,2024-02-29T12:55:30.796Z
 65e851eb75372f314360a57f,e0021945-8948-4467-a256-13b5bfbbe6af,अक्षर-4,अक्षर-4,Char,Ekstep,hi,live,ASER|set1|m1,,,,,,,,,,,2024-02-29T12:55:30.796Z
-65e8522a75372f314360a58e,ee548dec-f599-47a4-8767-bddadb20ed70,कहानी -1,कहानी -1,Sentence,Ekstep,hi,live,ASER|set5|m5,,,,,,,,,,,2024-02-29T12:55:30.796Z
-65e8524675372f314360a590,a1cd9d37-2fe1-429f-8830-dde473b9e87f,कहानी -2,कहानी -2,Sentence,Ekstep,hi,live,ASER|set5|m5,,,,,,,,,,,2024-02-29T12:55:30.796Z
-65e8527275372f314360a595,1da05e37-8ddc-4a5e-b059-abaa3ef45198,कहानी -3,कहानी -3,Sentence,Ekstep,hi,live,ASER|set5|m5,,,,,,,,,,,2024-02-29T12:55:30.796Z
-65e8529075372f314360a597,62fca34f-12da-4017-83f5-ae88bf99c48d,कहानी -4,कहानी -4,Sentence,Ekstep,hi,live,ASER|set5|m5,,,,,,,,,,,2024-02-29T12:55:30.796Z
-65e852da75372f314360a5af,6f64d4a2-b6e5-4a2b-91e5-f6be9f2d4d8b,शब्द-1,शब्द-1,Word,Ekstep,hi,live,ASER|set2|m2,,,,,,,,,,,2024-02-29T12:55:30.796Z
-65e8530075372f314360a5bd,00644696-a8b6-48fc-b73f-25a0da567a14,शब्द-2,शब्द-2,Word,Ekstep,hi,live,ASER|set2|m2,,,,,,,,,,,2024-02-29T12:55:30.796Z
-65e8532175372f314360a5c5,2a1a6894-d953-4a26-a294-a7f66469b209,शब्द-3,शब्द-3,Word,Ekstep,hi,live,ASER|set2|m2,,,,,,,,,,,2024-02-29T12:55:30.796Z
-65e8535175372f314360a5c7,e0bdd73c-dd8b-4c2b-92cf-be753fd32c46,शब्द-4,शब्द-4,Word,Ekstep,hi,live,ASER|set2|m2,,,,,,,,,,,2024-02-29T12:55:30.796Z
-65e86638dee499a6209e6ee9,0d00c89d-5c73-4de1-9153-c300c972ad64,(अनुच्छेद-एक)-1,(अनुच्छेद-एक)-1,Sentence,Ekstep,hi,live,ASER|set3|m0,,,,,,,,,,,2024-03-06T12:14:19.158Z
-65e8666edee499a6209e6ef6,f10b7f82-8a1a-4448-b319-6eea17acff26,(अनुच्छेद-एक)-2,(अनुच्छेद-एक)-2,Sentence,Ekstep,hi,live,ASER|set3|m0,,,,,,,,,,,2024-03-06T12:14:19.158Z
-65e86767dee499a6209e6f25,9e77a188-6785-4e56-b2d0-bfac97bcc6a2,(अनुच्छेद-एक)-3,(अनुच्छेद-एक)-3,Sentence,Ekstep,hi,live,ASER|set3|m0,,,,,,,,,,,2024-03-06T12:14:19.158Z
-65e8679edee499a6209e6f2d,7765ff21-e07a-4a68-9b42-18751f504ef0,(अनुच्छेद-एक)-4,(अनुच्छेद-एक)-4,Sentence,Ekstep,hi,live,ASER|set3|m0,,,,,,,,,,,2024-03-06T12:14:19.158Z
-65e86832dee499a6209e6f34,ab289254-45b1-40ed-9b84-3e414577120f,(अनुच्छेद- दो)-1,(अनुच्छेद- दो)-1,Sentence,Ekstep,hi,live,ASER|set4|m3,,,,,,,,,,,2024-03-06T12:14:19.158Z
-65e86869dee499a6209e6f38,98a53df5-c4e3-4045-870d-1154f1e5023a,(अनुच्छेद- दो)-2,(अनुच्छेद- दो)-2,Sentence,Ekstep,hi,live,ASER|set4|m3,,,,,,,,,,,2024-03-06T12:14:19.158Z
-65e86889dee499a6209e6f3a,8c438757-e35b-4beb-ae5f-015a9ed3f7f6,(अनुच्छेद- दो)-3,(अनुच्छेद- दो)-3,Sentence,Ekstep,hi,live,ASER|set4|m3,,,,,,,,,,,2024-03-06T12:14:19.158Z
-65e868cddee499a6209e6f40,a8492aad-b904-406a-bae1-e3f6ebda48ca,(अनुच्छेद- दो)-4,(अनुच्छेद- दो)-4,Sentence,Ekstep,hi,live,ASER|set4|m3,,,,,,,,,,,2024-03-06T12:14:19.158Z
+65e8522a75372f314360a58e,ee548dec-f599-47a4-8767-bddadb20ed70,कहानी -1,कहानी -1,Sentence,Ekstep,hi,live,ASER|set6|m4,,,,,,,,,,,2024-02-29T12:55:30.796Z
+65e8524675372f314360a590,a1cd9d37-2fe1-429f-8830-dde473b9e87f,कहानी -2,कहानी -2,Sentence,Ekstep,hi,live,ASER|set6|m4,,,,,,,,,,,2024-02-29T12:55:30.796Z
+65e8527275372f314360a595,1da05e37-8ddc-4a5e-b059-abaa3ef45198,कहानी -3,कहानी -3,Sentence,Ekstep,hi,live,ASER|set6|m4,,,,,,,,,,,2024-02-29T12:55:30.796Z
+65e8529075372f314360a597,62fca34f-12da-4017-83f5-ae88bf99c48d,कहानी -4,कहानी -4,Sentence,Ekstep,hi,live,ASER|set6|m4,,,,,,,,,,,2024-02-29T12:55:30.796Z
+65e852da75372f314360a5af,6f64d4a2-b6e5-4a2b-91e5-f6be9f2d4d8b,शब्द-1,शब्द-1,Word,Ekstep,hi,live,ASER|set3|m2,,,,,,,,,,,2024-02-29T12:55:30.796Z
+65e8530075372f314360a5bd,00644696-a8b6-48fc-b73f-25a0da567a14,शब्द-2,शब्द-2,Word,Ekstep,hi,live,ASER|set3|m2,,,,,,,,,,,2024-02-29T12:55:30.796Z
+65e8532175372f314360a5c5,2a1a6894-d953-4a26-a294-a7f66469b209,शब्द-3,शब्द-3,Word,Ekstep,hi,live,ASER|set3|m2,,,,,,,,,,,2024-02-29T12:55:30.796Z
+65e8535175372f314360a5c7,e0bdd73c-dd8b-4c2b-92cf-be753fd32c46,शब्द-4,शब्द-4,Word,Ekstep,hi,live,ASER|set3|m2,,,,,,,,,,,2024-02-29T12:55:30.796Z
+65e86638dee499a6209e6ee9,0d00c89d-5c73-4de1-9153-c300c972ad64,(अनुच्छेद-एक)-1,(अनुच्छेद-एक)-1,Sentence,Ekstep,hi,live,ASER|set4|m0,,,,,,,,,,,2024-03-06T12:14:19.158Z
+65e8666edee499a6209e6ef6,f10b7f82-8a1a-4448-b319-6eea17acff26,(अनुच्छेद-एक)-2,(अनुच्छेद-एक)-2,Sentence,Ekstep,hi,live,ASER|set4|m0,,,,,,,,,,,2024-03-06T12:14:19.158Z
+65e86767dee499a6209e6f25,9e77a188-6785-4e56-b2d0-bfac97bcc6a2,(अनुच्छेद-एक)-3,(अनुच्छेद-एक)-3,Sentence,Ekstep,hi,live,ASER|set4|m0,,,,,,,,,,,2024-03-06T12:14:19.158Z
+65e8679edee499a6209e6f2d,7765ff21-e07a-4a68-9b42-18751f504ef0,(अनुच्छेद-एक)-4,(अनुच्छेद-एक)-4,Sentence,Ekstep,hi,live,ASER|set4|m0,,,,,,,,,,,2024-03-06T12:14:19.158Z
+65e86832dee499a6209e6f34,ab289254-45b1-40ed-9b84-3e414577120f,(अनुच्छेद- दो)-1,(अनुच्छेद- दो)-1,Sentence,Ekstep,hi,live,ASER|set5|m3,,,,,,,,,,,2024-03-06T12:14:19.158Z
+65e86869dee499a6209e6f38,98a53df5-c4e3-4045-870d-1154f1e5023a,(अनुच्छेद- दो)-2,(अनुच्छेद- दो)-2,Sentence,Ekstep,hi,live,ASER|set5|m3,,,,,,,,,,,2024-03-06T12:14:19.158Z
+65e86889dee499a6209e6f3a,8c438757-e35b-4beb-ae5f-015a9ed3f7f6,(अनुच्छेद- दो)-3,(अनुच्छेद- दो)-3,Sentence,Ekstep,hi,live,ASER|set5|m3,,,,,,,,,,,2024-03-06T12:14:19.158Z
+65e868cddee499a6209e6f40,a8492aad-b904-406a-bae1-e3f6ebda48ca,(अनुच्छेद- दो)-4,(अनुच्छेद- दो)-4,Sentence,Ekstep,hi,live,ASER|set5|m3,,,,,,,,,,,2024-03-06T12:14:19.158Z
 65e873b4dee499a6209e70f2,30c5800e-4a02-4259-8328-abf57e4255ca,(reading test sample - 2)Letter,(reading test sample - 2)Letter,Char,Ekstep,en,live,ASER|set1|m1,,,,,,,,,,,2024-03-06T12:14:19.158Z
 65e873efdee499a6209e70f4,b2eb8d4a-5d2b-441a-8269-0151e089c253,(reading test sample - 3)Letter,(reading test sample - 3)Letter,Char,Ekstep,en,live,ASER|set1|m1,,,,,,,,,,,2024-03-06T12:14:19.158Z
 65e8742ddee499a6209e70f6,b12b79ec-f7cb-44b4-99c9-5ea747d4f99a,(reading test sample - 4)Letter,(reading test sample - 4)Letter,Char,Ekstep,en,live,ASER|set1|m1,,,,,,,,,,,2024-03-06T12:14:19.158Z
-65e87493dee499a6209e70f8,fba7282d-aba3-4e95-8916-40b79f9e3f50,(reading test sample - 2)Para,(reading test sample - 2)Para,Sentence,Ekstep,en,live,ASER|set3|m0,,,,,,,,,,,2024-03-06T12:14:19.158Z
-65e874b8dee499a6209e70fa,3c62cb34-9565-4b81-8e96-da86d90b6072,(reading test sample - 3)Para,(reading test sample - 3)Para,Sentence,Ekstep,en,live,ASER|set3|m0,,,,,,,,,,,2024-03-06T12:14:19.158Z
-65e874d6dee499a6209e70fc,c637ac92-2ecf-4015-82e9-c4002479ae32,(reading test sample - 4)Para,(reading test sample - 4)Para,Sentence,Ekstep,en,live,ASER|set3|m0,,,,,,,,,,,2024-03-06T12:14:19.158Z
-65e8754fdee499a6209e70fe,f24d6660-c759-44f9-a4ae-5b46b62098b2,(reading test sample - 2)Para2,(reading test sample - 2)Para2,Sentence,Ekstep,en,live,ASER|set4|m3,,,,,,,,,,,2024-03-06T12:14:19.158Z
-65e87577dee499a6209e7100,f6b5638d-4398-4cf4-833c-42a4695a6425,(reading test sample - 3)Para2,(reading test sample - 3)Para2,Sentence,Ekstep,en,live,ASER|set4|m3,,,,,,,,,,,2024-03-06T12:14:19.158Z
-65e875badee499a6209e7104,87c2866e-6249-4fe1-9b1b-8b22ddd05ea7,(reading test sample - 4)Para2,(reading test sample - 4)Para2,Sentence,Ekstep,en,live,ASER|set4|m3,,,,,,,,,,,2024-03-06T12:14:19.158Z
-65e87618dee499a6209e7106,e276d47b-b262-4af1-b424-ead68b2b83bf,(reading test sample - 2)Story,(reading test sample - 2)Story,Sentence,Ekstep,en,live,ASER|set5|m4,,,,,,,,,,,2024-03-06T12:14:19.158Z
-65e8763ddee499a6209e710d,b9ab3b2f-5c21-4c61-b9c8-90898b5278dd,(reading test sample - 3)Story,(reading test sample - 3)Story,Sentence,Ekstep,en,live,ASER|set5|m4,,,,,,,,,,,2024-03-06T12:14:19.158Z
-65e87665dee499a6209e7114,809039e5-119d-42ae-925f-b2546b1e3d7b,(reading test sample - 4)Story,(reading test sample - 4)Story,Sentence,Ekstep,en,live,ASER|set5|m4,,,,,,,,,,,2024-03-06T12:14:19.158Z
-65e876aadee499a6209e7116,d6d95b4a-9d74-48ff-8f75-a606d5672764,(reading test sample - 2)Word,(reading test sample - 2)Word,Word,Ekstep,en,live,ASER|set2|m2,,,,,,,,,,,2024-03-06T12:14:19.158Z
-65e876cadee499a6209e7118,f99ff325-05c0-4cff-b825-b2cbb9638300,(reading test sample - 3)Word,(reading test sample - 3)Word,Word,Ekstep,en,live,ASER|set2|m2,,,,,,,,,,,2024-03-06T12:14:19.158Z
-65e876eedee499a6209e711a,775c974a-4bda-4cfc-bc47-2aff56e39c46,(reading test sample - 4)Word,(reading test sample - 4)Word,Word,Ekstep,en,live,ASER|set2|m2,,,,,,,,,,,2024-03-06T12:14:19.158Z
+65e87493dee499a6209e70f8,fba7282d-aba3-4e95-8916-40b79f9e3f50,(reading test sample - 2)Para,(reading test sample - 2)Para,Sentence,Ekstep,en,live,ASER|set4|m0,,,,,,,,,,,2024-03-06T12:14:19.158Z
+65e874b8dee499a6209e70fa,3c62cb34-9565-4b81-8e96-da86d90b6072,(reading test sample - 3)Para,(reading test sample - 3)Para,Sentence,Ekstep,en,live,ASER|set4|m0,,,,,,,,,,,2024-03-06T12:14:19.158Z
+65e874d6dee499a6209e70fc,c637ac92-2ecf-4015-82e9-c4002479ae32,(reading test sample - 4)Para,(reading test sample - 4)Para,Sentence,Ekstep,en,live,ASER|set4|m0,,,,,,,,,,,2024-03-06T12:14:19.158Z
+65e8754fdee499a6209e70fe,f24d6660-c759-44f9-a4ae-5b46b62098b2,(reading test sample - 2)Para2,(reading test sample - 2)Para2,Sentence,Ekstep,en,live,ASER|set5|m3,,,,,,,,,,,2024-03-06T12:14:19.158Z
+65e87577dee499a6209e7100,f6b5638d-4398-4cf4-833c-42a4695a6425,(reading test sample - 3)Para2,(reading test sample - 3)Para2,Sentence,Ekstep,en,live,ASER|set5|m3,,,,,,,,,,,2024-03-06T12:14:19.158Z
+65e875badee499a6209e7104,87c2866e-6249-4fe1-9b1b-8b22ddd05ea7,(reading test sample - 4)Para2,(reading test sample - 4)Para2,Sentence,Ekstep,en,live,ASER|set5|m3,,,,,,,,,,,2024-03-06T12:14:19.158Z
+65e87618dee499a6209e7106,e276d47b-b262-4af1-b424-ead68b2b83bf,(reading test sample - 2)Story,(reading test sample - 2)Story,Sentence,Ekstep,en,live,ASER|set6|m4,,,,,,,,,,,2024-03-06T12:14:19.158Z
+65e8763ddee499a6209e710d,b9ab3b2f-5c21-4c61-b9c8-90898b5278dd,(reading test sample - 3)Story,(reading test sample - 3)Story,Sentence,Ekstep,en,live,ASER|set6|m4,,,,,,,,,,,2024-03-06T12:14:19.158Z
+65e87665dee499a6209e7114,809039e5-119d-42ae-925f-b2546b1e3d7b,(reading test sample - 4)Story,(reading test sample - 4)Story,Sentence,Ekstep,en,live,ASER|set6|m4,,,,,,,,,,,2024-03-06T12:14:19.158Z
+65e876aadee499a6209e7116,d6d95b4a-9d74-48ff-8f75-a606d5672764,(reading test sample - 2)Word,(reading test sample - 2)Word,Word,Ekstep,en,live,ASER|set3|m2,,,,,,,,,,,2024-03-06T12:14:19.158Z
+65e876cadee499a6209e7118,f99ff325-05c0-4cff-b825-b2cbb9638300,(reading test sample - 3)Word,(reading test sample - 3)Word,Word,Ekstep,en,live,ASER|set3|m2,,,,,,,,,,,2024-03-06T12:14:19.158Z
+65e876eedee499a6209e711a,775c974a-4bda-4cfc-bc47-2aff56e39c46,(reading test sample - 4)Word,(reading test sample - 4)Word,Word,Ekstep,en,live,ASER|set3|m2,,,,,,,,,,,2024-03-06T12:14:19.158Z
 65e87f59dee499a6209e729e,086482ed-9748-4c74-93b1-fe24dd6c98c7,(ಓದುವ ಪರೀಕ್ಷೆ ನಮೂನೆ - 2) ಅಕ್ಷರ,(ಓದುವ ಪರೀಕ್ಷೆ ನಮೂನೆ - 2) ಅಕ್ಷರ,Char,Ekstep,kn,live,ASER|set1|m1,,,,,,,,,,,2024-03-06T12:14:19.158Z
 65e87f9cdee499a6209e72a0,272a648e-f2a3-41a4-a3dd-6ebf4b5ec40d,(ಓದುವ ಪರೀಕ್ಷೆ ನಮೂನೆ - 3) ಅಕ್ಷರ,(ಓದುವ ಪರೀಕ್ಷೆ ನಮೂನೆ - 3) ಅಕ್ಷರ,Char,Ekstep,kn,live,ASER|set1|m1,,,,,,,,,,,2024-03-06T12:14:19.158Z
 65e87fe5dee499a6209e72a2,61b65b9b-94b8-4212-94e5-33ce8e80435a,(ಓದುವ ಪರೀಕ್ಷೆ ನಮೂನೆ - 4) ಅಕ್ಷರ,(ಓದುವ ಪರೀಕ್ಷೆ ನಮೂನೆ - 4) ಅಕ್ಷರ,Char,Ekstep,kn,live,ASER|set1|m1,,,,,,,,,,,2024-03-06T12:14:19.158Z
-65e8805cdee499a6209e72a4,390c8719-fc52-42f3-b49d-41547a0639d7,(ಓದುವ ಪರೀಕ್ಷೆ ನಮೂನೆ - 2) ಕಥೆ,(ಓದುವ ಪರೀಕ್ಷೆ ನಮೂನೆ - 2) ಕಥೆ,Sentence,Ekstep,kn,live,ASER|set5|m4,,,,,,,,,,,2024-03-06T12:14:19.158Z
-65e88080dee499a6209e72a6,aee5f3f4-213c-4596-8074-0addab60122a,(ಓದುವ ಪರೀಕ್ಷೆ ನಮೂನೆ - 3) ಕಥೆ,(ಓದುವ ಪರೀಕ್ಷೆ ನಮೂನೆ - 3) ಕಥೆ,Sentence,Ekstep,kn,live,ASER|set5|m4,,,,,,,,,,,2024-03-06T12:14:19.158Z
-65e8809fdee499a6209e72a8,e28d2463-adca-46e6-8159-04c99d6158d3,(ಓದುವ ಪರೀಕ್ಷೆ ನಮೂನೆ - 4) ಕಥೆ,(ಓದುವ ಪರೀಕ್ಷೆ ನಮೂನೆ - 4) ಕಥೆ,Sentence,Ekstep,kn,live,ASER|set5|m4,,,,,,,,,,,2024-03-06T12:14:19.158Z
-65e880f5dee499a6209e72aa,4a8bddeb-cddd-4b64-9845-662a0d287c34,(ಓದುವ ಪರೀಕ್ಷೆ ನಮೂನೆ - 2) ಪದ,(ಓದುವ ಪರೀಕ್ಷೆ ನಮೂನೆ - 2) ಪದ,Word,Ekstep,kn,live,ASER|set2|m2,,,,,,,,,,,2024-03-06T12:14:19.158Z
-65e8813ddee499a6209e72ac,f9b877d2-4994-4eab-998c-aacaf0076b5a,(ಓದುವ ಪರೀಕ್ಷೆ ನಮೂನೆ - 3) ಪದ,(ಓದುವ ಪರೀಕ್ಷೆ ನಮೂನೆ - 3) ಪದ,Word,Ekstep,kn,live,ASER|set2|m2,,,,,,,,,,,2024-03-06T12:14:19.158Z
-65e8817cdee499a6209e72ae,6a89f990-8727-49da-b128-b7ea1839d025,(ಓದುವ ಪರೀಕ್ಷೆ ನಮೂನೆ - 4) ಪದ,(ಓದುವ ಪರೀಕ್ಷೆ ನಮೂನೆ - 4) ಪದ,Word,Ekstep,kn,live,ASER|set2|m2,,,,,,,,,,,2024-03-06T12:14:19.158Z
-65e88206dee499a6209e72b0,976a7631-3887-4d18-9576-7ca8205b82e8,(ಓದುವ ಪರೀಕ್ಷೆ ನಮೂನೆ - 2) ಪ್ಯಾರ,(ಓದುವ ಪರೀಕ್ಷೆ ನಮೂನೆ - 2) ಪ್ಯಾರ,Sentence,Ekstep,kn,live,ASER|set3|m0,,,,,,,,,,,2024-03-06T12:14:19.158Z
-65e88286dee499a6209e72b2,9374ae97-80e4-419b-8e96-784734317e82,(ಓದುವ ಪರೀಕ್ಷೆ ನಮೂನೆ - 3) ಪ್ಯಾರ,(ಓದುವ ಪರೀಕ್ಷೆ ನಮೂನೆ - 3) ಪ್ಯಾರ,Sentence,Ekstep,kn,live,ASER|set3|m0,,,,,,,,,,,2024-03-06T12:14:19.158Z
-65e882bbdee499a6209e72b4,e6f3537d-7a34-4b08-9824-0ddbc4c49be3,(ಓದುವ ಪರೀಕ್ಷೆ ನಮೂನೆ - 4) ಪ್ಯಾರ,(ಓದುವ ಪರೀಕ್ಷೆ ನಮೂನೆ - 4) ಪ್ಯಾರ,Sentence,Ekstep,kn,live,ASER|set3|m0,,,,,,,,,,,2024-03-06T12:14:19.158Z
-65e8830edee499a6209e72b6,5828539f-4b1f-4502-b648-b2843d61f35d,(ಓದುವ ಪರೀಕ್ಷೆ ನಮೂನೆ - 2) ಪ್ಯಾರ2,(ಓದುವ ಪರೀಕ್ಷೆ ನಮೂನೆ - 2) ಪ್ಯಾರ2,Sentence,Ekstep,kn,live,ASER|set4|m3,,,,,,,,,,,2024-03-06T12:14:19.158Z
-65e88353dee499a6209e72b8,37a406a5-d82e-447d-9762-17c76f5005ef,(ಓದುವ ಪರೀಕ್ಷೆ ನಮೂನೆ - 3) ಪ್ಯಾರ2,(ಓದುವ ಪರೀಕ್ಷೆ ನಮೂನೆ - 3) ಪ್ಯಾರ2,Sentence,Ekstep,kn,live,ASER|set4|m3,,,,,,,,,,,2024-03-06T12:14:19.158Z
-65e88369dee499a6209e72ba,69b5512e-7b9f-43a6-9e6c-b25fb83b8661,(ಓದುವ ಪರೀಕ್ಷೆ ನಮೂನೆ - 4) ಪ್ಯಾರ2,(ಓದುವ ಪರೀಕ್ಷೆ ನಮೂನೆ - 4) ಪ್ಯಾರ2,Sentence,Ekstep,kn,live,ASER|set4|m3,,,,,,,,,,,2024-03-06T12:14:19.158Z
+65e8805cdee499a6209e72a4,390c8719-fc52-42f3-b49d-41547a0639d7,(ಓದುವ ಪರೀಕ್ಷೆ ನಮೂನೆ - 2) ಕಥೆ,(ಓದುವ ಪರೀಕ್ಷೆ ನಮೂನೆ - 2) ಕಥೆ,Sentence,Ekstep,kn,live,ASER|set6|m4,,,,,,,,,,,2024-03-06T12:14:19.158Z
+65e88080dee499a6209e72a6,aee5f3f4-213c-4596-8074-0addab60122a,(ಓದುವ ಪರೀಕ್ಷೆ ನಮೂನೆ - 3) ಕಥೆ,(ಓದುವ ಪರೀಕ್ಷೆ ನಮೂನೆ - 3) ಕಥೆ,Sentence,Ekstep,kn,live,ASER|set6|m4,,,,,,,,,,,2024-03-06T12:14:19.158Z
+65e8809fdee499a6209e72a8,e28d2463-adca-46e6-8159-04c99d6158d3,(ಓದುವ ಪರೀಕ್ಷೆ ನಮೂನೆ - 4) ಕಥೆ,(ಓದುವ ಪರೀಕ್ಷೆ ನಮೂನೆ - 4) ಕಥೆ,Sentence,Ekstep,kn,live,ASER|set6|m4,,,,,,,,,,,2024-03-06T12:14:19.158Z
+65e880f5dee499a6209e72aa,4a8bddeb-cddd-4b64-9845-662a0d287c34,(ಓದುವ ಪರೀಕ್ಷೆ ನಮೂನೆ - 2) ಪದ,(ಓದುವ ಪರೀಕ್ಷೆ ನಮೂನೆ - 2) ಪದ,Word,Ekstep,kn,live,ASER|set3|m2,,,,,,,,,,,2024-03-06T12:14:19.158Z
+65e8813ddee499a6209e72ac,f9b877d2-4994-4eab-998c-aacaf0076b5a,(ಓದುವ ಪರೀಕ್ಷೆ ನಮೂನೆ - 3) ಪದ,(ಓದುವ ಪರೀಕ್ಷೆ ನಮೂನೆ - 3) ಪದ,Word,Ekstep,kn,live,ASER|set3|m2,,,,,,,,,,,2024-03-06T12:14:19.158Z
+65e8817cdee499a6209e72ae,6a89f990-8727-49da-b128-b7ea1839d025,(ಓದುವ ಪರೀಕ್ಷೆ ನಮೂನೆ - 4) ಪದ,(ಓದುವ ಪರೀಕ್ಷೆ ನಮೂನೆ - 4) ಪದ,Word,Ekstep,kn,live,ASER|set3|m2,,,,,,,,,,,2024-03-06T12:14:19.158Z
+65e88206dee499a6209e72b0,976a7631-3887-4d18-9576-7ca8205b82e8,(ಓದುವ ಪರೀಕ್ಷೆ ನಮೂನೆ - 2) ಪ್ಯಾರ,(ಓದುವ ಪರೀಕ್ಷೆ ನಮೂನೆ - 2) ಪ್ಯಾರ,Sentence,Ekstep,kn,live,ASER|set4|m0,,,,,,,,,,,2024-03-06T12:14:19.158Z
+65e88286dee499a6209e72b2,9374ae97-80e4-419b-8e96-784734317e82,(ಓದುವ ಪರೀಕ್ಷೆ ನಮೂನೆ - 3) ಪ್ಯಾರ,(ಓದುವ ಪರೀಕ್ಷೆ ನಮೂನೆ - 3) ಪ್ಯಾರ,Sentence,Ekstep,kn,live,ASER|set4|m0,,,,,,,,,,,2024-03-06T12:14:19.158Z
+65e882bbdee499a6209e72b4,e6f3537d-7a34-4b08-9824-0ddbc4c49be3,(ಓದುವ ಪರೀಕ್ಷೆ ನಮೂನೆ - 4) ಪ್ಯಾರ,(ಓದುವ ಪರೀಕ್ಷೆ ನಮೂನೆ - 4) ಪ್ಯಾರ,Sentence,Ekstep,kn,live,ASER|set4|m0,,,,,,,,,,,2024-03-06T12:14:19.158Z
+65e8830edee499a6209e72b6,5828539f-4b1f-4502-b648-b2843d61f35d,(ಓದುವ ಪರೀಕ್ಷೆ ನಮೂನೆ - 2) ಪ್ಯಾರ2,(ಓದುವ ಪರೀಕ್ಷೆ ನಮೂನೆ - 2) ಪ್ಯಾರ2,Sentence,Ekstep,kn,live,ASER|set5|m3,,,,,,,,,,,2024-03-06T12:14:19.158Z
+65e88353dee499a6209e72b8,37a406a5-d82e-447d-9762-17c76f5005ef,(ಓದುವ ಪರೀಕ್ಷೆ ನಮೂನೆ - 3) ಪ್ಯಾರ2,(ಓದುವ ಪರೀಕ್ಷೆ ನಮೂನೆ - 3) ಪ್ಯಾರ2,Sentence,Ekstep,kn,live,ASER|set5|m3,,,,,,,,,,,2024-03-06T12:14:19.158Z
+65e88369dee499a6209e72ba,69b5512e-7b9f-43a6-9e6c-b25fb83b8661,(ಓದುವ ಪರೀಕ್ಷೆ ನಮೂನೆ - 4) ಪ್ಯಾರ2,(ಓದುವ ಪರೀಕ್ಷೆ ನಮೂನೆ - 4) ಪ್ಯಾರ2,Sentence,Ekstep,kn,live,ASER|set5|m3,,,,,,,,,,,2024-03-06T12:14:19.158Z
 65e88af8dee499a6209e739a,67697c4f-fdd2-446b-b765-f610bc2c355c,(மாதிறி -2)எழுத்து,(மாதிறி -2)எழுத்து,Char,Ekstep,ta,live,ASER|set1|m1,,,,,,,,,,,2024-03-06T12:14:19.158Z
 65e88b40dee499a6209e739c,f9ea2715-0d1b-465e-83f9-54c77341f388,(மாதிறி -3)எழுத்து,(மாதிறி -3)எழுத்து,Char,Ekstep,ta,live,ASER|set1|m1,,,,,,,,,,,2024-03-06T12:14:19.158Z
 65e88b6cdee499a6209e739e,ed47eb63-87c8-41f4-821d-1400fef37b78,(மாதிறி -4)எழுத்து,(மாதிறி -4)எழுத்து,Char,Ekstep,ta,live,ASER|set1|m1,,,,,,,,,,,2024-03-06T12:14:19.158Z
-65e88bf0dee499a6209e73a0,895518d8-64ec-406d-a3d9-44c4ba8d2e57,(மாதிறி -2)கதை,(மாதிறி -2)கதை,Sentence,Ekstep,ta,live,ASER|set5|m4,,,,,,,,,,,2024-03-06T12:14:19.158Z
-65e88c28dee499a6209e73a2,b83971a5-22a8-46ea-90ab-485182c7cd9d,(மாதிறி -3)கதை,(மாதிறி -3)கதை,Sentence,Ekstep,ta,live,ASER|set5|m4,,,,,,,,,,,2024-03-06T12:14:19.158Z
-65e88c43dee499a6209e73a4,68dfd9cb-a33d-4d15-a3ea-54755f8311c8,(மாதிறி -4)கதை,(மாதிறி -4)கதை,Sentence,Ekstep,ta,live,ASER|set5|m4,,,,,,,,,,,2024-03-06T12:14:19.158Z
-65e88d54dee499a6209e73a6,e9c7d535-3e98-4de1-b638-fae9413d7c09,(மாதிறி -2)பத்தி,(மாதிறி -2)பத்தி,Sentence,Ekstep,ta,live,ASER|set3|m0,,,,,,,,,,,2024-03-06T12:14:19.158Z
-65e88d78dee499a6209e73a8,575fbb16-5b6c-43d8-96ca-f2288251b45e,(மாதிறி -3)பத்தி,(மாதிறி -3)பத்தி,Sentence,Ekstep,ta,live,ASER|set3|m0,,,,,,,,,,,2024-03-06T12:14:19.158Z
-65e88d94dee499a6209e73aa,7c736010-6c8f-42b7-b61a-e6f801b3e163,(மாதிறி -4)பத்தி,(மாதிறி -4)பத்தி,Sentence,Ekstep,ta,live,ASER|set3|m0,,,,,,,,,,,2024-03-06T12:14:19.158Z
-65e88df9dee499a6209e73ac,85d58650-0771-4b28-b185-d074b5a5982d,(மாதிறி -2)பத்தி2,(மாதிறி -2)பத்தி2,Sentence,Ekstep,ta,live,ASER|set4|m3,,,,,,,,,,,2024-03-06T12:14:19.158Z
-65e88e32dee499a6209e73ae,461d9b9e-0db6-48ce-9088-d377d0cd33a6,(மாதிறி -3)பத்தி2,(மாதிறி -3)பத்தி2,Sentence,Ekstep,ta,live,ASER|set4|m3,,,,,,,,,,,2024-03-06T12:14:19.158Z
-65e88e4cdee499a6209e73b0,2b196c2a-5f8e-4507-ac60-98d9fe6ae12b,(மாதிறி -4)பத்தி2,(மாதிறி -4)பத்தி2,Sentence,Ekstep,ta,live,ASER|set4|m3,,,,,,,,,,,2024-03-06T12:14:19.158Z
-65e88eabdee499a6209e73b2,61bc9579-0f9b-47ae-b446-7cdd525ce413,(மாதிறி -2)லாந்த்தை,(மாதிறி -2)லாந்த்தை,Word,Ekstep,ta,live,ASER|set2|m2,,,,,,,,,,,2024-03-06T12:14:19.158Z
-65e88ecfdee499a6209e73b4,76ef507c-5d56-457c-aa3a-647cf5dba545,(மாதிறி -3)லாந்த்தை,(மாதிறி -3)லாந்த்தை,Word,Ekstep,ta,live,ASER|set2|m2,,,,,,,,,,,2024-03-06T12:14:19.158Z
-65e88eebdee499a6209e73b6,55767bfa-0e12-4d8f-999b-e84daf6c7587,(மாதிறி -4)லாந்த்தை,(மாதிறி -4)லாந்த்தை,Word,Ekstep,ta,live,ASER|set2|m2,,,,,,,,,,,2024-03-06T12:14:19.158Z
+65e88bf0dee499a6209e73a0,895518d8-64ec-406d-a3d9-44c4ba8d2e57,(மாதிறி -2)கதை,(மாதிறி -2)கதை,Sentence,Ekstep,ta,live,ASER|set6|m4,,,,,,,,,,,2024-03-06T12:14:19.158Z
+65e88c28dee499a6209e73a2,b83971a5-22a8-46ea-90ab-485182c7cd9d,(மாதிறி -3)கதை,(மாதிறி -3)கதை,Sentence,Ekstep,ta,live,ASER|set6|m4,,,,,,,,,,,2024-03-06T12:14:19.158Z
+65e88c43dee499a6209e73a4,68dfd9cb-a33d-4d15-a3ea-54755f8311c8,(மாதிறி -4)கதை,(மாதிறி -4)கதை,Sentence,Ekstep,ta,live,ASER|set6|m4,,,,,,,,,,,2024-03-06T12:14:19.158Z
+65e88d54dee499a6209e73a6,e9c7d535-3e98-4de1-b638-fae9413d7c09,(மாதிறி -2)பத்தி,(மாதிறி -2)பத்தி,Sentence,Ekstep,ta,live,ASER|set4|m0,,,,,,,,,,,2024-03-06T12:14:19.158Z
+65e88d78dee499a6209e73a8,575fbb16-5b6c-43d8-96ca-f2288251b45e,(மாதிறி -3)பத்தி,(மாதிறி -3)பத்தி,Sentence,Ekstep,ta,live,ASER|set4|m0,,,,,,,,,,,2024-03-06T12:14:19.158Z
+65e88d94dee499a6209e73aa,7c736010-6c8f-42b7-b61a-e6f801b3e163,(மாதிறி -4)பத்தி,(மாதிறி -4)பத்தி,Sentence,Ekstep,ta,live,ASER|set4|m0,,,,,,,,,,,2024-03-06T12:14:19.158Z
+65e88df9dee499a6209e73ac,85d58650-0771-4b28-b185-d074b5a5982d,(மாதிறி -2)பத்தி2,(மாதிறி -2)பத்தி2,Sentence,Ekstep,ta,live,ASER|set5|m3,,,,,,,,,,,2024-03-06T12:14:19.158Z
+65e88e32dee499a6209e73ae,461d9b9e-0db6-48ce-9088-d377d0cd33a6,(மாதிறி -3)பத்தி2,(மாதிறி -3)பத்தி2,Sentence,Ekstep,ta,live,ASER|set5|m3,,,,,,,,,,,2024-03-06T12:14:19.158Z
+65e88e4cdee499a6209e73b0,2b196c2a-5f8e-4507-ac60-98d9fe6ae12b,(மாதிறி -4)பத்தி2,(மாதிறி -4)பத்தி2,Sentence,Ekstep,ta,live,ASER|set5|m3,,,,,,,,,,,2024-03-06T12:14:19.158Z
+65e88eabdee499a6209e73b2,61bc9579-0f9b-47ae-b446-7cdd525ce413,(மாதிறி -2)லாந்த்தை,(மாதிறி -2)லாந்த்தை,Word,Ekstep,ta,live,ASER|set3|m2,,,,,,,,,,,2024-03-06T12:14:19.158Z
+65e88ecfdee499a6209e73b4,76ef507c-5d56-457c-aa3a-647cf5dba545,(மாதிறி -3)லாந்த்தை,(மாதிறி -3)லாந்த்தை,Word,Ekstep,ta,live,ASER|set3|m2,,,,,,,,,,,2024-03-06T12:14:19.158Z
+65e88eebdee499a6209e73b6,55767bfa-0e12-4d8f-999b-e84daf6c7587,(மாதிறி -4)லாந்த்தை,(மாதிறி -4)லாந்த்தை,Word,Ekstep,ta,live,ASER|set3|m2,,,,,,,,,,,2024-03-06T12:14:19.158Z
 65e939badee499a6209e7926,38c731ad-5c9f-4207-ae10-590259c5adc6,hi_words1,hi_words1,Word,Ekstep,hi,live,,,,,,,,,,,,2024-03-06T12:14:19.158Z
 65e93ab1dee499a6209e7928,79f1c002-8f12-4295-b3b2-fc18282f73af,hi_words2,hi_words2,Word,Ekstep,hi,live,,,,,,,,,,,,2024-03-06T12:14:19.158Z
 65e94c2fdee499a6209e79a0,468a65c5-5edc-473b-ad0a-beeea705244b,hi_words1,hi_words1,Word,Ekstep,hi,live,,,,,,,,,,,,2024-03-06T12:14:19.158Z
@@ -591,25 +590,25 @@
 661f921a5883abfa3c99a2ba,98d7e088-c86e-47a7-bf7d-3e7aac384f19,English collection,test,word,test-12,en,live,,,,,,,,,,,,2024-03-11T23:13:05.661Z
 662a35b6c585413bfcbec4b8,f4cc6960-0b24-4bba-a23d-9d14917730ab,Test story,test,word,test author,en,live,,,,,,,,,,,,2024-04-23T06:46:08.593Z
 6639c7f65c95d71bea197164,21a6619e-bb15-4b49-823e-68bfc703e394,set1_char,ASER_set1_char,Char,Ekstep,te,live,ASER|set1|m1,,,,,,,,,,,2024-05-02T12:01:04.588Z
-6639cbda5c95d71bea197311,8b5023d6-bafe-4cbe-8967-1f3f19481e4f,set1_p1,ASER_set1_p1,Sentence,Ekstep,te,live,ASER|set3|m0,,,,,,,,,,,2024-05-02T12:01:04.588Z
-6639ccc55c95d71bea19733e,3b339169-df4e-4490-8ff4-4616370ba9af,set1_p2,ASER_set1_p2,Sentence,Ekstep,te,live,ASER|set4|m3,,,,,,,,,,,2024-05-02T12:01:04.588Z
-6639cefb5c95d71bea197433,56b06985-fe48-4a89-9b1f-a9f3c6cf1e28,set1_story,ASER_set1_story,Sentence,Ekstep,te,live,ASER|set5|m4,,,,,,,,,,,2024-05-02T12:01:04.588Z
-6639cfcd5c95d71bea1974d4,9682eee7-f6dc-4277-9ff7-1d1f4f079020,set1_word,ASER_set1_word,Word,Ekstep,te,live,ASER|set2|m2,,,,,,,,,,,2024-05-02T12:01:04.588Z
-6639d2a25c95d71bea19762c,45e148f0-c591-479f-becd-2e1f85caf11e,set2_word,ASER_set2_word,Word,Ekstep,te,live,ASER|set2|m2,,,,,,,,,,,2024-05-02T12:01:04.588Z
-6639d2ef5c95d71bea197677,33fb7dfa-4c51-42dd-b4cd-7a38747b96f4,set3_word,ASER_set3_word,Word,Ekstep,te,live,ASER|set2|m2,,,,,,,,,,,2024-05-02T12:01:04.588Z
-6639d3485c95d71bea1976ca,5a5560e8-e22a-402c-a6da-fb93bfc2b335,set4_word,ASER_set4_word,Word,Ekstep,te,live,ASER|set2|m2,,,,,,,,,,,2024-05-02T12:01:04.588Z
+6639cbda5c95d71bea197311,8b5023d6-bafe-4cbe-8967-1f3f19481e4f,set1_p1,ASER_set1_p1,Sentence,Ekstep,te,live,ASER|set4|m0,,,,,,,,,,,2024-05-02T12:01:04.588Z
+6639ccc55c95d71bea19733e,3b339169-df4e-4490-8ff4-4616370ba9af,set1_p2,ASER_set1_p2,Sentence,Ekstep,te,live,ASER|set5|m3,,,,,,,,,,,2024-05-02T12:01:04.588Z
+6639cefb5c95d71bea197433,56b06985-fe48-4a89-9b1f-a9f3c6cf1e28,set1_story,ASER_set1_story,Sentence,Ekstep,te,live,ASER|set6|m4,,,,,,,,,,,2024-05-02T12:01:04.588Z
+6639cfcd5c95d71bea1974d4,9682eee7-f6dc-4277-9ff7-1d1f4f079020,set1_word,ASER_set1_word,Word,Ekstep,te,live,ASER|set3|m2,,,,,,,,,,,2024-05-02T12:01:04.588Z
+6639d2a25c95d71bea19762c,45e148f0-c591-479f-becd-2e1f85caf11e,set2_word,ASER_set2_word,Word,Ekstep,te,live,ASER|set3|m2,,,,,,,,,,,2024-05-02T12:01:04.588Z
+6639d2ef5c95d71bea197677,33fb7dfa-4c51-42dd-b4cd-7a38747b96f4,set3_word,ASER_set3_word,Word,Ekstep,te,live,ASER|set3|m2,,,,,,,,,,,2024-05-02T12:01:04.588Z
+6639d3485c95d71bea1976ca,5a5560e8-e22a-402c-a6da-fb93bfc2b335,set4_word,ASER_set4_word,Word,Ekstep,te,live,ASER|set3|m2,,,,,,,,,,,2024-05-02T12:01:04.588Z
 6639d3bf5c95d71bea197782,74102541-9127-4c2e-aa6f-e19f9b914f42,set2_char,ASER_set2_char,Char,Ekstep,te,live,ASER|set1|m1,,,,,,,,,,,2024-05-02T12:01:04.588Z
 6639d3e05c95d71bea19779d,34651976-b302-4ddf-b858-236b5e4eb093,set3_char,ASER_set3_char,Char,Ekstep,te,live,ASER|set1|m1,,,,,,,,,,,2024-05-02T12:01:04.588Z
 6639d4045c95d71bea1977c9,55149fbb-4fb1-4e4d-9b77-16e30e537b21,set4_char,ASER_set4_char,Char,Ekstep,te,live,ASER|set1|m1,,,,,,,,,,,2024-05-02T12:01:04.588Z
-6639d4d35c95d71bea1978e7,1df7cb53-4609-4ba0-a0dc-2e4dc188619a,set2_p1,ASER_set2_p1,Sentence,Ekstep,te,live,ASER|set3|m0,,,,,,,,,,,2024-05-02T12:01:04.588Z
-6639d5305c95d71bea1978ef,cfbd93f9-10f6-4064-ab0f-f2f8d6e45e6a,set3_p1,ASER_set3_p1,Sentence,Ekstep,te,live,ASER|set3|m0,,,,,,,,,,,2024-05-02T12:01:04.588Z
-6639d5635c95d71bea197903,d6f84966-53fa-44bb-93d9-598c84974f04,set4_p1,ASER_set4_p1,Sentence,Ekstep,te,live,ASER|set3|m0,,,,,,,,,,,2024-05-02T12:01:04.588Z
-6639d6325c95d71bea197940,7d1d2108-c742-470b-9af9-988411bc05d6,set2_p2,ASER_set2_p2,Sentence,Ekstep,te,live,ASER|set4|m3,,,,,,,,,,,2024-05-02T12:01:04.588Z
-6639d6535c95d71bea19794e,edc2b898-ba23-4cc6-83c4-54a567a83f09,set3_p2,ASER_set3_p2,Sentence,Ekstep,te,live,ASER|set4|m3,,,,,,,,,,,2024-05-02T12:01:04.588Z
-6639d6715c95d71bea19795b,835f0357-f0fe-45ba-8ec1-d55f19d80b3c,set4_p2,ASER_set4_p2,Sentence,Ekstep,te,live,ASER|set4|m3,,,,,,,,,,,2024-05-02T12:01:04.588Z
-6639d6a85c95d71bea197994,c76fe38d-0881-4b36-aaa2-85dc679a5640,set2_story,ASER_set2_story,Sentence,Ekstep,te,live,ASER|set5|m4,,,,,,,,,,,2024-05-02T12:01:04.588Z
-6639d6c75c95d71bea197997,81faf48a-e37c-4909-80de-4ff7d7f204f0,set3_story,ASER_set3_story,Sentence,Ekstep,te,live,ASER|set5|m4,,,,,,,,,,,2024-05-02T12:01:04.588Z
-6639d6e15c95d71bea19799e,d4652c35-a39c-44ca-b833-74504efc69ab,set4_story,ASER_set4_story,Sentence,Ekstep,te,live,ASER|set5|m4,,,,,,,,,,,2024-05-02T12:01:04.588Z
+6639d4d35c95d71bea1978e7,1df7cb53-4609-4ba0-a0dc-2e4dc188619a,set2_p1,ASER_set2_p1,Sentence,Ekstep,te,live,ASER|set4|m0,,,,,,,,,,,2024-05-02T12:01:04.588Z
+6639d5305c95d71bea1978ef,cfbd93f9-10f6-4064-ab0f-f2f8d6e45e6a,set3_p1,ASER_set3_p1,Sentence,Ekstep,te,live,ASER|set4|m0,,,,,,,,,,,2024-05-02T12:01:04.588Z
+6639d5635c95d71bea197903,d6f84966-53fa-44bb-93d9-598c84974f04,set4_p1,ASER_set4_p1,Sentence,Ekstep,te,live,ASER|set4|m0,,,,,,,,,,,2024-05-02T12:01:04.588Z
+6639d6325c95d71bea197940,7d1d2108-c742-470b-9af9-988411bc05d6,set2_p2,ASER_set2_p2,Sentence,Ekstep,te,live,ASER|set5|m3,,,,,,,,,,,2024-05-02T12:01:04.588Z
+6639d6535c95d71bea19794e,edc2b898-ba23-4cc6-83c4-54a567a83f09,set3_p2,ASER_set3_p2,Sentence,Ekstep,te,live,ASER|set5|m3,,,,,,,,,,,2024-05-02T12:01:04.588Z
+6639d6715c95d71bea19795b,835f0357-f0fe-45ba-8ec1-d55f19d80b3c,set4_p2,ASER_set4_p2,Sentence,Ekstep,te,live,ASER|set5|m3,,,,,,,,,,,2024-05-02T12:01:04.588Z
+6639d6a85c95d71bea197994,c76fe38d-0881-4b36-aaa2-85dc679a5640,set2_story,ASER_set2_story,Sentence,Ekstep,te,live,ASER|set6|m4,,,,,,,,,,,2024-05-02T12:01:04.588Z
+6639d6c75c95d71bea197997,81faf48a-e37c-4909-80de-4ff7d7f204f0,set3_story,ASER_set3_story,Sentence,Ekstep,te,live,ASER|set6|m4,,,,,,,,,,,2024-05-02T12:01:04.588Z
+6639d6e15c95d71bea19799e,d4652c35-a39c-44ca-b833-74504efc69ab,set4_story,ASER_set4_story,Sentence,Ekstep,te,live,ASER|set6|m4,,,,,,,,,,,2024-05-02T12:01:04.588Z
 6639e94d5c95d71bea197c69,bf36a687-4177-4eaf-9ca7-7eda92754c3e,words02_01-762,words02_01-762,Word,Ekstep,te,live,,,,,,,,,,,,2024-05-02T12:01:04.588Z
 6639ed045c95d71bea1982cf,3eae408d-dbf4-494b-8068-2ecce59d33ea,words03_01-545,words03_01-545,Word,Ekstep,te,live,,,,,,,,,,,,2024-05-02T12:01:04.588Z
 6639eec95c95d71bea198715,a7abd49b-fdb8-4ed9-a5fb-2067e5b010c6,words04_01-347,words04_01-347,Word,Ekstep,te,live,,,,,,,,,,,,2024-05-02T12:01:04.588Z
@@ -641,25 +640,25 @@
 66965f7519f1934d695dac67,44b048c7-0ac9-4d63-95f2-4e616ce6ffa1,Sample4Sentence2,Sample4Sentence2,Sentence,Ekstep,gj,live,ASER|set4|m3,,,,,,,,,,,2024-06-18T03:49:44.317Z
 66965fd09958dfe88729d894,4f25f04a-34b7-4ada-8165-9ceb19070960,Sample4words,Sample4words,Word,Ekstep,gj,live,ASER|set2|m2,,,,,,,,,,,2024-06-18T03:49:44.292Z
 66975fea9958dfe88729d8a6,24d4b913-1f5a-45cd-8b72-7e7125f56920,Sample1alphabet,Sample1alphabet,Char,Ekstep,gu,live,ASER|set1|m1,,,,,,,,,,,2024-06-18T03:49:44.292Z
-669760a519f1934d695dac7d,0601c390-01a8-4887-8029-1cd9852abac6,Sample1Para,Sample1Para,Sentence,Ekstep,gu,live,ASER|set5|m4,,,,,,,,,,,2024-06-18T03:49:44.317Z
-669761869958dfe88729d8a8,1394ade3-cc95-48cd-98ca-f3288860b0e1,Sample1Sentence1,Sample1Sentence1,Sentence,Ekstep,gu,live,ASER|set3|m0,,,,,,,,,,,2024-06-18T03:49:44.292Z
-6697620219f1934d695dac7f,6e856dc6-073d-43fe-9086-2bc5869eca86,Sample1Sentence2,Sample1Sentence2,Sentence,Ekstep,gu,live,ASER|set4|m3,,,,,,,,,,,2024-06-18T03:49:44.317Z
-669762539958dfe88729d8aa,e1e87800-f530-4868-aebe-4f2402d29eb8,Sample1words,Sample1words,Word,Ekstep,gu,live,ASER|set2|m2,,,,,,,,,,,2024-06-18T03:49:44.292Z
+669760a519f1934d695dac7d,0601c390-01a8-4887-8029-1cd9852abac6,Sample1Para,Sample1Para,Sentence,Ekstep,gu,live,ASER|set6|m4,,,,,,,,,,,2024-06-18T03:49:44.317Z
+669761869958dfe88729d8a8,1394ade3-cc95-48cd-98ca-f3288860b0e1,Sample1Sentence1,Sample1Sentence1,Sentence,Ekstep,gu,live,ASER|set4|m0,,,,,,,,,,,2024-06-18T03:49:44.292Z
+6697620219f1934d695dac7f,6e856dc6-073d-43fe-9086-2bc5869eca86,Sample1Sentence2,Sample1Sentence2,Sentence,Ekstep,gu,live,ASER|set5|m3,,,,,,,,,,,2024-06-18T03:49:44.317Z
+669762539958dfe88729d8aa,e1e87800-f530-4868-aebe-4f2402d29eb8,Sample1words,Sample1words,Word,Ekstep,gu,live,ASER|set3|m2,,,,,,,,,,,2024-06-18T03:49:44.292Z
 669762a619f1934d695dac81,5eb9babf-2ec1-4760-9e6e-d515ddb8f405,Sample2alphabet,Sample2alphabet,Char,Ekstep,gu,live,ASER|set1|m1,,,,,,,,,,,2024-06-18T03:49:44.317Z
-6697634d9958dfe88729d8ac,85e45847-bdc1-4421-b9d0-b3592b9a068a,Sample2para,Sample2para,Sentence,Ekstep,gu,live,ASER|set5|m4,,,,,,,,,,,2024-06-18T03:49:44.292Z
-6697639119f1934d695dac83,eea19621-ae97-4a5d-9933-882a493c84d8,Sample2Sentence1,Sample2Sentence1,Sentence,Ekstep,gu,live,ASER|set3|m0,,,,,,,,,,,2024-06-18T03:49:44.317Z
-669763d89958dfe88729d8ae,4c7e2f94-25e1-4bd7-a04c-7bfa7a54d187,Sample2Sentence2,Sample2Sentence2,Sentence,Ekstep,gu,live,ASER|set4|m3,,,,,,,,,,,2024-06-18T03:49:44.292Z
-6697646119f1934d695dac85,9fa1173e-307f-4c47-af07-482228667f2c,Sample2word,Sample2word,Word,Ekstep,gu,live,ASER|set2|m2,,,,,,,,,,,2024-06-18T03:49:44.317Z
+6697634d9958dfe88729d8ac,85e45847-bdc1-4421-b9d0-b3592b9a068a,Sample2para,Sample2para,Sentence,Ekstep,gu,live,ASER|set6|m4,,,,,,,,,,,2024-06-18T03:49:44.292Z
+6697639119f1934d695dac83,eea19621-ae97-4a5d-9933-882a493c84d8,Sample2Sentence1,Sample2Sentence1,Sentence,Ekstep,gu,live,ASER|set4|m0,,,,,,,,,,,2024-06-18T03:49:44.317Z
+669763d89958dfe88729d8ae,4c7e2f94-25e1-4bd7-a04c-7bfa7a54d187,Sample2Sentence2,Sample2Sentence2,Sentence,Ekstep,gu,live,ASER|set5|m3,,,,,,,,,,,2024-06-18T03:49:44.292Z
+6697646119f1934d695dac85,9fa1173e-307f-4c47-af07-482228667f2c,Sample2word,Sample2word,Word,Ekstep,gu,live,ASER|set3|m2,,,,,,,,,,,2024-06-18T03:49:44.317Z
 669764cd9958dfe88729d8b0,b8830bb6-dee3-46f9-b7e3-09aca044ceef,Sample3alphabet,Sample3alphabet,Char,Ekstep,gu,live,ASER|set1|m1,,,,,,,,,,,2024-06-18T03:49:44.292Z
-6697655019f1934d695dac87,4299a52a-0932-4ebd-b33f-5dab9ecb7e76,Sample3Para,Sample3Para,Sentence,Ekstep,gu,live,ASER|set5|m4,,,,,,,,,,,2024-06-18T03:49:44.317Z
-669765af9958dfe88729d8b2,61ef8260-98c5-4bc0-9ccd-43cd34c6ecab,Sample3Sentence1,Sample3Sentence1,Sentence,Ekstep,gu,live,ASER|set3|m0,,,,,,,,,,,2024-06-18T03:49:44.292Z
-6697664519f1934d695dac89,8da5ddf4-8e22-4c69-97bc-2edf1f5d5e18,Sample3Sentence2,Sample3Sentence2,Sentence,Ekstep,gu,live,ASER|set4|m3,,,,,,,,,,,2024-06-18T03:49:44.317Z
-669766cc9958dfe88729d8b4,3d0a5345-2acb-4ed1-919d-fc6511417ed2,Sample3word,Sample3word,Word,Ekstep,gu,live,ASER|set2|m2,,,,,,,,,,,2024-06-18T03:49:44.292Z
+6697655019f1934d695dac87,4299a52a-0932-4ebd-b33f-5dab9ecb7e76,Sample3Para,Sample3Para,Sentence,Ekstep,gu,live,ASER|set6|m4,,,,,,,,,,,2024-06-18T03:49:44.317Z
+669765af9958dfe88729d8b2,61ef8260-98c5-4bc0-9ccd-43cd34c6ecab,Sample3Sentence1,Sample3Sentence1,Sentence,Ekstep,gu,live,ASER|set4|m0,,,,,,,,,,,2024-06-18T03:49:44.292Z
+6697664519f1934d695dac89,8da5ddf4-8e22-4c69-97bc-2edf1f5d5e18,Sample3Sentence2,Sample3Sentence2,Sentence,Ekstep,gu,live,ASER|set5|m3,,,,,,,,,,,2024-06-18T03:49:44.317Z
+669766cc9958dfe88729d8b4,3d0a5345-2acb-4ed1-919d-fc6511417ed2,Sample3word,Sample3word,Word,Ekstep,gu,live,ASER|set3|m2,,,,,,,,,,,2024-06-18T03:49:44.292Z
 66976b6319f1934d695dac8b,14209021-7373-42ac-b02d-a32f0ee89ef9,Sample4alphabets,Sample4alphabets,Char,Ekstep,gu,live,ASER|set1|m1,,,,,,,,,,,2024-06-18T03:49:44.317Z
-66976bec9958dfe88729d8b6,c78fdc09-11d9-4209-acd1-3e4d550857bf,Sample4Para,Sample4Para,Sentence,Ekstep,gu,live,ASER|set5|m4,,,,,,,,,,,2024-06-18T03:49:44.292Z
-66976cd119f1934d695dac8d,3ac7bf14-4455-4e20-9dd4-2af2a04a8227,Sample4Sentence1,Sample4Sentence1,Sentence,Ekstep,gu,live,ASER|set3|m0,,,,,,,,,,,2024-06-18T03:49:44.317Z
-66976dda9958dfe88729d8b8,f70b2c60-f321-4ddf-90c9-5038a23b6595,Sample4Sentence2,Sample4Sentence2,Sentence,Ekstep,gu,live,ASER|set4|m3,,,,,,,,,,,2024-06-18T03:49:44.292Z
-66976e2f19f1934d695dac8f,42e4140b-4294-424f-b488-f0c53fc376c9,Sample4words,Sample4words,Word,Ekstep,gu,live,ASER|set2|m2,,,,,,,,,,,2024-06-18T03:49:44.317Z
+66976bec9958dfe88729d8b6,c78fdc09-11d9-4209-acd1-3e4d550857bf,Sample4Para,Sample4Para,Sentence,Ekstep,gu,live,ASER|set6|m4,,,,,,,,,,,2024-06-18T03:49:44.292Z
+66976cd119f1934d695dac8d,3ac7bf14-4455-4e20-9dd4-2af2a04a8227,Sample4Sentence1,Sample4Sentence1,Sentence,Ekstep,gu,live,ASER|set4|m0,,,,,,,,,,,2024-06-18T03:49:44.317Z
+66976dda9958dfe88729d8b8,f70b2c60-f321-4ddf-90c9-5038a23b6595,Sample4Sentence2,Sample4Sentence2,Sentence,Ekstep,gu,live,ASER|set5|m3,,,,,,,,,,,2024-06-18T03:49:44.292Z
+66976e2f19f1934d695dac8f,42e4140b-4294-424f-b488-f0c53fc376c9,Sample4words,Sample4words,Word,Ekstep,gu,live,ASER|set3|m2,,,,,,,,,,,2024-06-18T03:49:44.317Z
 6698ac2c19f1934d695dacec,7960f3dd-4f22-44a5-8a52-c7e50ca2bb5b,gujaratiL1,gujaratiL1,Sentence,Ekstep,gu,live,,,,,,,,,,,,2024-06-18T03:49:44.317Z
 6698ac5a9958dfe88729d911,01295f8a-1ed1-4eff-a4cc-d50c9ccb2e5b,gujaratiL2,gujaratiL2,Sentence,Ekstep,gu,live,,,,,,,,,,,,2024-06-18T03:49:44.292Z
 6698ac7f19f1934d695dacee,9ec7e794-6cf2-4857-925a-8f6d6d555800,gujaratiL3,gujaratiL3,Sentence,Ekstep,gu,live,,,,,,,,,,,,2024-06-18T03:49:44.317Z
@@ -703,8 +702,8 @@
 670e40a4e4dcb4a9063c1568,10579e61-6b84-4bf0-9295-d847c6a95fb2,knNewParagraphs,knNewParagraphs,Paragraph,Ekstep,kn,live,,,,,,,,,,,,2024-09-30T06:46:22.407Z
 670ebfbaba2d0f45f42f09fc,f05f66a3-803d-4c77-a522-8bee2e1f2f7d,CEFR_en_t_1_2,Collection for mechanics content,Sentence,Ekstep,en,live,CEFR_ENG,,,,,,,,,,,2024-10-10T11:56:18.397Z
 6711102a9e249beb6c658b8c,e24244dc-81cd-45db-898b-78c78e3b5618,CEFR_oct_17,Collection for mechanics,Sentence,Ekstep,en,live,CEFR_ENG,,,,,,,,,,,2024-10-16T18:13:21.696Z
-67127c1395287646ed6de1d5,79e4ebd6-3ce1-4693-8c7c-008a468d9fb5,CEFR_1_2_R,Collection for mechanics,Sentence,Ekstep,en,live,CEFR_ENG,,,,,,,,,,,2024-10-17T14:37:37.22Z
-67129ff495287646ed6de213,a029868a-ee1e-424b-a32a-8435d8411df4,CEFR_1_5_R,Collection for mechanics,Sentence,Ekstep,en,live,CEFR_ENG,,,,,,,,,,,2024-10-17T14:37:37.22Z
+67127c1395287646ed6de1d5,79e4ebd6-3ce1-4693-8c7c-008a468d9fb5,CEFR_1_2_R,Collection for mechanics,Sentence,Ekstep,en,live,CEFR_ENG,,,,,,,,,,,2024-10-17T14:37:37.220Z
+67129ff495287646ed6de213,a029868a-ee1e-424b-a32a-8435d8411df4,CEFR_1_5_R,Collection for mechanics,Sentence,Ekstep,en,live,CEFR_ENG,,,,,,,,,,,2024-10-17T14:37:37.220Z
 6713def4771dfe4c63254822,7ccb6c92-c225-4627-a08b-fe14c64ccc4c,CEFR_1_6,Collection for mechanics,Sentence,Ekstep,en,live,CEFR_ENG,,,,,,,,,,,2024-10-17T14:37:37.286Z
 671621a4fbc6810415ef35d3,2a0669e8-ba72-4f02-8d63-353afe21f591,CEFR_1_8,Collection for mechanics,Sentence,Ekstep,en,live,CEFR_ENG,,,,,,,,,,,2024-10-21T09:27:09.074Z
 671677d847b9e2f13c5e0f26,fe785a20-f626-46c3-8c0f-19f50f1ebe66,CEFR_1_3,Collection for mechanics,Sentence,Ekstep,en,live,CEFR_ENG,,,,,,,,,,,2024-10-21T09:27:09.081Z
@@ -717,11 +716,11 @@
 6722652b9c4f8f903bf25d7c,0151f4aa-fda3-4ffe-b6b0-cc530e617982,kannada35,kannada35,Paragraph,Ekstep,kn,live,,,,,,,,,,,,2024-10-29T07:22:31.807Z
 6722657440d3bc5ca81f26ba,401ded49-3d91-494e-b4ec-14a4ed3a4c8f,kannada36,kannada36,Paragraph,Ekstep,kn,live,,,,,,,,,,,,2024-10-29T07:22:31.831Z
 672265909c4f8f903bf25d7e,07dc0c64-6b7e-4cc5-b74e-92df38c7d061,kannada37,kannada37,Paragraph,Ekstep,kn,live,,,,,,,,,,,,2024-10-29T07:22:31.807Z
-672c67f5f9ba9c64d5037c98,9bcf645d-f9a7-4ec2-b8b6-ac2ff11460af,L1.1 Sid Story,L1.1 Story,Sentence,Ekstep,en,live,CEFR_ENG,,,"{""level"": ""L1"", ""level_competency"": ""L1.1""}",,,,,,,,2024-11-07T07:03:14.818Z
-672ca776ef44356e5ddc14cc,fe785a20-f626-46c3-8c0f-19f50f1ebe66,L1.3 Story,L1.3 Story,Sentence,Ekstep,en,live,CEFR_ENG,,,"{""level"": ""L1"", ""level_competency"": ""L1.3""}",,,,,,,,2024-11-07T10:58:52.589Z
-672ca7a0ef44356e5ddc14ce,1b903cea-d297-43a3-9a25-263419abbfd8,L1.5 Story,L1.5 Story,Sentence,Ekstep,en,live,CEFR_ENG,,,"{""level"": ""L1"", ""level_competency"": ""L1.5""}",,,,,,,,2024-11-07T10:58:52.589Z
-672ca7bcef44356e5ddc14d0,9b4478c0-914c-47d2-b7f2-9fb4172f61ab,L1.6 Story,L1.6 Story,Sentence,Ekstep,en,live,CEFR_ENG,,,"{""level"": ""L1"", ""level_competency"": ""L1.6""}",,,,,,,,2024-11-07T10:58:52.589Z
-672ca7f2ef44356e5ddc14d2,970c9779-4a73-4e19-b17e-c4f8e4c4e6bd,L1.8 Story,L1.8 Story,Sentence,Ekstep,en,live,CEFR_ENG,,,"{""level"": ""L1"", ""level_competency"": ""L1.8""}",,,,,,,,2024-11-07T10:58:52.589Z
+672c67f5f9ba9c64d5037c98,9bcf645d-f9a7-4ec2-b8b6-ac2ff11460af,L1.1 Sid Story,L1.1 Story,Sentence,Ekstep,en,live,CEFR_ENG,,,"{:level ""L1"", :level_competency ""L1.1""}",,,,,,,,2024-11-07T07:03:14.818Z
+672ca776ef44356e5ddc14cc,fe785a20-f626-46c3-8c0f-19f50f1ebe66,L1.3 Story,L1.3 Story,Sentence,Ekstep,en,live,CEFR_ENG,,,"{:level ""L1"", :level_competency ""L1.3""}",,,,,,,,2024-11-07T10:58:52.589Z
+672ca7a0ef44356e5ddc14ce,1b903cea-d297-43a3-9a25-263419abbfd8,L1.5 Story,L1.5 Story,Sentence,Ekstep,en,live,CEFR_ENG,,,"{:level ""L1"", :level_competency ""L1.5""}",,,,,,,,2024-11-07T10:58:52.589Z
+672ca7bcef44356e5ddc14d0,9b4478c0-914c-47d2-b7f2-9fb4172f61ab,L1.6 Story,L1.6 Story,Sentence,Ekstep,en,live,CEFR_ENG,,,"{:level ""L1"", :level_competency ""L1.6""}",,,,,,,,2024-11-07T10:58:52.589Z
+672ca7f2ef44356e5ddc14d2,970c9779-4a73-4e19-b17e-c4f8e4c4e6bd,L1.8 Story,L1.8 Story,Sentence,Ekstep,en,live,CEFR_ENG,,,"{:level ""L1"", :level_competency ""L1.8""}",,,,,,,,2024-11-07T10:58:52.589Z
 672dbc9c97a17efaa6ea8098,ce066a4c-1d15-40be-86af-97f37596c934,L1.8 sentences,L1.8 sentences,Sentence,Ekstep,en,live,CEFR_ENG,,,,,,,,,,,2024-11-07T20:47:27.499Z
 67323ca09c4f8f903bf2635a,33936d1f-fec6-4984-8d9b-662b585cea45,shortPara,shortPara,Paragraph,Ekstep,kn,live,,,,,,,,,,,,2024-10-29T07:22:31.807Z
 673b0079c155fe0fae540812,5026fab6-de25-4afb-8f58-f14b740dd46d,1-1_LO,Collection for content,Sentence,Ekstep,en,live,CEFR_ENG,,,,,,,,,,,2024-11-12T04:10:13.725Z
@@ -729,12 +728,12 @@
 673b0b120e2b700c0987f43b,c879b542-e19a-4450-a8df-3f1e4b9d9338,L1.2_LO_FITB,Collection for content,Sentence,Ekstep,en,live,CEFR_ENG,,,,,,,,,,,2024-11-12T04:10:13.725Z
 673b0c04c155fe0fae54081a,457f4282-62e9-46f0-875a-1f754c5eb1fa,1.5-lo,Collection for content,Sentence,Ekstep,en,live,CEFR_ENG,,,,,,,,,,,2024-11-12T04:10:13.725Z
 673b0cc60e2b700c0987f43d,77fc51da-2e91-448c-895e-cf1764ad6bdb,L1.5_LO_FITB,Collection for content,Sentence,Ekstep,en,live,CEFR_ENG,,,,,,,,,,,2024-11-12T04:10:13.725Z
-673f054ac155fe0fae540c43,2cc68409-b4fc-4640-b050-1ef00382fa24,L1.2 Story 1,L1.2 Story 1,Sentence,Ekstep,en,live,CEFR_ENG,,,"{""level"": ""L1"", ""level_competency"": ""L1.2""}",,,,,,,,2024-11-12T04:10:13.725Z
-673f056f0e2b700c0987f84f,fa9fbd5b-ce99-4e7a-955f-7003ff67c8c7,L1.2 Story 2,L1.2 Story 2,Sentence,Ekstep,en,live,CEFR_ENG,,,"{""level"": ""L1"", ""level_competency"": ""L1.2""}",,,,,,,,2024-11-12T04:10:13.725Z
-673f0594c155fe0fae540c45,aad32c40-5d8b-4aa1-b02c-5f74e89ce68e,L1.2 Story 3,L1.2 Story 3,Sentence,Ekstep,en,live,CEFR_ENG,,,"{""level"": ""L1"", ""level_competency"": ""L1.2""}",,,,,,,,2024-11-12T04:10:13.725Z
-673f05db0e2b700c0987f851,78c7c468-dff7-42ed-8837-feb3000ba25d,L1.2 Story 4,L1.2 Story 4,Sentence,Ekstep,en,live,CEFR_ENG,,,"{""level"": ""L1"", ""level_competency"": ""L1.2""}",,,,,,,,2024-11-12T04:10:13.725Z
-673f0602c155fe0fae540c47,f6932675-05ed-4423-b9ac-9bfbb41d1111,L1.2 Story 5,L1.2 Story 5,Sentence,Ekstep,en,live,CEFR_ENG,,,"{""level"": ""L1"", ""level_competency"": ""L1.2""}",,,,,,,,2024-11-12T04:10:13.725Z
-673f06510e2b700c0987f853,83e8f428-6e39-4543-a24e-10666c7a318d,L1.6 Story 1,L1.6 Story 1,Sentence,Ekstep,en,live,CEFR_ENG,,,"{""level"": ""L1"", ""level_competency"": ""L1.6""}",,,,,,,,2024-11-12T04:10:13.725Z
+673f054ac155fe0fae540c43,2cc68409-b4fc-4640-b050-1ef00382fa24,L1.2 Story 1,L1.2 Story 1,Sentence,Ekstep,en,live,CEFR_ENG,,,"{:level ""L1"", :level_competency ""L1.2""}",,,,,,,,2024-11-12T04:10:13.725Z
+673f056f0e2b700c0987f84f,fa9fbd5b-ce99-4e7a-955f-7003ff67c8c7,L1.2 Story 2,L1.2 Story 2,Sentence,Ekstep,en,live,CEFR_ENG,,,"{:level ""L1"", :level_competency ""L1.2""}",,,,,,,,2024-11-12T04:10:13.725Z
+673f0594c155fe0fae540c45,aad32c40-5d8b-4aa1-b02c-5f74e89ce68e,L1.2 Story 3,L1.2 Story 3,Sentence,Ekstep,en,live,CEFR_ENG,,,"{:level ""L1"", :level_competency ""L1.2""}",,,,,,,,2024-11-12T04:10:13.725Z
+673f05db0e2b700c0987f851,78c7c468-dff7-42ed-8837-feb3000ba25d,L1.2 Story 4,L1.2 Story 4,Sentence,Ekstep,en,live,CEFR_ENG,,,"{:level ""L1"", :level_competency ""L1.2""}",,,,,,,,2024-11-12T04:10:13.725Z
+673f0602c155fe0fae540c47,f6932675-05ed-4423-b9ac-9bfbb41d1111,L1.2 Story 5,L1.2 Story 5,Sentence,Ekstep,en,live,CEFR_ENG,,,"{:level ""L1"", :level_competency ""L1.2""}",,,,,,,,2024-11-12T04:10:13.725Z
+673f06510e2b700c0987f853,83e8f428-6e39-4543-a24e-10666c7a318d,L1.6 Story 1,L1.6 Story 1,Sentence,Ekstep,en,live,CEFR_ENG,,,"{:level ""L1"", :level_competency ""L1.6""}",,,,,,,,2024-11-12T04:10:13.725Z
 6740211b4017f4d0d27bef26,96601699-daab-4847-afe5-f6a4aac54599,Teacher-Teacher,Teacher-Teacher,Word,Ekstep,kn,live,,,,,,,,,,,,2024-11-12T04:06:25.101Z
 6745c499cf2cd10dcbf587ee,a3cdcc2f-96b8-4b45-a31c-124049653ea9,GujarathiNewPara,GujarathiNewPara,Paragraph,Ekstep,gu,live,,,,,,,,,,,,2024-11-12T04:06:25.183Z
 67595bde4017f4d0d27bfd53,58c84322-649f-4a0e-9e97-6ae74e10c300,LatestKNwords,LatestKNwords,Word,Ekstep,kn,live,,,,,,,,,,,,2024-11-12T04:06:25.101Z
@@ -770,54 +769,54 @@
 678a31ed957f9624888a5498,7eb783dc-fe03-4266-a006-8399fef54614,Odia_W1,Odia_W1,Word,Ekstep,or,live,,,,,,,,,,,,2025-01-17T08:37:55.867Z
 678a322c957f9624888a568c,c4cd66dc-589d-4bd3-bbe0-c6fecfbbcc5c,Odia_Senteces,Odia_Senteces,Sentence,Ekstep,or,live,,,,,,,,,,,,2025-01-17T08:37:55.867Z
 678a323547c420539577f9b4,a6705210-abaf-4fe1-bf33-3c1e9842c6c3,Odia_W2,Odia_W2,Word,Ekstep,or,live,,,,,,,,,,,,2025-01-17T08:37:55.908Z
-678e265c957f9624888a58c8,3ffd72bc-d45d-4148-a3d5-b786b0a00924,ଗପ1,ଗପ1,Sentence,ekstep,or,live,ASER|set5|m4,,,,,,,,,,,2025-01-17T08:37:55.867Z
-678e270247c420539577fbaa,c647f7e8-29f8-4b92-98f4-7995d6dd05e4,ଗପ2,ଗପ2,Sentence,ekstep,or,live,ASER|set5|m4,,,,,,,,,,,2025-01-17T08:37:55.908Z
-678e2784957f9624888a58ca,1501b007-1136-4360-838f-84c4a2a50a8c,ଗପ3,ଗପ3,Sentence,ekstep,or,live,ASER|set5|m4,,,,,,,,,,,2025-01-17T08:37:55.867Z
-678e285447c420539577fbac,4a261a24-187e-4616-954c-c2e9d38189ac,ଗପ4,ଗପ4,Sentence,ekstep,or,live,ASER|set5|m4,,,,,,,,,,,2025-01-17T08:37:55.908Z
+678e265c957f9624888a58c8,3ffd72bc-d45d-4148-a3d5-b786b0a00924,ଗପ1,ଗପ1,Sentence,ekstep,or,live,ASER|set6|m4,,,,,,,,,,,2025-01-17T08:37:55.867Z
+678e270247c420539577fbaa,c647f7e8-29f8-4b92-98f4-7995d6dd05e4,ଗପ2,ଗପ2,Sentence,ekstep,or,live,ASER|set6|m4,,,,,,,,,,,2025-01-17T08:37:55.908Z
+678e2784957f9624888a58ca,1501b007-1136-4360-838f-84c4a2a50a8c,ଗପ3,ଗପ3,Sentence,ekstep,or,live,ASER|set6|m4,,,,,,,,,,,2025-01-17T08:37:55.867Z
+678e285447c420539577fbac,4a261a24-187e-4616-954c-c2e9d38189ac,ଗପ4,ଗପ4,Sentence,ekstep,or,live,ASER|set6|m4,,,,,,,,,,,2025-01-17T08:37:55.908Z
 678e28e7957f9624888a58cc,59f80fb8-5ff4-4739-b7ad-3811af25b575,ଥକ୍ଷର1,ଥକ୍ଷର1,Char,ekstep,or,live,ASER|set1|m1,,,,,,,,,,,2025-01-17T08:37:55.867Z
 678e291a47c420539577fbae,e5f7a86f-3b9f-4dc4-b64f-ff8ade0b88c3,ଥକ୍ଷର2,ଥକ୍ଷର2,Char,ekstep,or,live,ASER|set1|m1,,,,,,,,,,,2025-01-17T08:37:55.908Z
 678e295c957f9624888a58ce,c9564b7a-7854-4989-a43c-1a20a253d6b2,ଥକ୍ଷର3,ଥକ୍ଷର3,Char,ekstep,or,live,ASER|set1|m1,,,,,,,,,,,2025-01-17T08:37:55.867Z
 678e29b747c420539577fbb0,bf48828e-2b54-462d-a12b-59025e2c1fd7,ଥକ୍ଷର4,ଥକ୍ଷର4,Char,ekstep,or,live,ASER|set1|m1,,,,,,,,,,,2025-01-17T08:37:55.908Z
-678e2a4b957f9624888a58d0,f1c48b67-9876-4058-a2d0-d38c8bb4e3fd,ଶବ୍ଦ1,ଶବ୍ଦ1,Word,ekstep,or,live,ASER|set2|m2,,,,,,,,,,,2025-01-17T08:37:55.867Z
-678e2aee47c420539577fbb2,7dcb258c-8cb8-41cd-971f-15e46fa2136d,ଶବ୍ଦ2,ଶବ୍ଦ2,Word,ekstep,or,live,ASER|set2|m2,,,,,,,,,,,2025-01-17T08:37:55.908Z
-678e2be1957f9624888a58d2,647d40b3-35d6-415f-9a41-2388d8ca147f,ଶବ୍ଦ3,ଶବ୍ଦ3,Word,ekstep,or,live,ASER|set2|m2,,,,,,,,,,,2025-01-17T08:37:55.867Z
-678e2c7547c420539577fbb4,52e6cdfc-3f1e-4ca6-84ff-4a2ab04c2cfc,ଶବ୍ଦ4,ଶବ୍ଦ4,Word,ekstep,or,live,ASER|set2|m2,,,,,,,,,,,2025-01-17T08:37:55.908Z
-678e2d66957f9624888a58d4,010ba3e3-f6b4-4a4a-856e-e323a288b98e,ସରଳ ଅନୁଚ୍ଛେଦS1-1,ସରଳ ଅନୁଚ୍ଛେଦS1-1,Sentence,ekstep,or,live,ASER|set3|m0,,,,,,,,,,,2025-01-17T08:37:55.867Z
-678e2eeb47c420539577fbb6,971cdd0b-989f-429b-999a-620c10c670b5,ସରଳ ଅନୁଚ୍ଛେଦS2-1,ସରଳ ଅନୁଚ୍ଛେଦS2-1,Sentence,ekstep,or,live,ASER|set3|m0,,,,,,,,,,,2025-01-17T08:37:55.908Z
-678e2fd5957f9624888a58d6,104fff5c-9f00-4268-92bb-9697f943035a,ସରଳ ଅନୁଚ୍ଛେଦS3-1,ସରଳ ଅନୁଚ୍ଛେଦS3-1,Sentence,ekstep,or,live,ASER|set3|m0,,,,,,,,,,,2025-01-17T08:37:55.867Z
-678e30a247c420539577fbb8,a4947dd3-e9af-4e0c-b8e9-52ed77a1e8cf,ସରଳ ଅନୁଚ୍ଛେଦS4-1,ସରଳ ଅନୁଚ୍ଛେଦS4-1,Sentence,ekstep,or,live,ASER|set3|m0,,,,,,,,,,,2025-01-17T08:37:55.908Z
-678e310e957f9624888a58d8,baf0e828-caad-4597-80c3-e76503b62bbe,ସରଳ ଅନୁଚ୍ଛେଦS1-2,ସରଳ ଅନୁଚ୍ଛେଦS1-2,Sentence,ekstep,or,live,ASER|set4|m3,,,,,,,,,,,2025-01-17T08:37:55.867Z
-678e313e47c420539577fbba,ea3c6696-498b-4827-bc6c-3740fad6adfd,ସରଳ ଅନୁଚ୍ଛେଦS2-2,ସରଳ ଅନୁଚ୍ଛେଦS2-2,Sentence,ekstep,or,live,ASER|set4|m3,,,,,,,,,,,2025-01-17T08:37:55.908Z
-678e321c957f9624888a58da,543a324d-9ade-4621-aa04-2ef16540ac87,ସରଳ ଅନୁଚ୍ଛେଦS3-2,ସରଳ ଅନୁଚ୍ଛେଦS3-2,Sentence,ekstep,or,live,ASER|set4|m3,,,,,,,,,,,2025-01-17T08:37:55.867Z
-678e327247c420539577fbbc,19b1e674-e633-4339-9365-e1ade2fc5f59,ସରଳ ଅନୁଚ୍ଛେଦS4-2,ସରଳ ଅନୁଚ୍ଛେଦS4-2,Sentence,ekstep,or,live,ASER|set4|m3,,,,,,,,,,,2025-01-17T08:37:55.908Z
-67adde4ab90993bc816d3f3e,0e24fa45-2e17-4e4f-b383-1e2fdac96551,colours collection,colours collection,story,narendra,en,live,reader_content,Bedtime Stories|Classic Stories,colours,,ekstep,Tell me....now! Colours,Learn through interesting questions and answers.,Emergent,1,4,,2025-02-13T05:58:08.603Z
-67adf8abb90993bc816d3f46,8f5b965c-97ca-4184-9b52-14fb8e8571f4,How to Weigh an Elephant collection,How to Weigh an Elephant collection,story,nagesh,en,live,reader_content,Animals and Nature|Bedtime Stories|Morals and Values|Science and Nature,Animals|Elephant|Friends|Moral science|Clever|King|Science stories|Kids Stories,,ekstep,How to Weigh an Elephant,"This book is a wonderful way to introduce kids to Lilavati, the great mathematician from a millennium ago.In this story, Lilavati does what no other brain in the kingdom could do – she succeeds in calculating the weight of the king’s favourite elephant.",Intermediate,2,5,,2025-02-13T05:58:08.603Z
-67adf980a7d16b52b80d2222,b81c489b-0fd5-4e0e-977b-a045cfcebb79,The Farm Animals Collection,The Farm Animals Collection,story,nayna,en,live,reader_content,Animals and Nature,Animals|Farm|Education|Life|Fun,,ekstep,The Farm Animals,"The farm animal is a cute picture book for toddlers and preschoolers who are fond of animals. The book introduces them to the different animals on the farm along with the sounds for each animal. My two year old can't seem to get enough of it, I hope your little ones enjoy it too!",Emergent,1,6,,2025-02-13T05:58:08.576Z
-67adf9c0b90993bc816d3f48,e578b186-c74a-4214-b73c-5d6eca2b1579,Vayu the Wind collection,Vayu the Wind collection,story,nagesh,en,live,reader_content,Family and Friends|Classic Stories,Fun|Family|Wind|Life,,ekstep,"Vayu, the Wind","Vayu, The Wind written by Madhuri Pai and published by Pratham Books is intended for kids from the ages of 3-6yrs. The book is a great way to teach the kids about wind and its effects. Even though we can see it, the wind plays an integral part in our lives and what better way to learn about it than this. So let’s learn about the wind from a kid's perspective. And play game when hover over the game image.",Emergent,1,9,,2025-02-13T05:58:08.603Z
-67b85ca80800046d7ade3e42,4c33c18d-b80d-4c64-8359-1e111cd3fc13,TeluguTextbookWords8,TeluguTextbookWords8,Word,Ekstep,te,live,,,,,,,,,,,,2025-02-18T11:51:29.526Z
-67b85d04a41252f9789ffe81,9e8e8aac-9268-4b2f-846c-e8262c9a6480,TeluguTextbookWords6,TeluguTextbookWords6,Word,Ekstep,te,live,,,,,,,,,,,,2025-02-18T11:51:29.502Z
-67b85d670800046d7ade4614,007404bc-2dcc-4171-8882-23d57c1ba493,SentencesNewTB3,SentencesNewTB3,Sentence,Ekstep,te,live,,,,,,,,,,,,2025-02-18T11:51:29.526Z
-67b85db30800046d7ade494a,01092ec8-49b9-4782-a43b-572ab681419f,TeluguTextbookWords10,TeluguTextbookWords10,Word,Ekstep,te,live,,,,,,,,,,,,2025-02-18T11:51:29.526Z
-67b85e0ea41252f978a00989,fa88891e-771c-4018-b84d-b443630d08ec,SentencesNewTB,SentencesNewTB,Sentence,Ekstep,te,live,,,,,,,,,,,,2025-02-18T11:51:29.502Z
-67b85e680800046d7ade5108,07869948-18b1-4f9a-9032-b80c7747c247,SentencesNewTB2,SentencesNewTB2,Sentence,Ekstep,te,live,,,,,,,,,,,,2025-02-18T11:51:29.526Z
-67b85ea90800046d7ade5390,f672cc58-9891-4a03-9dff-3ea9df4efcc8,TeluguTextbookWords,TeluguTextbookWords,Word,Ekstep,te,live,,,,,,,,,,,,2025-02-18T11:51:29.526Z
-67b85f0d0800046d7ade5778,55a5c3d1-f58a-4ee2-9597-dff7e5991704,SentencesNewTB4,SentencesNewTB4,Sentence,Ekstep,te,live,,,,,,,,,,,,2025-02-18T11:51:29.526Z
-67b85f65a41252f978a017e9,65fb79d0-cd1b-4532-98a6-cb429cc34b9d,TeluguTextbookWords3,TeluguTextbookWords3,Word,Ekstep,te,live,,,,,,,,,,,,2025-02-18T11:51:29.502Z
-67b85fb90800046d7ade5f7c,02540acd-9b13-49d2-852b-f40c27c9ba35,TeluguTextbookWords11,TeluguTextbookWords11,Word,Ekstep,te,live,,,,,,,,,,,,2025-02-18T11:51:29.526Z
-67b85fd10800046d7ade6084,87a71380-92d0-4a2f-b621-8dbb039991ec,TeluguTextbookWords4,TeluguTextbookWords4,Word,Ekstep,te,live,,,,,,,,,,,,2025-02-18T11:51:29.526Z
-67b86024a41252f978a020c3,b323989e-ecc5-4e81-94ca-08dc849aa01d,TeluguTextbookWords5,TeluguTextbookWords5,Word,Ekstep,te,live,,,,,,,,,,,,2025-02-18T11:51:29.502Z
-67b860760800046d7ade6856,a97a1d44-ab41-45aa-96c0-f681ee9abb28,TeluguTextbookWords9,TeluguTextbookWords9,Word,Ekstep,te,live,,,,,,,,,,,,2025-02-18T11:51:29.526Z
-67b860cda41252f978a02895,c0df97a0-e175-41eb-8285-e04af6282384,TeluguTextbookWords2,TeluguTextbookWords2,Word,Ekstep,te,live,,,,,,,,,,,,2025-02-18T11:51:29.502Z
-67b8611f0800046d7ade7028,21166b0f-ea4f-42a7-b1f4-cac914a97344,TeluguTextbookWords7,TeluguTextbookWords7,Word,Ekstep,te,live,,,,,,,,,,,,2025-02-18T11:51:29.526Z
-67d810ab381788f8c529b159,6d3055c4-a70b-4250-837c-38368b5a3f97,The Jungle School Collection,The Jungle School Collection,story,sandeep kumar,en,live,reader_content,Action and Adventure|Animals and Nature|Family and Friends|School Time,Animals|Imagination|Life|Nature|School|Education|Pratham Books|Moral,,ekstep,"Vayu, the Wind","The jungle school, written by Madhav Chavan & Meera Tendolkar, published by Pratham Books is a cute story  about how the jungle animals rush to the new school with great enthusiasm. A very nice read for young readers who are starting to read by themselves",Intermediate,2,9,,2025-03-14T11:09:11.71Z
-67e3e07149ea5b0e5b713333,b60929c0-333c-4d8b-95d3-eaa9fe4eb51e,CEFR_en_2.1,CEFR_en_2.1,Sentence,Ekstep,en,live,CEFR_ENG,,,"{""level"": ""L2"", ""level_competency"": ""L2.1""}",,,,,,,,2025-03-26T10:12:50.115Z
-67e3f39c9ddd8cfb0f502596,b8da71e0-0d88-49df-8cdb-7f0ff9c531cd,CEFR_1_4,CEFR_1_4,Sentence,Ekstep,en,live,CEFR_ENG,,,"{""level"": ""L1"", ""level_competency"": ""L1.4""}",,,,,,,,2025-03-26T10:12:50.102Z
-67e4083949ea5b0e5b713418,fbe258a8-10e7-47f0-bcab-f723d11535d4,CEFR_2_4,CEFR_2_4,Sentence,Ekstep,en,live,CEFR_ENG,,,"{""level"": ""L2"", ""level_competency"": ""L2.4""}",,,,,,,,2025-03-26T10:12:50.115Z
-67e565a849ea5b0e5b713916,bfc43cc1-58bc-44fb-8c09-78117830af86,CEFR_2_7,CEFR_2_7,Sentence,Ekstep,en,live,CEFR_ENG,,,"{""level"": ""L2"", ""level_competency"": ""L2.7""}",,,,,,,,2025-03-26T10:12:50.115Z
-67e570de9ddd8cfb0f502b4c,35984247-c409-45bb-9598-1bb05139aea5,CEFR_2_5,CEFR_2_5,Sentence,Ekstep,en,live,CEFR_ENG,,,"{""level"": ""L2"", ""level_competency"": ""L2.5""}",,,,,,,,2025-03-26T10:12:50.102Z
-67ed17e549ea5b0e5b714a3f,a9583552-95f2-4e22-8f85-2574e64a8dc0,CEFR_1_7,CEFR_1_7,Sentence,Ekstep,en,live,CEFR_ENG,,,"{""level"": ""L1"", ""level_competency"": ""L1.7""}",,,,,,,,2025-03-26T10:12:50.115Z
-67ef8f8249ea5b0e5b7150e7,7f3018ff-6ca3-4cf8-9f5a-1bf41df5f2ef,CEFR_2_10,CEFR_2_10,Sentence,Ekstep,en,live,CEFR_ENG,,,"{""level"": ""L2"", ""level_competency"": ""L2.10""}",,,,,,,,2025-03-26T10:12:50.115Z
-67f3ef9f9ddd8cfb0f5045a2,d908b047-117b-457c-a397-ad14889817c8,CEFR_2_9,CEFR_2_9,Sentence,Ekstep,en,live,CEFR_ENG,,,"{""level"": ""L2"", ""level_competency"": ""L2.9""}",,,,,,,,2025-03-26T10:12:50.102Z
+678e2a4b957f9624888a58d0,f1c48b67-9876-4058-a2d0-d38c8bb4e3fd,ଶବ୍ଦ1,ଶବ୍ଦ1,Word,ekstep,or,live,ASER|set3|m2,,,,,,,,,,,2025-01-17T08:37:55.867Z
+678e2aee47c420539577fbb2,7dcb258c-8cb8-41cd-971f-15e46fa2136d,ଶବ୍ଦ2,ଶବ୍ଦ2,Word,ekstep,or,live,ASER|set3|m2,,,,,,,,,,,2025-01-17T08:37:55.908Z
+678e2be1957f9624888a58d2,647d40b3-35d6-415f-9a41-2388d8ca147f,ଶବ୍ଦ3,ଶବ୍ଦ3,Word,ekstep,or,live,ASER|set3|m2,,,,,,,,,,,2025-01-17T08:37:55.867Z
+678e2c7547c420539577fbb4,52e6cdfc-3f1e-4ca6-84ff-4a2ab04c2cfc,ଶବ୍ଦ4,ଶବ୍ଦ4,Word,ekstep,or,live,ASER|set3|m2,,,,,,,,,,,2025-01-17T08:37:55.908Z
+678e2d66957f9624888a58d4,010ba3e3-f6b4-4a4a-856e-e323a288b98e,ସରଳ ଅନୁଚ୍ଛେଦS1-1,ସରଳ ଅନୁଚ୍ଛେଦS1-1,Sentence,ekstep,or,live,ASER|set4|m0,,,,,,,,,,,2025-01-17T08:37:55.867Z
+678e2eeb47c420539577fbb6,971cdd0b-989f-429b-999a-620c10c670b5,ସରଳ ଅନୁଚ୍ଛେଦS2-1,ସରଳ ଅନୁଚ୍ଛେଦS2-1,Sentence,ekstep,or,live,ASER|set4|m0,,,,,,,,,,,2025-01-17T08:37:55.908Z
+678e2fd5957f9624888a58d6,104fff5c-9f00-4268-92bb-9697f943035a,ସରଳ ଅନୁଚ୍ଛେଦS3-1,ସରଳ ଅନୁଚ୍ଛେଦS3-1,Sentence,ekstep,or,live,ASER|set4|m0,,,,,,,,,,,2025-01-17T08:37:55.867Z
+678e30a247c420539577fbb8,a4947dd3-e9af-4e0c-b8e9-52ed77a1e8cf,ସରଳ ଅନୁଚ୍ଛେଦS4-1,ସରଳ ଅନୁଚ୍ଛେଦS4-1,Sentence,ekstep,or,live,ASER|set4|m0,,,,,,,,,,,2025-01-17T08:37:55.908Z
+678e310e957f9624888a58d8,baf0e828-caad-4597-80c3-e76503b62bbe,ସରଳ ଅନୁଚ୍ଛେଦS1-2,ସରଳ ଅନୁଚ୍ଛେଦS1-2,Sentence,ekstep,or,live,ASER|set5|m3,,,,,,,,,,,2025-01-17T08:37:55.867Z
+678e313e47c420539577fbba,ea3c6696-498b-4827-bc6c-3740fad6adfd,ସରଳ ଅନୁଚ୍ଛେଦS2-2,ସରଳ ଅନୁଚ୍ଛେଦS2-2,Sentence,ekstep,or,live,ASER|set5|m3,,,,,,,,,,,2025-01-17T08:37:55.908Z
+678e321c957f9624888a58da,543a324d-9ade-4621-aa04-2ef16540ac87,ସରଳ ଅନୁଚ୍ଛେଦS3-2,ସରଳ ଅନୁଚ୍ଛେଦS3-2,Sentence,ekstep,or,live,ASER|set5|m3,,,,,,,,,,,2025-01-17T08:37:55.867Z
+678e327247c420539577fbbc,19b1e674-e633-4339-9365-e1ade2fc5f59,ସରଳ ଅନୁଚ୍ଛେଦS4-2,ସରଳ ଅନୁଚ୍ଛେଦS4-2,Sentence,ekstep,or,live,ASER|set5|m3,,,,,,,,,,,2025-01-17T08:37:55.908Z
+67adde4ab90993bc816d3f3e,0e24fa45-2e17-4e4f-b383-1e2fdac96551,colours collection,colours collection,story,narendra,en,live,reader_content,"[""Bedtime Stories"" ""Classic Stories""]","[""colours""]",,ekstep,Tell me....now! Colours,Learn through interesting questions and answers.,Emergent,1,4,,2025-02-13T05:58:08.603Z
+67adf8abb90993bc816d3f46,8f5b965c-97ca-4184-9b52-14fb8e8571f4,How to Weigh an Elephant collection,How to Weigh an Elephant collection,story,nagesh,en,live,reader_content,"[""Animals and Nature"" ""Bedtime Stories"" ""Morals and Values"" ""Science and Nature""]","[""Animals"" ""Elephant"" ""Friends"" ""Moral science"" ""Clever"" ""King"" ""Science stories"" ""Kids Stories""]",,ekstep,How to Weigh an Elephant,"This book is a wonderful way to introduce kids to Lilavati, the great mathematician from a millennium ago.In this story, Lilavati does what no other brain in the kingdom could do – she succeeds in calculating the weight of the king’s favourite elephant.",Intermediate,2,5,,2025-02-13T05:58:08.603Z
+67adf980a7d16b52b80d2222,b81c489b-0fd5-4e0e-977b-a045cfcebb79,The Farm Animals Collection,The Farm Animals Collection,story,nayna,en,live,reader_content,"[""Animals and Nature""]","[""Animals"" ""Farm"" ""Education"" ""Life"" ""Fun""]",,ekstep,The Farm Animals,"The farm animal is a cute picture book for toddlers and preschoolers who are fond of animals. The book introduces them to the different animals on the farm along with the sounds for each animal. My two year old can't seem to get enough of it, I hope your little ones enjoy it too!",Emergent,1,6,,2025-02-13T05:58:08.576Z
+67adf9c0b90993bc816d3f48,e578b186-c74a-4214-b73c-5d6eca2b1579,Vayu the Wind collection,Vayu the Wind collection,story,nagesh,en,live,reader_content,"[""Family and Friends"" ""Classic Stories""]","[""Fun"" ""Family"" ""Wind"" ""Life""]",,ekstep,"Vayu, the Wind","Vayu, The Wind written by Madhuri Pai and published by Pratham Books is intended for kids from the ages of 3-6yrs. The book is a great way to teach the kids about wind and its effects. Even though we can see it, the wind plays an integral part in our lives and what better way to learn about it than this. So let’s learn about the wind from a kid's perspective. And play game when hover over the game image.",Emergent,1,9,,2025-02-13T05:58:08.603Z
+67b85ca80800046d7ade3e42,4c33c18d-b80d-4c64-8359-1e111cd3fc13,TeluguTextbookWords8,TeluguTextbookWords8,Word,Ekstep,te,live,,[],[],,,,,,,,,2025-02-18T11:51:29.526Z
+67b85d04a41252f9789ffe81,9e8e8aac-9268-4b2f-846c-e8262c9a6480,TeluguTextbookWords6,TeluguTextbookWords6,Word,Ekstep,te,live,,[],[],,,,,,,,,2025-02-18T11:51:29.502Z
+67b85d670800046d7ade4614,007404bc-2dcc-4171-8882-23d57c1ba493,SentencesNewTB3,SentencesNewTB3,Sentence,Ekstep,te,live,,[],[],,,,,,,,,2025-02-18T11:51:29.526Z
+67b85db30800046d7ade494a,01092ec8-49b9-4782-a43b-572ab681419f,TeluguTextbookWords10,TeluguTextbookWords10,Word,Ekstep,te,live,,[],[],,,,,,,,,2025-02-18T11:51:29.526Z
+67b85e0ea41252f978a00989,fa88891e-771c-4018-b84d-b443630d08ec,SentencesNewTB,SentencesNewTB,Sentence,Ekstep,te,live,,[],[],,,,,,,,,2025-02-18T11:51:29.502Z
+67b85e680800046d7ade5108,07869948-18b1-4f9a-9032-b80c7747c247,SentencesNewTB2,SentencesNewTB2,Sentence,Ekstep,te,live,,[],[],,,,,,,,,2025-02-18T11:51:29.526Z
+67b85ea90800046d7ade5390,f672cc58-9891-4a03-9dff-3ea9df4efcc8,TeluguTextbookWords,TeluguTextbookWords,Word,Ekstep,te,live,,[],[],,,,,,,,,2025-02-18T11:51:29.526Z
+67b85f0d0800046d7ade5778,55a5c3d1-f58a-4ee2-9597-dff7e5991704,SentencesNewTB4,SentencesNewTB4,Sentence,Ekstep,te,live,,[],[],,,,,,,,,2025-02-18T11:51:29.526Z
+67b85f65a41252f978a017e9,65fb79d0-cd1b-4532-98a6-cb429cc34b9d,TeluguTextbookWords3,TeluguTextbookWords3,Word,Ekstep,te,live,,[],[],,,,,,,,,2025-02-18T11:51:29.502Z
+67b85fb90800046d7ade5f7c,02540acd-9b13-49d2-852b-f40c27c9ba35,TeluguTextbookWords11,TeluguTextbookWords11,Word,Ekstep,te,live,,[],[],,,,,,,,,2025-02-18T11:51:29.526Z
+67b85fd10800046d7ade6084,87a71380-92d0-4a2f-b621-8dbb039991ec,TeluguTextbookWords4,TeluguTextbookWords4,Word,Ekstep,te,live,,[],[],,,,,,,,,2025-02-18T11:51:29.526Z
+67b86024a41252f978a020c3,b323989e-ecc5-4e81-94ca-08dc849aa01d,TeluguTextbookWords5,TeluguTextbookWords5,Word,Ekstep,te,live,,[],[],,,,,,,,,2025-02-18T11:51:29.502Z
+67b860760800046d7ade6856,a97a1d44-ab41-45aa-96c0-f681ee9abb28,TeluguTextbookWords9,TeluguTextbookWords9,Word,Ekstep,te,live,,[],[],,,,,,,,,2025-02-18T11:51:29.526Z
+67b860cda41252f978a02895,c0df97a0-e175-41eb-8285-e04af6282384,TeluguTextbookWords2,TeluguTextbookWords2,Word,Ekstep,te,live,,[],[],,,,,,,,,2025-02-18T11:51:29.502Z
+67b8611f0800046d7ade7028,21166b0f-ea4f-42a7-b1f4-cac914a97344,TeluguTextbookWords7,TeluguTextbookWords7,Word,Ekstep,te,live,,[],[],,,,,,,,,2025-02-18T11:51:29.526Z
+67d810ab381788f8c529b159,6d3055c4-a70b-4250-837c-38368b5a3f97,The Jungle School Collection,The Jungle School Collection,story,sandeep kumar,en,live,reader_content,"[""Action and Adventure"" ""Animals and Nature"" ""Family and Friends"" ""School Time""]","[""Animals"" ""Imagination"" ""Life"" ""Nature"" ""School"" ""Education"" ""Pratham Books"" ""Moral""]",,ekstep,"Vayu, the Wind","The jungle school, written by Madhav Chavan & Meera Tendolkar, published by Pratham Books is a cute story  about how the jungle animals rush to the new school with great enthusiasm. A very nice read for young readers who are starting to read by themselves",Intermediate,2,9,,2025-03-14T11:09:11.710Z
+67e3e07149ea5b0e5b713333,b60929c0-333c-4d8b-95d3-eaa9fe4eb51e,CEFR_en_2.1,CEFR_en_2.1,Sentence,Ekstep,en,live,CEFR_ENG,,,"{:level ""L2"", :level_competency ""L2.1""}",,,,,,,,2025-03-26T10:12:50.115Z
+67e3f39c9ddd8cfb0f502596,b8da71e0-0d88-49df-8cdb-7f0ff9c531cd,CEFR_1_4,CEFR_1_4,Sentence,Ekstep,en,live,CEFR_ENG,,,"{:level ""L1"", :level_competency ""L1.4""}",,,,,,,,2025-03-26T10:12:50.102Z
+67e4083949ea5b0e5b713418,fbe258a8-10e7-47f0-bcab-f723d11535d4,CEFR_2_4,CEFR_2_4,Sentence,Ekstep,en,live,CEFR_ENG,,,"{:level ""L2"", :level_competency ""L2.4""}",,,,,,,,2025-03-26T10:12:50.115Z
+67e565a849ea5b0e5b713916,bfc43cc1-58bc-44fb-8c09-78117830af86,CEFR_2_7,CEFR_2_7,Sentence,Ekstep,en,live,CEFR_ENG,,,"{:level ""L2"", :level_competency ""L2.7""}",,,,,,,,2025-03-26T10:12:50.115Z
+67e570de9ddd8cfb0f502b4c,35984247-c409-45bb-9598-1bb05139aea5,CEFR_2_5,CEFR_2_5,Sentence,Ekstep,en,live,CEFR_ENG,,,"{:level ""L2"", :level_competency ""L2.5""}",,,,,,,,2025-03-26T10:12:50.102Z
+67ed17e549ea5b0e5b714a3f,a9583552-95f2-4e22-8f85-2574e64a8dc0,CEFR_1_7,CEFR_1_7,Sentence,Ekstep,en,live,CEFR_ENG,,,"{:level ""L1"", :level_competency ""L1.7""}",,,,,,,,2025-03-26T10:12:50.115Z
+67ef8f8249ea5b0e5b7150e7,7f3018ff-6ca3-4cf8-9f5a-1bf41df5f2ef,CEFR_2_10,CEFR_2_10,Sentence,Ekstep,en,live,CEFR_ENG,,,"{:level ""L2"", :level_competency ""L2.10""}",,,,,,,,2025-03-26T10:12:50.115Z
+67f3ef9f9ddd8cfb0f5045a2,d908b047-117b-457c-a397-ad14889817c8,CEFR_2_9,CEFR_2_9,Sentence,Ekstep,en,live,CEFR_ENG,,,"{:level ""L2"", :level_competency ""L2.9""}",,,,,,,,2025-03-26T10:12:50.102Z
 67f7b74c61c599623706da3e,8b745ad3-3335-454a-a4c3-fe6abdde5741,HindiLatestSentences1,HindiLatestSentences1,Sentence,Ekstep,hi,live,,,,,,,,,,,,2025-04-10T05:17:50.801Z
 67f7b99561c599623706de26,e86f76ee-b651-4ebc-8e19-1ef0e2cdc8bb,HindiLatestParagraphs,HindiLatestParagraphs,Paragraph,Ekstep,hi,live,,,,,,,,,,,,2025-04-10T05:17:50.801Z
 67f7b99f61c599623706de76,03d2e6ed-a6e1-4506-af8a-4aa368f0bb02,HindiLatestWords3,HindiLatestWords3,Word,Ekstep,hi,live,,,,,,,,,,,,2025-04-10T05:17:50.801Z
@@ -832,7 +831,7 @@
 6800ea8461c599623706f997,6a24f5be-fa57-4fa9-9ee3-def2b31b98a7,SknContent,SknContent,Sentence,Ekstep,kn,live,,,,,,,,,,,,2025-04-10T05:17:50.801Z
 6805d7c161c599623706fa36,dd3797a8-a80a-4d45-9566-83b506c8adf4,OdiaParagraphs,OdiaParagraphs,Paragraph,Ekstep,or,live,,,,,,,,,,,,2025-04-10T05:17:50.801Z
 6808df0761c599623706fc80,5ae74368-f562-4214-82a4-328bcebc6da8,newcontent,newcontent,Sentence,Ekstep,en,live,,,,,,,,,,,,2025-04-10T05:17:50.801Z
-680b904e5bb97d6da47054c0,b5d7706f-f94c-4473-ba80-49d0e353920e,ParaNewHi,ParaNewHi,Paragraph,Ekstep,hi,live,,,,,,,,,,,,2025-04-25T09:50:21.976Z
+680b904e5bb97d6da47054c0,b5d7706f-f94c-4473-ba80-49d0e353920e,ParaNewHi,ParaNewHi,Paragraph,Ekstep,hi,live,,[],[],,,,,,,,,2025-04-25T09:50:21.976Z
 680fc8ce012a910b1945c5b3,d83cf594-2210-43c1-8b6c-5f1296e8f2f0,TeluguCorrectedSentences1,TeluguCorrectedSentences1,Sentence,Ekstep,te,live,,,,,,,,,,,,2025-03-18T07:05:46.541Z
 680fc953012a910b1945c7a7,37185178-8b2e-4e1e-977f-e322603db9bc,TeluguCorrectedWords3,TeluguCorrectedWords3,Word,Ekstep,te,live,,,,,,,,,,,,2025-03-18T07:05:46.541Z
 680fc9d5012a910b1945c99b,b7b7e58a-c064-4472-8b17-93782392cb52,TeluguCorrectedWords2,TeluguCorrectedWords2,Word,Ekstep,te,live,,,,,,,,,,,,2025-03-18T07:05:46.541Z
@@ -843,15 +842,15 @@
 680fcc1b2459315d9e40969f,92eab26c-9a7a-4324-8a5f-adfe07554d7c,TeluguCorrectedWords4,TeluguCorrectedWords4,Word,Ekstep,te,live,,,,,,,,,,,,2025-03-18T07:05:46.387Z
 680fd00b2459315d9e4098b5,37110548-66ba-48b5-8969-c1e9e77f21a4,TeluguCorrectedParagraph,TeluguCorrectedParagraph,Sentence,Ekstep,te,live,,,,,,,,,,,,2025-03-18T07:05:46.387Z
 680fd178df8f101781f35050,c307c69f-f89a-48be-8bca-500e85d612f6,TeluguCorrectedParagraphsA,TeluguCorrectedParagraphsA,Paragraph,Ekstep,te,live,,,,,,,,,,,,2025-03-18T07:05:46.591Z
-681b04565bb97d6da470595e,3afe69ed-a2b6-4111-a8e6-81ce3d2828d8,storyParaHi,storyParaHi,Paragraph,Ekstep,hi,live,,,,,,,,,,,,2025-04-25T09:50:21.976Z
-6821b5c9ea56782698434d83,7aab4e10-f156-47e7-b147-b9c30b062091,odia_new_words4,odia_new_words4,Word,Ekstep,or,live,,,,,,,,,,,,2025-04-25T09:50:22.064Z
-6821b62fea5678269843516b,9e1ff541-0d8d-4a93-938e-39b2a573f214,odia_new_words,odia_new_words,Word,Ekstep,or,live,,,,,,,,,,,,2025-04-25T09:50:22.064Z
-6821b64a5bb97d6da4705ef9,e855ec01-b377-491c-9b49-e5a05b5a4b5c,odia_sentences2,odia_sentences2,Sentence,Ekstep,or,live,,,,,,,,,,,,2025-04-25T09:50:21.976Z
-6821b6b65bb97d6da47062e1,96dbe8bd-a212-487b-937b-d9e8ea2d864d,odia_new_words3,odia_new_words3,Word,Ekstep,or,live,,,,,,,,,,,,2025-04-25T09:50:21.976Z
-6821b7115bb97d6da47066c9,f98e08c4-a549-499e-8678-5c1ee06c47d3,odia_sentences,odia_sentences,Sentence,Ekstep,or,live,,,,,,,,,,,,2025-04-25T09:50:21.976Z
-6821b76aea56782698435e02,888caef2-efc8-4fda-bc29-de748c30bdf4,odia_sentences3,odia_sentences3,Sentence,Ekstep,or,live,,,,,,,,,,,,2025-04-25T09:50:22.064Z
-6821b7c8ea567826984361ea,5c8bb083-8e0d-4af5-abe0-235d9f686660,odia_para_stories,odia_para_stories,Paragraph,Ekstep,or,live,,,,,,,,,,,,2025-04-25T09:50:22.064Z
-6821b7de5bb97d6da4706f5b,dadcc482-c62a-4e6d-a782-34a744dff2e9,odia_new_words2,odia_new_words2,Word,Ekstep,or,live,,,,,,,,,,,,2025-04-25T09:50:21.976Z
+681b04565bb97d6da470595e,3afe69ed-a2b6-4111-a8e6-81ce3d2828d8,storyParaHi,storyParaHi,Paragraph,Ekstep,hi,live,,[],[],,,,,,,,,2025-04-25T09:50:21.976Z
+6821b5c9ea56782698434d83,7aab4e10-f156-47e7-b147-b9c30b062091,odia_new_words4,odia_new_words4,Word,Ekstep,or,live,,[],[],,,,,,,,,2025-04-25T09:50:22.064Z
+6821b62fea5678269843516b,9e1ff541-0d8d-4a93-938e-39b2a573f214,odia_new_words,odia_new_words,Word,Ekstep,or,live,,[],[],,,,,,,,,2025-04-25T09:50:22.064Z
+6821b64a5bb97d6da4705ef9,e855ec01-b377-491c-9b49-e5a05b5a4b5c,odia_sentences2,odia_sentences2,Sentence,Ekstep,or,live,,[],[],,,,,,,,,2025-04-25T09:50:21.976Z
+6821b6b65bb97d6da47062e1,96dbe8bd-a212-487b-937b-d9e8ea2d864d,odia_new_words3,odia_new_words3,Word,Ekstep,or,live,,[],[],,,,,,,,,2025-04-25T09:50:21.976Z
+6821b7115bb97d6da47066c9,f98e08c4-a549-499e-8678-5c1ee06c47d3,odia_sentences,odia_sentences,Sentence,Ekstep,or,live,,[],[],,,,,,,,,2025-04-25T09:50:21.976Z
+6821b76aea56782698435e02,888caef2-efc8-4fda-bc29-de748c30bdf4,odia_sentences3,odia_sentences3,Sentence,Ekstep,or,live,,[],[],,,,,,,,,2025-04-25T09:50:22.064Z
+6821b7c8ea567826984361ea,5c8bb083-8e0d-4af5-abe0-235d9f686660,odia_para_stories,odia_para_stories,Paragraph,Ekstep,or,live,,[],[],,,,,,,,,2025-04-25T09:50:22.064Z
+6821b7de5bb97d6da4706f5b,dadcc482-c62a-4e6d-a782-34a744dff2e9,odia_new_words2,odia_new_words2,Word,Ekstep,or,live,,[],[],,,,,,,,,2025-04-25T09:50:21.976Z
 683db6d34b887bc5fad7c588,0cbb7b2c-7c73-4901-9f7c-6b116869a57f,gujaratiUpdatedSentences2,gujaratiUpdatedSentences2,Sentence,Ekstep,gu,live,,,,,,,,,,,,2025-05-21T09:36:01.748Z
 683db7514b887bc5fad7c872,56955c1d-6082-4954-aab9-72910d1efd21,gujaratiUpdated2,gujaratiUpdated2,Word,Ekstep,gu,live,,,,,,,,,,,,2025-05-21T09:36:01.748Z
 683db7bbb9d50b8e0d1e1303,56b6b73f-55ff-4558-b544-595138cdb1fb,gujaratiUpdatedSentences,gujaratiUpdatedSentences,Sentence,Ekstep,gu,live,,,,,,,,,,,,2025-05-21T09:36:01.804Z
@@ -859,10 +858,10 @@
 683db87db9d50b8e0d1e19a7,db3ee952-60de-4a12-99b1-6ffe2169ab04,gujaratiUpdated3,gujaratiUpdated3,Word,Ekstep,gu,live,,,,,,,,,,,,2025-05-21T09:36:01.804Z
 683db8e64b887bc5fad7d6e8,e9ab3a5f-7a81-4f63-9325-49b0197bc5b8,gujaratiUpdated4,gujaratiUpdated4,Word,Ekstep,gu,live,,,,,,,,,,,,2025-05-21T09:36:01.748Z
 68431ec89c93e5179d0a40a0,cdba132c-ff88-4705-bc0f-2012a294193b,NewTNupdate060625,NewTNupdate060625,Sentence,Ekstep,en,live,,,,,,,,,,,,2025-06-06T15:22:51.757Z
-68536c3272ea17e525a0ca35,dcc64839-2362-4b04-8a45-7641d206425e,General_B1,General_B1,Sentence,Ekstep,en,live,CEFR_GENERAL_ENG,,,"{""level"": ""L1"", ""CEFR_level"": ""B1""}",,,,,,,,2025-06-18T05:27:53.58Z
-68536cc82a9a91c2edb45e8d,1560b6bf-9fa5-405e-998f-c7df35cee7bf,General_A1,General_A1,Sentence,Ekstep,en,live,CEFR_GENERAL_ENG,,,"{""level"": ""L1"", ""CEFR_level"": ""A1""}",,,,,,,,2025-06-18T05:27:53.586Z
-68536d0272ea17e525a0ca37,9f2dde65-4fb5-4d63-bf13-52b24375d023,General_A2,General_A2,Sentence,Ekstep,en,live,CEFR_GENERAL_ENG,,,"{""level"": ""L1"", ""CEFR_level"": ""A2""}",,,,,,,,2025-06-18T05:27:53.58Z
-6853f4db74b2e27ba975bca1,728c872c-0909-42ca-89cb-a72ef14eacb5,CEFR_EN_general_L1-2,CEFR_EN_general_L1-2,Sentence,Ekstep,en,live,CEFR_GENERAL_ENG,,,"{""level"": ""L1""}",,,,,,,,2025-06-19T07:01:37.584Z
+68536c3272ea17e525a0ca35,dcc64839-2362-4b04-8a45-7641d206425e,General_B1,General_B1,Sentence,Ekstep,en,live,CEFR_GENERAL_ENG,,,"{:level ""L1"", :CEFR_level ""B1""}",,,,,,,,2025-06-18T05:27:53.580Z
+68536cc82a9a91c2edb45e8d,1560b6bf-9fa5-405e-998f-c7df35cee7bf,General_A1,General_A1,Sentence,Ekstep,en,live,CEFR_GENERAL_ENG,,,"{:level ""L1"", :CEFR_level ""A1""}",,,,,,,,2025-06-18T05:27:53.586Z
+68536d0272ea17e525a0ca37,9f2dde65-4fb5-4d63-bf13-52b24375d023,General_A2,General_A2,Sentence,Ekstep,en,live,CEFR_GENERAL_ENG,,,"{:level ""L1"", :CEFR_level ""A2""}",,,,,,,,2025-06-18T05:27:53.580Z
+6853f4db74b2e27ba975bca1,728c872c-0909-42ca-89cb-a72ef14eacb5,CEFR_EN_general_L1-2,CEFR_EN_general_L1-2,Sentence,Ekstep,en,live,CEFR_GENERAL_ENG,,,"{:level ""L1""}",,,,,,,,2025-06-19T07:01:37.584Z
 685439437e2fc7492ecc76b8,7103d06a-7134-48b8-b4b1-d85ac550b869,SentencesGeneral_1,SentencesGeneral_1,Sentence,Ekstep,en,live,CEFR_GENERAL_ENG,,,,,,,,,,,2025-06-19T15:28:49.405Z
 6854396d17d2ce459340dfdd,785733f6-63e4-4fdf-bced-ef65970d75fa,SentencesGeneral_2,SentencesGeneral_2,Sentence,Ekstep,en,live,CEFR_GENERAL_ENG,,,,,,,,,,,2025-06-19T15:28:49.381Z
 68543f897e2fc7492ecc76ba,9766d5d7-da4c-46e9-bc05-db97db48032b,GeneralWords1,GeneralWords1,Word,Ekstep,en,live,,,,,,,,,,,,2025-06-19T15:28:49.405Z
@@ -871,53 +870,53 @@
 685440cd7e2fc7492ecc812e,31d46d05-acf4-48c9-8dc5-b0ef2ee7bac0,GeneralWords2,GeneralWords2,Word,Ekstep,en,live,,,,,,,,,,,,2025-06-19T15:28:49.405Z
 6854413817d2ce459340ee3b,5c2c81f5-b0c2-4b82-a76e-bf2b29684ece,GeneralWords4,GeneralWords4,Word,Ekstep,en,live,,,,,,,,,,,,2025-06-19T15:28:49.381Z
 685ac7baa29c4226345a04c8,e39ea5c4-33b1-4093-858a-7c22b33ab058,NewParas,NewParas,Paragraph,Ekstep,te,live,,,,,,,,,,,,2025-05-13T08:46:23.089Z
-6863df4cd2b58946a2b66963,8007f791-04ff-4f3a-bfdd-6eb08ba4197e,Latest3changes,Latest3changes,Sentence,Ekstep,kn,live,,,,,,,,,,,,2025-06-24T15:12:42.38Z
-6863e5ded2b58946a2b66998,afbcc51d-440d-4194-834c-3c20fe46f90a,2k25,2k25,Sentence,Ekstep,ta,live,,,,,,,,,,,,2025-06-24T15:12:42.38Z
-68667d03d2b58946a2b66ad5,6982da54-9b38-43e7-8734-3f869f19a9c1,Level10General,Level10General,Sentence,Ekstep,en,live,CEFR_GEN_M10_TO_M15,,,"{""level"": """", ""level_competency"": """"}",,,,,,,,2025-06-24T15:12:42.38Z
-68667d324b01f82edd2a0265,afbd0ae7-dbeb-4440-ad40-a02e84dc8c72,Level11General,Level11General,Sentence,Ekstep,en,live,CEFR_GEN_M10_TO_M15,,,"{""level"": """", ""level_competency"": """"}",,,,,,,,2025-06-24T15:12:42.405Z
-68667d62d2b58946a2b66ad7,1c32b4ce-e269-420a-b79d-370bd9bd6cc6,Level12General,Level12General,Sentence,Ekstep,en,live,CEFR_GEN_M10_TO_M15,,,"{""level"": """", ""level_competency"": """"}",,,,,,,,2025-06-24T15:12:42.38Z
-68667d7d4b01f82edd2a0267,1da9150e-9804-423c-b4f5-baa826eac4e4,Level12General,Level12General,Sentence,Ekstep,en,live,CEFR_GEN_M10_TO_M15,,,"{""level"": """", ""level_competency"": """"}",,,,,,,,2025-06-24T15:12:42.405Z
-68667da7d2b58946a2b66ad9,e1d9d6ab-b843-4114-8b97-3fa08d6eeec1,Level13General,Level13General,Sentence,Ekstep,en,live,CEFR_GEN_M10_TO_M15,,,"{""level"": """", ""level_competency"": """"}",,,,,,,,2025-06-24T15:12:42.38Z
-68667e2e4b01f82edd2a0269,e41649f8-1a6e-40a3-a5a3-739223d98c8c,Level14General,Level14General,Sentence,Ekstep,en,live,CEFR_GEN_M10_TO_M15,,,"{""level"": """", ""level_competency"": """"}",,,,,,,,2025-06-24T15:12:42.405Z
-68667e78d2b58946a2b66adb,bd307cac-ba22-4419-ae7a-096273086227,Level15General,Level15General,Sentence,Ekstep,en,live,CEFR_GEN_M10_TO_M15,,,"{""level"": """", ""level_competency"": """"}",,,,,,,,2025-06-24T15:12:42.38Z
-686d02ed9ae9c50395440417,2b75edd0-10cf-4a01-ae2b-8ebf944d0f36,M3_L,M3_L,Word,Ekstep,en,live,CEFR_GEN_M1_TO_M3,,,"{""level"": """", ""level_competency"": """"}",,,,,,,,2025-07-07T07:40:44.582Z
-686d03033bcfe51a978f2e92,f15ce205-30c8-4d54-b533-75895852b227,M2_L,M2_L,Word,Ekstep,en,live,CEFR_GEN_M1_TO_M3,,,"{""level"": """", ""level_competency"": """"}",,,,,,,,2025-07-07T07:40:44.568Z
-686d03289ae9c50395440419,d9e34afe-c771-41a9-991e-5b669a82fba1,M1_L,M1_L,Word,Ekstep,en,live,CEFR_GEN_M1_TO_M3,,,"{""level"": """", ""level_competency"": """"}",,,,,,,,2025-07-07T07:40:44.582Z
-686d47aa3bcfe51a978f2fb5,0486d6a2-d4c8-4956-95d0-c6fe095b6de9,M1_PS,M1_PS,Word,Ekstep,en,live,CEFR_GEN_M1_TO_M3,,,"{""level"": """", ""level_competency"": """"}",,,,,,,,2025-07-07T07:40:44.568Z
-686d48419ae9c50395440537,d8304e6a-04e4-4b25-94a1-13064895678a,M2_PS,M2_PS,Word,Ekstep,en,live,CEFR_GEN_M1_TO_M3,,,"{""level"": """", ""level_competency"": """"}",,,,,,,,2025-07-07T07:40:44.582Z
-686d488f3bcfe51a978f2fb7,0bf5ef53-6332-42f6-9e9a-269ee40af364,M3_PS,M3_PS,Word,Ekstep,en,live,CEFR_GEN_M1_TO_M3,,,"{""level"": """", ""level_competency"": """"}",,,,,,,,2025-07-07T07:40:44.568Z
-686e12973bcfe51a978f302d,2a751a47-7065-44bc-8a5b-5230d1607500,M3-L-Flows-2.0,M3-L-Flows-2.0,Word,Ekstep,en,live,CEFR_GEN_M1_TO_M3,,,"{""level"": """", ""level_competency"": """"}",,,,,,,,2025-07-07T07:40:44.568Z
-686e13059ae9c503954405be,e5b8caff-2a53-4f49-89ec-945ada9fbde7,R1-Flow,R1-Flow,Word,Ekstep,en,live,CEFR_GEN_R1_TO_R4,,,"{""level"": """", ""level_competency"": """"}",,,,,,,,2025-07-07T07:40:44.582Z
-686f3fc73bcfe51a978f328d,db743202-8005-43a0-bb6a-e17551017c74,R2-Flow,R2-Flow,Word,Ekstep,en,live,CEFR_GEN_R1_TO_R4,,,"{""level"": """", ""level_competency"": """"}",,,,,,,,2025-07-07T07:40:44.568Z
-686f40229ae9c5039544082d,d01cb440-3517-42ea-a0d0-0539567299da,M2-L-Flows-2.0,M2-L-Flows-2.0,Word,Ekstep,en,live,CEFR_GEN_M1_TO_M3,,,"{""level"": """", ""level_competency"": """"}",,,,,,,,2025-07-07T07:40:44.582Z
-686f40603bcfe51a978f328f,2addcc90-6c14-42d5-aac3-eba7a3ade628,M1-L-Flows-2.0,M1-L-Flows-2.0,Word,Ekstep,en,live,CEFR_GEN_M1_TO_M3,,,"{""level"": """", ""level_competency"": """"}",,,,,,,,2025-07-07T07:40:44.568Z
-6887a250a2e7bcaea1d915a1,9b64ba77-8d5f-4038-b127-1bdef34815b3,R2_en,R2_en,Word,Ekstep,en,live,CEFR_GEN_R1_TO_R4,,,"{""level"": """", ""level_competency"": """"}",,,,,,,,2025-07-21T09:15:45.159Z
-6887a2935070f4583a654f03,1dc9ec3b-bc0d-4d28-89c5-e54349dddade,R1_en,R1_en,Word,Ekstep,en,live,CEFR_GEN_R1_TO_R4,,,"{""level"": """", ""level_competency"": """"}",,,,,,,,2025-07-21T09:15:45.131Z
-6891c6b4881ac17ca198e9b1,68dc9703-6fdd-4fe7-b292-bf193886d8e7,M1_hi,M1_hi,Word,Ekstep,hi,live,CEFR_HI_M1_TO_M3,,,"{""level"": """", ""level_competency"": """"}",,,,,,,,2025-08-05T05:18:27.182Z
-6891c72d4d06f392c43f2fd6,371d66b0-8b48-4636-88e0-ea1ea40b8300,M1_kn,M1_kn,Word,Ekstep,kn,live,CEFR_KN_M1_TO_M3,,,"{""level"": """", ""level_competency"": """"}",,,,,,,,2025-08-05T05:18:27.168Z
-6892338f4d06f392c43f334f,7b3ca767-3a9a-4e57-8595-c5db0b811fa6,M1_hi,M1_hi,Word,Ekstep,hi,live,CEFR_M1_TO_M3,,,"{""level"": """", ""level_competency"": """"}",,,,,,,,2025-08-05T05:18:27.168Z
-689233c4881ac17ca198ece3,fcf731e7-87d1-4bc0-b0e2-d81412297d99,M2_hi,M2_hi,Word,Ekstep,hi,live,CEFR_M1_TO_M3,,,"{""level"": """", ""level_competency"": """"}",,,,,,,,2025-08-05T05:18:27.182Z
-689234164d06f392c43f3351,83fac942-10c9-431f-bd6f-95f6a24bd29d,M3_hi,M3_hi,Sentence,Ekstep,hi,live,CEFR_M1_TO_M3,,,"{""level"": """", ""level_competency"": """"}",,,,,,,,2025-08-05T05:18:27.168Z
-6892347b881ac17ca198ece5,f0860822-dcc4-4ade-a7da-a62e26f9bc4b,M3_kn,M3_kn,Sentence,Ekstep,kn,live,CEFR_M1_TO_M3,,,"{""level"": """", ""level_competency"": """"}",,,,,,,,2025-08-05T05:18:27.182Z
-689234b84d06f392c43f3353,f5e30fc1-3c67-42a8-b377-b7cde7d90027,M1_kn,M1_kn,Word,Ekstep,kn,live,CEFR_M1_TO_M3,,,"{""level"": """", ""level_competency"": """"}",,,,,,,,2025-08-05T05:18:27.168Z
-68923562881ac17ca198ece7,3a82c471-8625-4788-9102-23682070f1fe,M2_kn,M2_kn,Word,Ekstep,kn,live,CEFR_M1_TO_M3,,,"{""level"": """", ""level_competency"": """"}",,,,,,,,2025-08-05T05:18:27.182Z
-689236744d06f392c43f3355,65912517-56d8-4760-9d85-a5f06572ef33,M2_ta,M2_ta,Word,Ekstep,ta,live,CEFR_M1_TO_M3,,,"{""level"": """", ""level_competency"": """"}",,,,,,,,2025-08-05T05:18:27.168Z
-6892369d881ac17ca198ece9,51f4db0c-a517-4822-84cd-d6064037a434,M1_ta,M1_ta,Word,Ekstep,ta,live,CEFR_M1_TO_M3,,,"{""level"": """", ""level_competency"": """"}",,,,,,,,2025-08-05T05:18:27.182Z
-689236df4d06f392c43f3357,c943179f-083d-4160-ab85-c07f1ceba12c,M3_ta,M3_ta,Sentence,Ekstep,ta,live,CEFR_M1_TO_M3,,,"{""level"": """", ""level_competency"": """"}",,,,,,,,2025-08-05T05:18:27.168Z
-6892371d881ac17ca198eceb,bfd45fb7-8fa1-4597-a0a0-f1810a4b79b7,M3_te,M3_te,Sentence,Ekstep,te,live,CEFR_M1_TO_M3,,,"{""level"": """", ""level_competency"": """"}",,,,,,,,2025-08-05T05:18:27.182Z
-689237464d06f392c43f3359,99699c4c-1ca2-4e89-b6ac-96e286abf9b2,M2_te,M2_te,Sentence,Ekstep,te,live,CEFR_M1_TO_M3,,,"{""level"": """", ""level_competency"": """"}",,,,,,,,2025-08-05T05:18:27.168Z
-689237b1881ac17ca198eced,67e5ee94-495c-4e4f-95b6-f49fe76cf861,M1_te,M1_te,Sentence,Ekstep,te,live,CEFR_M1_TO_M3,,,"{""level"": """", ""level_competency"": """"}",,,,,,,,2025-08-05T05:18:27.182Z
-68a2e40c0235b22dbec5551f,45da0705-d535-49bb-b759-f56465104662,R1Json_All_Languages,R1Json_All_Languages,Word,Ekstep,hi,live,CEFR_R1_TO_R4,,,"{""level"": """", ""level_competency"": """"}",,,,,,,,2025-08-14T12:28:24.893Z
-68a2e7439ab3729dd1044c29,6ba3f3f3-bbbf-45f3-ae63-76221ae87a6a,R1Json_All_Languages,R1Json_All_Languages,Word,Ekstep,kn,live,CEFR_R1_TO_R4,,,"{""level"": """", ""level_competency"": """"}",,,,,,,,2025-08-14T12:28:24.901Z
-68a2e7ac0235b22dbec55527,7fac0ec9-6129-4a38-8034-0d8d1b832171,R1Json_All_Languages,R1Json_All_Languages,Word,Ekstep,ta,live,CEFR_R1_TO_R4,,,"{""level"": """", ""level_competency"": """"}",,,,,,,,2025-08-14T12:28:24.893Z
-68a2e7c19ab3729dd1044c2b,221db41e-9a64-440b-9ee9-427aec75e681,R1Json_All_Languages,R1Json_All_Languages,Word,Ekstep,te,live,CEFR_R1_TO_R4,,,"{""level"": """", ""level_competency"": """"}",,,,,,,,2025-08-14T12:28:24.901Z
-68a2f60b9ab3729dd1044c33,2c4c91db-22bc-4829-9c27-31ff8e48f838,R2Json_All_Languages,R2Json_All_Languages,Word,Ekstep,kn,live,CEFR_R1_TO_R4,,,"{""level"": """", ""level_competency"": """"}",,,,,,,,2025-08-14T12:28:24.901Z
-68a2f6420235b22dbec55544,b5509182-3ee4-4cd6-ba72-1102a0077965,R2Json_All_Languages,R2Json_All_Languages,Word,Ekstep,ta,live,CEFR_R1_TO_R4,,,"{""level"": """", ""level_competency"": """"}",,,,,,,,2025-08-14T12:28:24.893Z
-68a2f6769ab3729dd1044c35,d5379003-dbcd-416d-87c2-92a866325d94,R2Json_All_Languages,R2Json_All_Languages,Word,Ekstep,te,live,CEFR_R1_TO_R4,,,"{""level"": """", ""level_competency"": """"}",,,,,,,,2025-08-14T12:28:24.901Z
+6863df4cd2b58946a2b66963,8007f791-04ff-4f3a-bfdd-6eb08ba4197e,Latest3changes,Latest3changes,Sentence,Ekstep,kn,live,,,,,,,,,,,,2025-06-24T15:12:42.380Z
+6863e5ded2b58946a2b66998,afbcc51d-440d-4194-834c-3c20fe46f90a,2k25,2k25,Sentence,Ekstep,ta,live,,,,,,,,,,,,2025-06-24T15:12:42.380Z
+68667d03d2b58946a2b66ad5,6982da54-9b38-43e7-8734-3f869f19a9c1,Level10General,Level10General,Sentence,Ekstep,en,live,CEFR_GEN_M10_TO_M15,,,"{:level """", :level_competency """"}",,,,,,,,2025-06-24T15:12:42.380Z
+68667d324b01f82edd2a0265,afbd0ae7-dbeb-4440-ad40-a02e84dc8c72,Level11General,Level11General,Sentence,Ekstep,en,live,CEFR_GEN_M10_TO_M15,,,"{:level """", :level_competency """"}",,,,,,,,2025-06-24T15:12:42.405Z
+68667d62d2b58946a2b66ad7,1c32b4ce-e269-420a-b79d-370bd9bd6cc6,Level12General,Level12General,Sentence,Ekstep,en,live,CEFR_GEN_M10_TO_M15,,,"{:level """", :level_competency """"}",,,,,,,,2025-06-24T15:12:42.380Z
+68667d7d4b01f82edd2a0267,1da9150e-9804-423c-b4f5-baa826eac4e4,Level12General,Level12General,Sentence,Ekstep,en,live,CEFR_GEN_M10_TO_M15,,,"{:level """", :level_competency """"}",,,,,,,,2025-06-24T15:12:42.405Z
+68667da7d2b58946a2b66ad9,e1d9d6ab-b843-4114-8b97-3fa08d6eeec1,Level13General,Level13General,Sentence,Ekstep,en,live,CEFR_GEN_M10_TO_M15,,,"{:level """", :level_competency """"}",,,,,,,,2025-06-24T15:12:42.380Z
+68667e2e4b01f82edd2a0269,e41649f8-1a6e-40a3-a5a3-739223d98c8c,Level14General,Level14General,Sentence,Ekstep,en,live,CEFR_GEN_M10_TO_M15,,,"{:level """", :level_competency """"}",,,,,,,,2025-06-24T15:12:42.405Z
+68667e78d2b58946a2b66adb,bd307cac-ba22-4419-ae7a-096273086227,Level15General,Level15General,Sentence,Ekstep,en,live,CEFR_GEN_M10_TO_M15,,,"{:level """", :level_competency """"}",,,,,,,,2025-06-24T15:12:42.380Z
+686d02ed9ae9c50395440417,2b75edd0-10cf-4a01-ae2b-8ebf944d0f36,M3_L,M3_L,Word,Ekstep,en,live,CEFR_GEN_M1_TO_M3,,,"{:level """", :level_competency """"}",,,,,,,,2025-07-07T07:40:44.582Z
+686d03033bcfe51a978f2e92,f15ce205-30c8-4d54-b533-75895852b227,M2_L,M2_L,Word,Ekstep,en,live,CEFR_GEN_M1_TO_M3,,,"{:level """", :level_competency """"}",,,,,,,,2025-07-07T07:40:44.568Z
+686d03289ae9c50395440419,d9e34afe-c771-41a9-991e-5b669a82fba1,M1_L,M1_L,Word,Ekstep,en,live,CEFR_GEN_M1_TO_M3,,,"{:level """", :level_competency """"}",,,,,,,,2025-07-07T07:40:44.582Z
+686d47aa3bcfe51a978f2fb5,0486d6a2-d4c8-4956-95d0-c6fe095b6de9,M1_PS,M1_PS,Word,Ekstep,en,live,CEFR_GEN_M1_TO_M3,,,"{:level """", :level_competency """"}",,,,,,,,2025-07-07T07:40:44.568Z
+686d48419ae9c50395440537,d8304e6a-04e4-4b25-94a1-13064895678a,M2_PS,M2_PS,Word,Ekstep,en,live,CEFR_GEN_M1_TO_M3,,,"{:level """", :level_competency """"}",,,,,,,,2025-07-07T07:40:44.582Z
+686d488f3bcfe51a978f2fb7,0bf5ef53-6332-42f6-9e9a-269ee40af364,M3_PS,M3_PS,Word,Ekstep,en,live,CEFR_GEN_M1_TO_M3,,,"{:level """", :level_competency """"}",,,,,,,,2025-07-07T07:40:44.568Z
+686e12973bcfe51a978f302d,2a751a47-7065-44bc-8a5b-5230d1607500,M3-L-Flows-2.0,M3-L-Flows-2.0,Word,Ekstep,en,live,CEFR_GEN_M1_TO_M3,,,"{:level """", :level_competency """"}",,,,,,,,2025-07-07T07:40:44.568Z
+686e13059ae9c503954405be,e5b8caff-2a53-4f49-89ec-945ada9fbde7,R1-Flow,R1-Flow,Word,Ekstep,en,live,CEFR_GEN_R1_TO_R4,,,"{:level """", :level_competency """"}",,,,,,,,2025-07-07T07:40:44.582Z
+686f3fc73bcfe51a978f328d,db743202-8005-43a0-bb6a-e17551017c74,R2-Flow,R2-Flow,Word,Ekstep,en,live,CEFR_GEN_R1_TO_R4,,,"{:level """", :level_competency """"}",,,,,,,,2025-07-07T07:40:44.568Z
+686f40229ae9c5039544082d,d01cb440-3517-42ea-a0d0-0539567299da,M2-L-Flows-2.0,M2-L-Flows-2.0,Word,Ekstep,en,live,CEFR_GEN_M1_TO_M3,,,"{:level """", :level_competency """"}",,,,,,,,2025-07-07T07:40:44.582Z
+686f40603bcfe51a978f328f,2addcc90-6c14-42d5-aac3-eba7a3ade628,M1-L-Flows-2.0,M1-L-Flows-2.0,Word,Ekstep,en,live,CEFR_GEN_M1_TO_M3,,,"{:level """", :level_competency """"}",,,,,,,,2025-07-07T07:40:44.568Z
+6887a250a2e7bcaea1d915a1,9b64ba77-8d5f-4038-b127-1bdef34815b3,R2_en,R2_en,Word,Ekstep,en,live,CEFR_GEN_R1_TO_R4,,,"{:level """", :level_competency """"}",,,,,,,,2025-07-21T09:15:45.159Z
+6887a2935070f4583a654f03,1dc9ec3b-bc0d-4d28-89c5-e54349dddade,R1_en,R1_en,Word,Ekstep,en,live,CEFR_GEN_R1_TO_R4,,,"{:level """", :level_competency """"}",,,,,,,,2025-07-21T09:15:45.131Z
+6891c6b4881ac17ca198e9b1,68dc9703-6fdd-4fe7-b292-bf193886d8e7,M1_hi,M1_hi,Word,Ekstep,hi,live,CEFR_HI_M1_TO_M3,,,"{:level """", :level_competency """"}",,,,,,,,2025-08-05T05:18:27.182Z
+6891c72d4d06f392c43f2fd6,371d66b0-8b48-4636-88e0-ea1ea40b8300,M1_kn,M1_kn,Word,Ekstep,kn,live,CEFR_KN_M1_TO_M3,,,"{:level """", :level_competency """"}",,,,,,,,2025-08-05T05:18:27.168Z
+6892338f4d06f392c43f334f,7b3ca767-3a9a-4e57-8595-c5db0b811fa6,M1_hi,M1_hi,Word,Ekstep,hi,live,CEFR_M1_TO_M3,,,"{:level """", :level_competency """"}",,,,,,,,2025-08-05T05:18:27.168Z
+689233c4881ac17ca198ece3,fcf731e7-87d1-4bc0-b0e2-d81412297d99,M2_hi,M2_hi,Word,Ekstep,hi,live,CEFR_M1_TO_M3,,,"{:level """", :level_competency """"}",,,,,,,,2025-08-05T05:18:27.182Z
+689234164d06f392c43f3351,83fac942-10c9-431f-bd6f-95f6a24bd29d,M3_hi,M3_hi,Sentence,Ekstep,hi,live,CEFR_M1_TO_M3,,,"{:level """", :level_competency """"}",,,,,,,,2025-08-05T05:18:27.168Z
+6892347b881ac17ca198ece5,f0860822-dcc4-4ade-a7da-a62e26f9bc4b,M3_kn,M3_kn,Sentence,Ekstep,kn,live,CEFR_M1_TO_M3,,,"{:level """", :level_competency """"}",,,,,,,,2025-08-05T05:18:27.182Z
+689234b84d06f392c43f3353,f5e30fc1-3c67-42a8-b377-b7cde7d90027,M1_kn,M1_kn,Word,Ekstep,kn,live,CEFR_M1_TO_M3,,,"{:level """", :level_competency """"}",,,,,,,,2025-08-05T05:18:27.168Z
+68923562881ac17ca198ece7,3a82c471-8625-4788-9102-23682070f1fe,M2_kn,M2_kn,Word,Ekstep,kn,live,CEFR_M1_TO_M3,,,"{:level """", :level_competency """"}",,,,,,,,2025-08-05T05:18:27.182Z
+689236744d06f392c43f3355,65912517-56d8-4760-9d85-a5f06572ef33,M2_ta,M2_ta,Word,Ekstep,ta,live,CEFR_M1_TO_M3,,,"{:level """", :level_competency """"}",,,,,,,,2025-08-05T05:18:27.168Z
+6892369d881ac17ca198ece9,51f4db0c-a517-4822-84cd-d6064037a434,M1_ta,M1_ta,Word,Ekstep,ta,live,CEFR_M1_TO_M3,,,"{:level """", :level_competency """"}",,,,,,,,2025-08-05T05:18:27.182Z
+689236df4d06f392c43f3357,c943179f-083d-4160-ab85-c07f1ceba12c,M3_ta,M3_ta,Sentence,Ekstep,ta,live,CEFR_M1_TO_M3,,,"{:level """", :level_competency """"}",,,,,,,,2025-08-05T05:18:27.168Z
+6892371d881ac17ca198eceb,bfd45fb7-8fa1-4597-a0a0-f1810a4b79b7,M3_te,M3_te,Sentence,Ekstep,te,live,CEFR_M1_TO_M3,,,"{:level """", :level_competency """"}",,,,,,,,2025-08-05T05:18:27.182Z
+689237464d06f392c43f3359,99699c4c-1ca2-4e89-b6ac-96e286abf9b2,M2_te,M2_te,Sentence,Ekstep,te,live,CEFR_M1_TO_M3,,,"{:level """", :level_competency """"}",,,,,,,,2025-08-05T05:18:27.168Z
+689237b1881ac17ca198eced,67e5ee94-495c-4e4f-95b6-f49fe76cf861,M1_te,M1_te,Sentence,Ekstep,te,live,CEFR_M1_TO_M3,,,"{:level """", :level_competency """"}",,,,,,,,2025-08-05T05:18:27.182Z
+68a2e40c0235b22dbec5551f,45da0705-d535-49bb-b759-f56465104662,R1Json_All_Languages,R1Json_All_Languages,Word,Ekstep,hi,live,CEFR_R1_TO_R4,,,"{:level """", :level_competency """"}",,,,,,,,2025-08-14T12:28:24.893Z
+68a2e7439ab3729dd1044c29,6ba3f3f3-bbbf-45f3-ae63-76221ae87a6a,R1Json_All_Languages,R1Json_All_Languages,Word,Ekstep,kn,live,CEFR_R1_TO_R4,,,"{:level """", :level_competency """"}",,,,,,,,2025-08-14T12:28:24.901Z
+68a2e7ac0235b22dbec55527,7fac0ec9-6129-4a38-8034-0d8d1b832171,R1Json_All_Languages,R1Json_All_Languages,Word,Ekstep,ta,live,CEFR_R1_TO_R4,,,"{:level """", :level_competency """"}",,,,,,,,2025-08-14T12:28:24.893Z
+68a2e7c19ab3729dd1044c2b,221db41e-9a64-440b-9ee9-427aec75e681,R1Json_All_Languages,R1Json_All_Languages,Word,Ekstep,te,live,CEFR_R1_TO_R4,,,"{:level """", :level_competency """"}",,,,,,,,2025-08-14T12:28:24.901Z
+68a2f60b9ab3729dd1044c33,2c4c91db-22bc-4829-9c27-31ff8e48f838,R2Json_All_Languages,R2Json_All_Languages,Word,Ekstep,kn,live,CEFR_R1_TO_R4,,,"{:level """", :level_competency """"}",,,,,,,,2025-08-14T12:28:24.901Z
+68a2f6420235b22dbec55544,b5509182-3ee4-4cd6-ba72-1102a0077965,R2Json_All_Languages,R2Json_All_Languages,Word,Ekstep,ta,live,CEFR_R1_TO_R4,,,"{:level """", :level_competency """"}",,,,,,,,2025-08-14T12:28:24.893Z
+68a2f6769ab3729dd1044c35,d5379003-dbcd-416d-87c2-92a866325d94,R2Json_All_Languages,R2Json_All_Languages,Word,Ekstep,te,live,CEFR_R1_TO_R4,,,"{:level """", :level_competency """"}",,,,,,,,2025-08-14T12:28:24.901Z
 68c061b3f5f1c925f6af3856,11f6bb7f-e0d7-4adc-8576-4cfce3ec0c2e,HindiLatCorrections,HindiLatCorrections,Word,Ekstep,hi,live,,,,,,,,,,,,2025-09-08T07:23:34.722Z
 68c12360a1f3233aa08d20fa,8c932373-2d35-48a8-8cb6-c20eae9b4508,R2Json_All_Languages,R2Json_All_Languages,Word,Ekstep,hi,live,CEFR_R1_TO_R4,,,,,,,,,,,2025-09-08T07:23:34.825Z
 68c2df75a1f3233aa08d23fc,03848df4-8e76-441d-8ce8-21a31ac19805,latCorrhi,latCorrhi,Paragraph,Ekstep,hi,live,,,,,,,,,,,,2025-09-08T07:23:34.825Z
-68dfb857dbb9847738166446,4315e4bd-2be2-4bf4-9443-ee842740bdd7,LatestPara,LatestPara,Paragraph,Ekstep,te,live,,,,,,,,,,,,2025-10-03T11:35:17.72Z
+68dfb857dbb9847738166446,4315e4bd-2be2-4bf4-9443-ee842740bdd7,LatestPara,LatestPara,Paragraph,Ekstep,te,live,,,,,,,,,,,,2025-10-03T11:35:17.720Z
 68e3709b8a016df481fcacdc,d118bf1b-ac99-4bf9-b46f-6727410c3415,HindiParagraphsM6toM8,HindiParagraphsM6toM8,Paragraph,Ekstep,hi,live,,,,,,,,,,,,2025-10-06T02:10:32.987Z
 68e371ffb2631fed7d2b9664,289fe686-e80d-4483-8691-d1be04199291,HindiParagraphsM6toM8,HindiParagraphsM6toM8,Paragraph,Ekstep,hi,live,,,,,,,,,,,,2025-10-06T02:10:33.007Z
 68e8c839813e159ea1129024,a8dde8dd-666a-4eb4-b970-616894d01c32,unmatchedwords,unmatchedwords,Word,Ekstep,en,live,,,,,,,,,,,,2025-10-10T01:33:00.128Z
@@ -929,3 +928,85 @@
 690b09312d21e21f208e7ae8,cd03dc7e-9ffd-4c23-8182-7e4a738573c0,M4toM6TE,M4toM6TE,Sentence,Ekstep,te,live,TE_M4-M6_SENT,,,,,,,,,,,2025-11-03T14:42:16.299Z
 690c53edb2fed9d505041427,dc9d7c78-61d5-4d77-9677-65b4df178771,newmultenwords,newmultenwords,Word,Ekstep,en,live,,,,,,,,,,,,2025-11-05T10:03:49.643Z
 690c91e9aa62b3840915fac4,c6edf3c9-ba1e-4928-a19f-e59ce436b801,extracontent,extracontent,Sentence,Ekstep,en,live,,,,,,,,,,,,2025-11-05T10:03:49.662Z
+691c56f528df4c24e38d7b13,61f1a399-d9a1-404b-bfc5-f055171f26cd,kannadaRootwOrdslatest,kannadaRootwOrdslatest,Word,Ekstep,kn,live,,,,,,,,,,,,2025-11-18T02:21:46.508Z
+6936b87b8c43d58746b9c678,f153bf47-7346-4ef3-b6d7-f82533b0a13a,new content with multilingual,new content with multilingual,Sentence,Ekstep,en,live,CEFR_GENERAL_ENG,,,,,,,,,,,2025-12-08T02:35:19.290Z
+695f53aa5f91a9d6591be3da,dc8d9042-fce6-4e19-a904-e381bde47cf4,En-M3-L,En-M3-L,Sentence,Ekstep,en,live,CEFR_GEN_M3_L,,,,,,,,,,,2026-01-08T02:34:54.831Z
+695f56687c7fd6ea17e2db2b,b0d87198-081c-4b39-ac5a-50ae73a375a6,EnglishM1-NewS,EnglishM1-NewS,Word,Ekstep,en,live,CEFR_GEN_M1,,,,,,,,,,,2026-01-08T02:34:55.305Z
+695f56855f91a9d6591be42a,3806eb28-e202-4a0f-99bb-06878409af37,EnglishM2-NewS,EnglishM2-NewS,Word,Ekstep,en,live,CEFR_GEN_M1,,,,,,,,,,,2026-01-08T02:34:54.831Z
+695f56937c7fd6ea17e2db2d,93abcd86-235f-4bcf-bc9d-883e87c1d9c8,EnglishM2-NewS,EnglishM2-NewS,Word,Ekstep,en,live,CEFR_GEN_M2,,,,,,,,,,,2026-01-08T02:34:55.305Z
+695f56c45f91a9d6591be42c,1813cd4f-93f3-4b7f-98c9-b846107efffd,M3_EN_PS_FINAL,M3_EN_PS_FINAL,Sentence,Ekstep,en,live,CEFR_GEN_M3,,,,,,,,,,,2026-01-08T02:34:54.831Z
+695f59eb7c7fd6ea17e2db61,62d58939-7afb-4ee0-8bc8-0a543322641f,te_M1_Snew,te_M1_Snew,Word,Ekstep,te,live,CEFR_M1,,,,,,,,,,,2026-01-08T02:34:55.305Z
+695f5a1d5f91a9d6591be460,8cdc8582-a89e-4536-87ac-5bb98a19dbe4,te_M2_Snew,te_M2_Snew,Word,Ekstep,te,live,CEFR_M2,,,,,,,,,,,2026-01-08T02:34:54.831Z
+695f5a5e7c7fd6ea17e2db63,0fcfb3a9-2065-41c3-bb24-28edafca2886,Te-M3-PS-FINAL,Te-M3-PS-FINAL,Sentence,Ekstep,te,live,CEFR_M3,,,,,,,,,,,2026-01-08T02:34:55.305Z
+695f5a8e5f91a9d6591be462,bac86b8e-a2ce-4a02-9ee3-15486c93dd22,Te-M3-L,Te-M3-L,Sentence,Ekstep,te,live,CEFR_M3,,,,,,,,,,,2026-01-08T02:34:54.831Z
+695f89517c7fd6ea17e2dc53,45f7ffbb-c4b6-4a0b-b5f5-773f94a8d10d,EN-newM4tOm6,EN-newM4tOm6,Sentence,Ekstep,en,live,CEFR_GENERAL_ENG,,,,,,,,,,,2026-01-08T02:34:55.305Z
+696dfe2a93f9a4a4f2689254,6cd399d1-8bb2-4c3f-aafd-b364c93a22db,EN-new-Tags-M4tOm6,EN-new-Tags-M4tOm6,Sentence,Ekstep,en,live,GEN-EN_READ,,,,,,,,,,,2026-01-19T02:34:27.777Z
+696f446cf37adf21a4c36771,d6e2fc0b-e27f-4e8a-bd32-51494815e76f,TE_M4_MECH,TE_M4_MECH,Sentence,Ekstep,te,live,TE_MECH,,,,,,,,,,,2026-01-20T02:34:26.104Z
+696f49d4f37adf21a4c36773,a09dbe92-d4fa-4b88-9dc3-b1f628426235,TE_M5_MECH,TE_M5_MECH,Sentence,Ekstep,te,live,TE_MECH,,,,,,,,,,,2026-01-20T02:34:26.104Z
+696f4ba2812f0737c025d30a,e8b5244d-dcb1-4a04-a5e2-b5431b5fc3d6,TE_M6_MECH,TE_M6_MECH,Sentence,Ekstep,te,live,TE_MECH,,,,,,,,,,,2026-01-20T02:34:26.076Z
+69807343db624637288d9de2,29b48a3b-83b5-421a-91b2-ea389a74828b,M7Telugu,M7Telugu,Paragraph,Ekstep,te,live,TE_READ,,,,,,,,,,,2026-02-02T02:33:47.109Z
+6980739b90ff9772efaa2f7d,247720a6-92f4-41e3-92dc-8d42463bf763,M8Telugu,M8Telugu,Paragraph,Ekstep,te,live,TE_READ,,,,,,,,,,,2026-02-02T02:33:47.687Z
+698074f6db624637288d9de4,2eec1dac-adab-428f-9f26-aa8f5c5b1150,M9Telugu,M9Telugu,Paragraph,Ekstep,te,live,TE_READ,,,,,,,,,,,2026-02-02T02:33:47.109Z
+69807e7990ff9772efaa31ea,16a74cb1-bd79-4d47-9f55-7e69eb545c85,TE_M7_MECH,TE_M7_MECH,Paragraph,Ekstep,te,live,TE_MECH,,,,,,,,,,,2026-02-02T02:33:47.687Z
+6980861790ff9772efaa333a,56218b4f-1f73-41c1-ba0b-ea24272687c8,TE_M8_MECH,TE_M8_MECH,Paragraph,Ekstep,te,live,TE_MECH,,,,,,,,,,,2026-02-02T02:33:47.687Z
+6980886790ff9772efaa3371,965c3627-b21c-4392-a681-236c5da21bfd,TE_M9_MECH,TE_M9_MECH,Paragraph,Ekstep,te,live,TE_MECH,,,,,,,,,,,2026-02-02T02:33:47.687Z
+6981993742ead1d7a5d61436,8a035600-1485-427e-9332-822c0870a73d,EnglishM7,EnglishM7,Paragraph,Ekstep,en,live,GEN-EN_READ,,,,,,,,,,,2026-02-03T02:34:59.210Z
+69819fd10af46e1b93aef3c0,bb8106a1-d8cf-42a5-8ed1-e50f7f8819f3,EnglishM8,EnglishM8,Paragraph,Ekstep,en,live,GEN-EN_READ,,,,,,,,,,,2026-02-03T02:34:58.465Z
+6981a0a742ead1d7a5d6145d,98a55beb-ad71-497a-aa9a-fa7ac0c8b621,EnglishM9,EnglishM9,Paragraph,Ekstep,en,live,GEN-EN_READ,,,,,,,,,,,2026-02-03T02:34:59.210Z
+6981d95342ead1d7a5d61a50,957c7dfd-0448-4ee4-99d4-3c227a14b72c,EnglishM9,EnglishM9,Paragraph,Ekstep,en,live,GEN-EN_READ,,,,,,,,,,,2026-02-03T02:34:59.210Z
+6981d9640af46e1b93aef9c4,8d0c837c-f095-401c-b82e-fa222367885c,En_gen_M7_MECH,En_gen_M7_MECH,Paragraph,Ekstep,en,live,GEN-EN_MECH,,,,,,,,,,,2026-02-03T02:34:58.465Z
+6981d99442ead1d7a5d61a52,7dcdcc67-7e66-4580-8e0f-255563c79ecf,En_gen_M8_MECH,En_gen_M8_MECH,Paragraph,Ekstep,en,live,GEN-EN_MECH,,,,,,,,,,,2026-02-03T02:34:59.210Z
+6981d9b20af46e1b93aef9c6,fc25ce63-b6ba-4608-9b39-fb6240d4a336,En_gen_M9_MECH,En_gen_M9_MECH,Paragraph,Ekstep,en,live,GEN-EN_MECH,,,,,,,,,,,2026-02-03T02:34:58.465Z
+698c970f5caf3a22e618713d,9782fce0-966d-41db-a0f4-eb03e113abb8,En_gen_M9_MECH,En_gen_M9_MECH,Sentence,Ekstep,te,live,GEN-EN_MECH,,,,,,,,,,,2026-02-11T02:35:31.624Z
+698c97490d3e806cbcb29c25,953599bc-d38e-4fe1-9a99-96971e013d96,Tereadalong,Tereadalong,Sentence,Ekstep,te,live,TE_READ,,,,,,,,,,,2026-02-11T02:35:31.732Z
+698c977c5caf3a22e618713f,71ef0ef5-e012-4e47-a26c-2cb66ad66586,TereadalongM6,TereadalongM6,Sentence,Ekstep,te,live,TE_READ,,,,,,,,,,,2026-02-11T02:35:31.624Z
+69afdd4b8d20e349c5718300,3b038144-a913-476f-9865-746762a098ac,TeluguTextbookImg,TeluguTextbookImg,Paragraph,Ekstep,te,live,M9_TE_TBImage,,,,,,,,,,,2026-03-10T02:34:26.671Z
+69b4081a301b72dcfc5ef924,98e6a05a-7915-4e2d-802c-3e5011b4ab08,(reading test sample - 2)Word2,(reading test sample - 2)Word2,Word,Ekstep,en,live,ASER|set2|m2,,,,,,,,,,,2026-03-13T02:34:12.894Z
+69b4083a4d131046e2d286d2,fa6725f1-bd48-41bc-8674-ef22ed7bff2c,(reading test sample - 2)2Word2,(reading test sample - 2)2Word2,Word,Ekstep,en,live,ASER|set2|m2,,,,,,,,,,,2026-03-13T02:34:12.902Z
+69b40847301b72dcfc5ef926,6b98b4f6-d401-4835-b9d5-89e3a82743e0,(reading test sample - 2)3Word2,(reading test sample - 2)3Word2,Word,Ekstep,en,live,ASER|set2|m2,,,,,,,,,,,2026-03-13T02:34:12.894Z
+69b408534d131046e2d286d4,c65782eb-60af-459a-b503-5438d97de392,(reading test sample - 2)4Word2,(reading test sample - 2)4Word2,Word,Ekstep,en,live,ASER|set2|m2,,,,,,,,,,,2026-03-13T02:34:12.902Z
+69c3ab5d567a8e4ae5997231,aca41722-3f1e-45eb-a563-4d79c27aa50e,(reading sample - 2)Word2,(reading sample - 2)Word2,Word,Ekstep,ta,live,ASER|set2|m2,,,,,,,,,,,2026-03-25T02:33:42.091Z
+69c3ab75aeea2c5e49fffebc,42259cda-9db5-4b0d-8589-880eb7c949b5,(reading sample - 2)Word2,(reading sample - 2)Word2,Word,Ekstep,ta,live,ASER|set2|m2,,,,,,,,,,,2026-03-25T02:33:42.290Z
+69c3ab7c567a8e4ae5997233,1efb5897-9eb3-4e71-8fd2-892a505d0dc9,(reading sample - 2)Word2,(reading sample - 2)Word2,Word,Ekstep,ta,live,ASER|set2|m2,,,,,,,,,,,2026-03-25T02:33:42.091Z
+69c3ab86aeea2c5e49fffebe,e4ab8ac2-38c2-4dcc-83f1-654548629a50,(reading sample - 2)Word2,(reading sample - 2)Word2,Word,Ekstep,ta,live,ASER|set2|m2,,,,,,,,,,,2026-03-25T02:33:42.290Z
+69c3b99caeea2c5e49ffff2b,07971210-fcb0-478f-9710-43f37fb98fa2,(reading sample - 2)Word2,(reading sample - 2)Word2,Word,Ekstep,te,live,ASER|set2|m2,,,,,,,,,,,2026-03-25T02:33:42.290Z
+69c3b9a3567a8e4ae5997267,cfc532a1-2fba-439d-834d-d153c8c7d33e,(reading sample - 2)Word2,(reading sample - 2)Word2,Word,Ekstep,te,live,ASER|set2|m2,,,,,,,,,,,2026-03-25T02:33:42.091Z
+69c3b9acaeea2c5e49ffff2d,3fc7204a-de05-4e83-814e-8648d1b2a74d,(reading sample - 2)Word2,(reading sample - 2)Word2,Word,Ekstep,te,live,ASER|set2|m2,,,,,,,,,,,2026-03-25T02:33:42.290Z
+69c3b9b3567a8e4ae5997269,d78033a0-d14e-4dac-9dac-afbdc2ac75a6,(reading sample - 2)Word2,(reading sample - 2)Word2,Word,Ekstep,te,live,ASER|set2|m2,,,,,,,,,,,2026-03-25T02:33:42.091Z
+69c3c141aeea2c5e49ffff4f,b38fa83c-82f0-4ab4-9889-63bfd87a41d3,(reading sample - 2)Word2,(reading sample - 2)Word2,Word,Ekstep,kn,live,ASER|set2|m2,,,,,,,,,,,2026-03-25T02:33:42.290Z
+69c3c165567a8e4ae599728b,1ff67529-0b3d-44d5-9b2e-19cb38055d33,(reading sample - 2)Word2,(reading sample - 2)Word2,Word,Ekstep,kn,live,ASER|set2|m2,,,,,,,,,,,2026-03-25T02:33:42.091Z
+69c3c16daeea2c5e49ffff51,c280f485-f71c-4d36-8ddf-81ff1585306c,(reading sample - 2)Word2,(reading sample - 2)Word2,Word,Ekstep,kn,live,ASER|set2|m2,,,,,,,,,,,2026-03-25T02:33:42.290Z
+69c3c174567a8e4ae599728d,6c9a6588-bd2f-410e-9ccc-48b630986b0e,(reading sample - 2)Word2,(reading sample - 2)Word2,Word,Ekstep,kn,live,ASER|set2|m2,,,,,,,,,,,2026-03-25T02:33:42.091Z
+69c3cc1f567a8e4ae59972af,f18f2a47-b762-4798-a15f-9ba1202abc42,(reading sample - 2)Word2,(reading sample - 2)Word2,Word,Ekstep,hi,live,ASER|set2|m2,,,,,,,,,,,2026-03-25T02:33:42.091Z
+69c3cc3faeea2c5e49ffff74,cb2143b7-c991-4d9c-bc8f-fa593b731743,(reading sample - 2)Word2,(reading sample - 2)Word2,Word,Ekstep,hi,live,ASER|set2|m2,,,,,,,,,,,2026-03-25T02:33:42.290Z
+69c3cc46567a8e4ae59972b1,8cd631b3-fd13-406f-897a-8a6bd9f3c1d6,(reading sample - 2)Word2,(reading sample - 2)Word2,Word,Ekstep,hi,live,ASER|set2|m2,,,,,,,,,,,2026-03-25T02:33:42.091Z
+69c3cc4caeea2c5e49ffff76,4f3343b0-bdf4-4801-b4e5-89243629ccb6,(reading sample - 2)Word2,(reading sample - 2)Word2,Word,Ekstep,hi,live,ASER|set2|m2,,,,,,,,,,,2026-03-25T02:33:42.290Z
+69c3d3ee567a8e4ae59972d8,f9375cdb-c9e4-4df0-b884-2ff4679c7f10,(reading sample - 2)Word2,(reading sample - 2)Word2,Word,Ekstep,gu,live,ASER|set2|m2,,,,,,,,,,,2026-03-25T02:33:42.091Z
+69c3d457aeea2c5e49ffffaa,c163408f-c3be-4836-8b61-2d1f0cbbc765,(reading sample - 2)Word2,(reading sample - 2)Word2,Word,Ekstep,gu,live,ASER|set2|m2,,,,,,,,,,,2026-03-25T02:33:42.290Z
+69c3d45c567a8e4ae59972da,0023563e-12da-40a7-9549-8c735a2fb98f,(reading sample - 2)Word2,(reading sample - 2)Word2,Word,Ekstep,gu,live,ASER|set2|m2,,,,,,,,,,,2026-03-25T02:33:42.091Z
+69c3d463aeea2c5e49ffffac,586a483a-d299-4bde-8022-1ff476988543,(reading sample - 2)Word2,(reading sample - 2)Word2,Word,Ekstep,gu,live,ASER|set2|m2,,,,,,,,,,,2026-03-25T02:33:42.290Z
+69c3dcdcaeea2c5e49ffffcf,46ac2621-a0c4-4488-8328-85da8bd1a7da,(reading sample - 2)Word2,(reading sample - 2)Word2,Word,Ekstep,or,live,ASER|set2|m2,,,,,,,,,,,2026-03-25T02:33:42.290Z
+69c3dcf2567a8e4ae59972fe,f3b29ee3-c435-4d4a-a870-f18706296dd8,(reading sample - 2)Word2,(reading sample - 2)Word2,Word,Ekstep,or,live,ASER|set2|m2,,,,,,,,,,,2026-03-25T02:33:42.091Z
+69c3dcf9aeea2c5e49ffffd1,811ac935-a0af-43bb-bcee-93f2b604d221,(reading sample - 2)Word2,(reading sample - 2)Word2,Word,Ekstep,or,live,ASER|set2|m2,,,,,,,,,,,2026-03-25T02:33:42.290Z
+69c3dd00567a8e4ae5997300,7c38a405-5880-43a4-b3a3-e779c5f9ee57,(reading sample - 2)Word2,(reading sample - 2)Word2,Word,Ekstep,or,live,ASER|set2|m2,,,,,,,,,,,2026-03-25T02:33:42.091Z
+69d4f69543b65201a064804e,4f10c394-0577-4995-bec4-1384ecb9b7d3,Test,Test,Test,Test,Test,Test,Test,,,,,,,,,,,2026-04-07T01:33:46.658Z
+69d63d1744547b2fd149e17c,956fa2f9-ea7e-4585-b22b-692167ab27b8,New Hindi M1 content,New Hindi M1 content,Word,Ekstep,hi,live,,,,,,,,,,,,2026-04-08T01:33:32.486Z
+69d73e86670926847221d052,7cceaa56-8f45-4a49-85d5-9e6ebe7e8c69,New Hindi M2 content,New Hindi M2 content,Word,Ekstep,hi,live,,,,,,,,,,,,2026-04-09T01:34:14.983Z
+69e8772ed6b79b1a49b52bc6,441ec8cd-4905-4af4-ada5-3eb7d5365c65,test_collection,test_collection,Sentence,Ekstep,kn,live,,,,,,,,,,,,2026-04-22T05:23:44.892Z
+69e880c7bc0d50b3a9b4e88d,cf911bbb-a798-4f44-a238-656f80414a8d,kannada read along m4 to m6,kannada read along m4 to m6,Sentence,Ekstep,kn,live,,,,,,,,,,,,2026-04-22T05:23:44.891Z
+69e8844fd6b79b1a49b52c46,90f654f9-eb3d-4a4b-8e72-94cecd1e28d5,kannada read along m4 to m6,kannada read along m4 to m6,Sentence,Ekstep,kn,live,,,,,,,,,,,,2026-04-22T05:23:44.892Z
+69ea0b5913908b3d80ab8b37,fa56d8ea-62fe-498d-8f02-fa868dc22f92,Kannada m7 to M9 readalong,Kannada m7 to M9 readalong,Paragraph,Ekstep,kn,live,,,,,,,,,,,,2026-04-23T01:33:49.771Z
+69f879290a2be3f28188f474,2c3fbac1-ecb6-4464-908d-30753f9fa4db,2026_En_M7_To_M9_MECH,2026_En_M7_To_M9_MECH,Sentence,Ekstep,hi,live,,,,,,,,,,,,2026-05-03T01:34:16.099Z
+69f8a136cf4946d235a499a3,81092fcd-a261-416b-a5c0-3ce83383186e,KN_M4-M6_MECH,KN_M4-M6_MECH,Sentence,Ekstep,kn,live,,,,,,,,,,,,2026-05-03T01:34:16.409Z
+69fad9fe245ea0aba052b814,6e4c74c6-00d2-46ba-90f0-5baaa4ba992d,HI_M7-M9_MECH,HI_M7-M9_MECH,Paragraph,Ekstep,hi,live,,,,,,,,,,,,2026-05-06T01:34:18.858Z
+69fb10149c807bc6072aeef6,9e2d9b29-5f0d-4f22-99c7-9c36b22224c5,2026_En_M7_To_M9_MECH,2026_En_M7_To_M9_MECH,Paragraph,Ekstep,en,live,,,,,,,,,,,,2026-05-06T01:34:19.359Z
+69fb2e3666837dc8bbc226e9,6fb391a3-f654-4a37-bf81-73cdaa4b9202,KN_M7-M9_MECH,KN_M7-M9_MECH,Paragraph,Ekstep,kn,live,,,,,,,,,,,,2026-05-06T01:34:19.054Z
+69fb33aec5221c5660cd3d14,8de5f710-6a3c-4921-985e-2808c5f0c196,KN_M7-M9_MECH,KN_M7-M9_MECH,Paragraph,Ekstep,kn,live,,,,,,,,,,,,2026-05-06T01:34:19.284Z
+69fb4b49c5221c5660cd3d54,49000836-babb-43f6-82d6-e17638bea1b0,Hi M4 - M9 ReadAlong,Hi M4 - M9 ReadAlong,Paragraph,Ekstep,hi,live,,,,,,,,,,,,2026-05-06T01:34:19.284Z
+6a01a4beaf4d4c59920dd617,6826deb1-7f14-4805-b34c-f5171ac635d9,Extra_KN_M7-M9_MECH,Extra_KN_M7-M9_MECH,Paragraph,Ekstep,kn,live,,,,,,,,,,,,2026-05-11T02:34:52.721Z
+6a01c47daf4d4c59920dd619,4bd207c4-a561-44e0-992d-573a1d2e14e1,TE_M6_MECH_EXTRA,TE_M6_MECH_EXTRA,Sentence,Ekstep,te,live,,,,,,,,,,,,2026-05-11T02:34:52.721Z
+6a01c54d52a22b0537498da2,12d84e9a-c49f-4726-9e62-cf6c344636e9,TE_M6_MECH_EXTRA,TE_M6_MECH_EXTRA,Sentence,Ekstep,te,live,,,,,,,,,,,,2026-05-11T02:34:52.200Z
+6a04585c3310f761dfefdd39,48de5e7d-a35b-4f35-938c-f7cf281a6fa0,HIndi Read Along,HIndi Read Along,Sentence,Ekstep,hi,live,,,,,,,,,,,,2026-05-13T02:34:48.303Z
+6a056ba5182add45b3e9f64e,c070dc0c-affb-4e67-a382-c68ee6306cc7,M7-M9 New Paras,M7-M9 New Paras,Paragraph,Ekstep,en,live,,,,,,,,,,,,2026-05-14T02:34:49.703Z
+6a058ebdde34fab13db02567,0956c52f-af94-4db8-9966-9e1b03c5f42c,M4toM6EnglishSentence,M4toM6EnglishSentence,Sentence,Ekstep,en,live,,,,,,,,,,,,2026-05-14T02:34:50.485Z
+6a06e661545107ef1671beb5,e18f81e7-2082-4310-b582-fa58d7e3b457,Exrta Mech,Exrta Mech,Paragraph,Ekstep,en,live,,,,,,,,,,,,2026-05-15T02:34:20.541Z
