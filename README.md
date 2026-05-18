@@ -1,4 +1,4 @@
-# Content Database
+# Content Tracker
 
 This repository holds the current state of the content, collection, and multilingual records, and a report for every sync that shows exactly what changed.
 
