@@ -5,3 +5,4 @@ __pycache__/
 _local/
 .tracker-config.json
 data/data_quality_warnings.csv
+.~lock.*
